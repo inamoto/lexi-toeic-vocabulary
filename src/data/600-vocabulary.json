@@ -1,0 +1,3152 @@
+[
+  {
+    "word": "audience",
+    "pos": "noun",
+    "meaning": "観客",
+    "definition": "A group of people within hearing; specifically, a large gathering of people listening to or watching a performance, speech, etc.",
+    "example": "We joined the audience just as the lights went down.",
+    "translation": "照明が落ちると同時に私たちも観客に加わりました。",
+    "level": 600
+  },
+  {
+    "word": "authority",
+    "pos": "noun",
+    "meaning": "権限",
+    "definition": "The power to enforce rules or give orders.",
+    "example": "I have the authority to penalise the staff in my department, but not the authority to sack them.",
+    "translation": "私には自分の部門のスタッフに罰則を与える権限はありますが、解雇する権限はありません。",
+    "level": 600
+  },
+  {
+    "word": "average",
+    "pos": "noun",
+    "meaning": "平均",
+    "definition": "The arithmetic mean.",
+    "example": "The average of 10, 20 and 24 is (10 + 20 + 24)/3 = 18.",
+    "translation": "10、20、24 の平均は、(10 + 20 + 24)/3 = 18 となります。",
+    "level": 600
+  },
+  {
+    "word": "budget",
+    "pos": "noun",
+    "meaning": "予算",
+    "definition": "The amount of money or resources earmarked for a particular institution, activity or time-frame.",
+    "example": "The report included information about the budget.",
+    "translation": "報告書には予算に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "career",
+    "pos": "noun",
+    "meaning": "キャリア",
+    "definition": "One's calling in life; a person's occupation; one's profession.",
+    "example": "The report included information about the career.",
+    "translation": "報告書にはキャリアに関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "colleague",
+    "pos": "noun",
+    "meaning": "同僚",
+    "definition": "A fellow member of a profession, staff, academic faculty or other organization; an associate.",
+    "example": "The report included information about the colleague.",
+    "translation": "報告書には同僚に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "commerce",
+    "pos": "noun",
+    "meaning": "商業",
+    "definition": "The exchange or buying and selling of commodities; especially the exchange of merchandise, on a large scale, between different places or communities; extended trade or traffic.",
+    "example": "The report included information about the commerce.",
+    "translation": "報告書には商業に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "commission",
+    "pos": "noun",
+    "meaning": "手数料",
+    "definition": "A sending or mission (to do or accomplish something).",
+    "example": "The report included information about the commission.",
+    "translation": "報告書には委員会に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "committee",
+    "pos": "noun",
+    "meaning": "委員会",
+    "definition": "A body of one or more persons convened for the accomplishment of some specific purpose, typically with formal protocols.",
+    "example": "The report included information about the committee.",
+    "translation": "報告書には委員会に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "complaint",
+    "pos": "noun",
+    "meaning": "苦情",
+    "definition": "The act of complaining.",
+    "example": "The report included information about the complaint.",
+    "translation": "報告書には苦情に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "customer",
+    "pos": "noun",
+    "meaning": "お客様",
+    "definition": "A patron, a client; one who purchases or receives a product or service from a business or merchant, or intends to do so.",
+    "example": "Every person who passes by is a potential customer.",
+    "translation": "通り過ぎる人はすべて潜在的な顧客です。",
+    "level": 600
+  },
+  {
+    "word": "decision",
+    "pos": "noun",
+    "meaning": "決断",
+    "definition": "The act of deciding.",
+    "example": "The report included information about the decision.",
+    "translation": "報告書にはこの決定に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "demand",
+    "pos": "noun",
+    "meaning": "要求",
+    "definition": "The desire to purchase goods and services.",
+    "example": "Prices usually go up when demand exceeds supply.",
+    "translation": "通常、需要が供給を上回ると価格は上昇します。",
+    "level": 600
+  },
+  {
+    "word": "department",
+    "pos": "noun",
+    "meaning": "部門",
+    "definition": "A part, portion, or subdivision.",
+    "example": "The report included information about the department.",
+    "translation": "報告書には同部門に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "document",
+    "pos": "noun",
+    "meaning": "書類",
+    "definition": "An original or official paper used as the basis, proof, or support of anything else, including any writing, book, or other instrument conveying information pertinent to such proof or support.",
+    "example": "The report included information about the document.",
+    "translation": "報告書には文書に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "expense",
+    "pos": "noun",
+    "meaning": "費用",
+    "definition": "A spending or consuming, often a disbursement of funds.",
+    "example": "Buying the car was a big expense, but will be worth it in the long run.",
+    "translation": "車の購入には大きな出費がかかりましたが、長い目で見ればそれだけの価値はあります。",
+    "level": 600
+  },
+  {
+    "word": "function",
+    "pos": "noun",
+    "meaning": "関数",
+    "definition": "What something does or is used for.",
+    "example": "The report included information about the function.",
+    "translation": "レポートには機能に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "industry",
+    "pos": "noun",
+    "meaning": "業界",
+    "definition": "(countable, business, economics) Businesses of the same type, considered as a whole. Trade.",
+    "example": "The report included information about the industry.",
+    "translation": "レポートには業界に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "instruction",
+    "pos": "noun",
+    "meaning": "命令",
+    "definition": "The act of instructing, teaching, or furnishing with information or knowledge.",
+    "example": "Instruction will be provided on how to handle difficult customers.",
+    "translation": "扱いにくいお客様への対応方法も丁寧に指導させていただきます。",
+    "level": 600
+  },
+  {
+    "word": "interview",
+    "pos": "noun",
+    "meaning": "インタビュー",
+    "definition": "An official face-to-face meeting of monarchs or other important figures.",
+    "example": "The report included information about the interview.",
+    "translation": "報告書にはインタビューに関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "issue",
+    "pos": "noun",
+    "meaning": "問題",
+    "definition": "The action or an instance of flowing or coming out, an outflow, particularly:",
+    "example": "The report included information about the issue.",
+    "translation": "レポートにはこの問題に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "item",
+    "pos": "noun",
+    "meaning": "アイテム",
+    "definition": "A distinct physical object.",
+    "example": "Tweezers are great for manipulating small items.",
+    "translation": "ピンセットは小さなアイテムを扱うのに最適です。",
+    "level": 600
+  },
+  {
+    "word": "location",
+    "pos": "noun",
+    "meaning": "位置",
+    "definition": "A particular point or place in physical space.",
+    "example": "The report included information about the location.",
+    "translation": "報告書にはその場所に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "management",
+    "pos": "noun",
+    "meaning": "管理",
+    "definition": "Administration; the use of limited resources combined with forecasting, planning, leadership and execution skills to achieve predetermined specific goals.",
+    "example": "The report included information about the management.",
+    "translation": "報告書には経営陣に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "manager",
+    "pos": "noun",
+    "meaning": "マネージャー",
+    "definition": "A person whose job is to manage something, such as a business, a restaurant, or a sports team.",
+    "example": "The report included information about the manager.",
+    "translation": "報告書にはマネージャーに関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "market",
+    "pos": "noun",
+    "meaning": "市場",
+    "definition": "A gathering of people for the purchase and sale of merchandise at a set time, often periodic.",
+    "example": "The privilege to hold a weekly market was invaluable for any feudal era burgh.",
+    "translation": "毎週市場を開催する特権は、封建時代の貴族にとって非常に貴重なものでした。",
+    "level": 600
+  },
+  {
+    "word": "material",
+    "pos": "noun",
+    "meaning": "材料",
+    "definition": "Matter which may be shaped or manipulated, particularly in making something.",
+    "example": "Asphalt, composed of oil and sand, is a widely used material for roads.",
+    "translation": "アスファルトは油と砂から構成され、道路に広く使用されている材料です。",
+    "level": 600
+  },
+  {
+    "word": "method",
+    "pos": "noun",
+    "meaning": "方法",
+    "definition": "A process by which a task is completed; a way of doing something (followed by the adposition of, to or for before the purpose of the process):",
+    "example": "If one method doesn't work, you should ask a friend to help you.",
+    "translation": "1 つの方法がうまくいかない場合は、友人に手伝ってもらう必要があります。",
+    "level": 600
+  },
+  {
+    "word": "notice",
+    "pos": "noun",
+    "meaning": "知らせ",
+    "definition": "The act of observing; perception.",
+    "example": "He took no notice of the changes, and went on as though nothing had happened.",
+    "translation": "彼は変化に気付かず、何事もなかったかのように続けた。",
+    "level": 600
+  },
+  {
+    "word": "option",
+    "pos": "noun",
+    "meaning": "オプション",
+    "definition": "One of a set of choices that can be made.",
+    "example": "The report included information about the option.",
+    "translation": "レポートにはオプションに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "participant",
+    "pos": "noun",
+    "meaning": "参加者",
+    "definition": "One who participates.",
+    "example": "All participants must adhere to the rules of the competition.",
+    "translation": "すべての参加者は競技規則に従わなければなりません。",
+    "level": 600
+  },
+  {
+    "word": "permission",
+    "pos": "noun",
+    "meaning": "許可",
+    "definition": "Authorisation; consent (especially formal consent from someone in authority)",
+    "example": "Sire, do I have your permission to execute this traitor?",
+    "translation": "閣下、この裏切り者を処刑する許可をいただけますか？",
+    "level": 600
+  },
+  {
+    "word": "process",
+    "pos": "noun",
+    "meaning": "プロセス",
+    "definition": "A series of events which produce a result (the product).",
+    "example": "This product of last month's quality standards committee is quite good, even though the process was flawed.",
+    "translation": "先月の品質基準委員会のこの製品は、プロセスに欠陥があったにもかかわらず、非常に優れています。",
+    "level": 600
+  },
+  {
+    "word": "progress",
+    "pos": "noun",
+    "meaning": "進捗",
+    "definition": "Movement or advancement through a series of events, or points in time; development through time.",
+    "example": "Testing for the new antidote is currently in progress.",
+    "translation": "新しい解毒剤のテストは現在進行中です。",
+    "level": 600
+  },
+  {
+    "word": "project",
+    "pos": "noun",
+    "meaning": "プロジェクト",
+    "definition": "A planned endeavor, usually with a specific goal and accomplished in several steps or stages.",
+    "example": "The report included information about the project.",
+    "translation": "レポートにはプロジェクトに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "quality",
+    "pos": "noun",
+    "meaning": "品質",
+    "definition": "Level of excellence.",
+    "example": "Quality of life is usually determined by health, education, and income.",
+    "translation": "生活の質は通常、健康、教育、収入によって決まります。",
+    "level": 600
+  },
+  {
+    "word": "quantity",
+    "pos": "noun",
+    "meaning": "量",
+    "definition": "A fundamental, generic term used when referring to the measurement (count, amount) of a scalar, vector, number of items or to some other way of denominating the value of a collection or group of items.",
+    "example": "You have to choose between quantity and quality.",
+    "translation": "量と質のどちらかを選択する必要があります。",
+    "level": 600
+  },
+  {
+    "word": "quarter",
+    "pos": "noun",
+    "meaning": "四半期",
+    "definition": "A fourth part of something.",
+    "example": "The report included information about the quarter.",
+    "translation": "レポートには、この四半期に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "request",
+    "pos": "noun",
+    "meaning": "リクエスト",
+    "definition": "Act of requesting (with the adposition at in the presence of possessives, and on in their absence).",
+    "example": "The report included information about the request.",
+    "translation": "報告書には要請に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "responsibility",
+    "pos": "noun",
+    "meaning": "責任",
+    "definition": "A duty, obligation or liability for which someone is held accountable.",
+    "example": "The report included information about the responsibility.",
+    "translation": "報告書には責任に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "target",
+    "pos": "noun",
+    "meaning": "ターゲット",
+    "definition": "A butt or mark to shoot at, as for practice, or to test the accuracy of a firearm, or the force of a projectile.",
+    "example": "Take careful aim at the target.",
+    "translation": "ターゲットを注意深く狙ってください。",
+    "level": 600
+  },
+  {
+    "word": "teamwork",
+    "pos": "noun",
+    "meaning": "チームワーク",
+    "definition": "The cooperative effort of a team of people to achieve a common goal.",
+    "example": "The report included information about the teamwork.",
+    "translation": "レポートにはチームワークに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "training",
+    "pos": "verb",
+    "meaning": "トレーニング",
+    "definition": "To practice an ability.",
+    "example": "She trained seven hours a day to prepare for the Olympics.",
+    "translation": "彼女はオリンピックに備えて1日7時間トレーニングした。",
+    "level": 600
+  },
+  {
+    "word": "variety",
+    "pos": "noun",
+    "meaning": "バラエティ",
+    "definition": "The quality of being varied; diversity.",
+    "example": "Variety is the spice of life.",
+    "translation": "多様性は人生のスパイスです。",
+    "level": 600
+  },
+  {
+    "word": "alternative",
+    "pos": "noun",
+    "meaning": "代替",
+    "definition": "A situation which allows a mutually exclusive choice between two or more possibilities; a choice between two or more possibilities.",
+    "example": "The report included information about the alternative.",
+    "translation": "レポートには代替案に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "uniform",
+    "pos": "noun",
+    "meaning": "ユニフォーム",
+    "definition": "A distinctive outfit that serves to identify members of a group.",
+    "example": "The report included information about the uniform.",
+    "translation": "報告書にはユニフォームに関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "withdrawal",
+    "pos": "noun",
+    "meaning": "撤退",
+    "definition": "A type of metabolic shock the body undergoes when a substance (such as a drug) on which a patient is dependent is withheld.",
+    "example": "The report included information about the withdrawal.",
+    "translation": "報告書には撤退に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "availability",
+    "pos": "noun",
+    "meaning": "可用性",
+    "definition": "The quality of being available.",
+    "example": "What is your availability this week?",
+    "translation": "今週の空き状況は何ですか?",
+    "level": 600
+  },
+  {
+    "word": "consent",
+    "pos": "noun",
+    "meaning": "同意",
+    "definition": "Voluntary agreement or permission.",
+    "example": "The report included information about the consent.",
+    "translation": "報告書には同意に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "correction",
+    "pos": "noun",
+    "meaning": "修正",
+    "definition": "The act of correcting.",
+    "example": "The report included information about the correction.",
+    "translation": "報告書には修正に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "criterion",
+    "pos": "noun",
+    "meaning": "基準",
+    "definition": "A standard or test by which individual things or people may be compared and judged.",
+    "example": "Criterion of choice, of decision, of selection",
+    "translation": "選択、決定、選択の基準",
+    "level": 600
+  },
+  {
+    "word": "contribution",
+    "pos": "noun",
+    "meaning": "貢献",
+    "definition": "Something given or offered that adds to a larger whole.",
+    "example": "The report included information about the contribution.",
+    "translation": "報告書には貢献に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "deposit",
+    "pos": "noun",
+    "meaning": "デポジット",
+    "definition": "Sediment or rock that is not native to its present location or is different from the surrounding material. Sometimes refers to ore or gems.",
+    "example": "The report included information about the deposit.",
+    "translation": "報告書には預金に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "dispute",
+    "pos": "noun",
+    "meaning": "紛争",
+    "definition": "An argument or disagreement, a failure to agree.",
+    "example": "The report included information about the dispute.",
+    "translation": "報告書には紛争に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "documentation",
+    "pos": "noun",
+    "meaning": "ドキュメント",
+    "definition": "Something transposed from a thought to a document; the written account of an idea.",
+    "example": "The report included information about the documentation.",
+    "translation": "レポートには文書に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "donation",
+    "pos": "noun",
+    "meaning": "寄付",
+    "definition": "A voluntary gift or contribution for a specific cause.",
+    "example": "They were collecting donations for the elderly at Christmas.",
+    "translation": "彼らはクリスマスにお年寄りのために寄付を集めていました。",
+    "level": 600
+  },
+  {
+    "word": "feedback",
+    "pos": "noun",
+    "meaning": "フィードバック",
+    "definition": "Critical assessment of a process or activity or of their results.",
+    "example": "After you hand in your essays, I will give both grades and feedback.",
+    "translation": "エッセイを提出していただいた後、採点とフィードバックを差し上げます。",
+    "level": 600
+  },
+  {
+    "word": "fulfillment",
+    "pos": "noun",
+    "meaning": "充実感",
+    "definition": "US spelling of fulfilment. [The act of fulfilling or the state or quality of being fulfilled; consummation; completion; realization.]",
+    "example": "The report included information about the fulfillment.",
+    "translation": "レポートには履行に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "lease",
+    "pos": "verb",
+    "meaning": "リース",
+    "definition": "(chiefly dialectal) To gather.",
+    "example": "The report included information about the lease.",
+    "translation": "レポートにはリースに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "payment",
+    "pos": "noun",
+    "meaning": "支払い",
+    "definition": "The act of paying.",
+    "example": "The report included information about the payment.",
+    "translation": "報告書には支払いに関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "profit",
+    "pos": "noun",
+    "meaning": "利益",
+    "definition": "Total income or cash flow minus expenditures. The money or other benefit a non-governmental organization or individual receives in exchange for products and services sold at an advertised price.",
+    "example": "The report included information about the profit.",
+    "translation": "レポートには利益に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "submission",
+    "pos": "noun",
+    "meaning": "提出",
+    "definition": "The act of submitting or giving e.g. a completed piece of work.",
+    "example": "The report included information about the submission.",
+    "translation": "レポートには提出物に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "substitute",
+    "pos": "noun",
+    "meaning": "代わりの",
+    "definition": "A replacement or stand-in for something that achieves a similar result or purpose.",
+    "example": "The report included information about the substitute.",
+    "translation": "報告書には代役に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "validity",
+    "pos": "noun",
+    "meaning": "有効",
+    "definition": "The state of being valid, authentic or genuine.",
+    "example": "The report included information about the validity.",
+    "translation": "レポートには有効性に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "salary",
+    "pos": "noun",
+    "meaning": "給料",
+    "definition": "A fixed amount of money paid to a worker, usually calculated on a monthly or annual basis, not hourly, as wages. Implies a degree of professionalism and/or autonomy.",
+    "example": "The report included information about the salary.",
+    "translation": "報告書には給与に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "bonus",
+    "pos": "noun",
+    "meaning": "ボーナス",
+    "definition": "Something extra that is good; an added benefit.",
+    "example": "The report included information about the bonus.",
+    "translation": "レポートにはボーナスに関する情報も含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "cargo",
+    "pos": "noun",
+    "meaning": "貨物",
+    "definition": "Freight carried by a ship, aircraft, or motor vehicle.",
+    "example": "The report included information about the cargo.",
+    "translation": "報告書には貨​​物に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "package",
+    "pos": "noun",
+    "meaning": "パッケージ",
+    "definition": "Something which is packed, a parcel, a box, an envelope.",
+    "example": "The report included information about the package.",
+    "translation": "レポートにはパッケージに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "priority",
+    "pos": "noun",
+    "meaning": "優先度",
+    "definition": "An item's relative importance.",
+    "example": "He set his e-mail message's priority to high.",
+    "translation": "彼は電子メール メッセージの優先度を高く設定しました。",
+    "level": 600
+  },
+  {
+    "word": "product",
+    "pos": "noun",
+    "meaning": "製品",
+    "definition": "A commodity offered for sale.",
+    "example": "That store offers a variety of products.  We've got to sell a lot of product by the end of the month.",
+    "translation": "あの店はさまざまな商品を扱っています。  私たちは月末までにたくさんの商品を売らなければなりません。",
+    "level": 600
+  },
+  {
+    "word": "stock",
+    "pos": "noun",
+    "meaning": "ストック",
+    "definition": "A store or supply.",
+    "example": "The report included information about the stock.",
+    "translation": "レポートには株式に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "volume",
+    "pos": "noun",
+    "meaning": "音量",
+    "definition": "A three-dimensional measure of space that comprises a length, a width and a height. It is measured in units of cubic centimeters in metric, cubic inches or cubic feet in English measurement.",
+    "example": "The room is 9x12x8, so its volume is 864 cubic feet.",
+    "translation": "部屋は 9x12x8 なので、容積は 864 立方フィートです。",
+    "level": 600
+  },
+  {
+    "word": "allowance",
+    "pos": "noun",
+    "meaning": "手当",
+    "definition": "Permission; granting, conceding, or admitting",
+    "example": "The report included information about the allowance.",
+    "translation": "報告書には手当に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "analysis",
+    "pos": "noun",
+    "meaning": "分析",
+    "definition": "Decomposition into components in order to study (a complex thing, concept, theory etc.).",
+    "example": "The report included information about the analysis.",
+    "translation": "レポートには分析に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "analyst",
+    "pos": "noun",
+    "meaning": "アナリスト",
+    "definition": "Someone who analyzes.",
+    "example": "The report included information about the analyst.",
+    "translation": "報告書にはアナリストに関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "balance",
+    "pos": "noun",
+    "meaning": "バランス",
+    "definition": "A state in which opposing forces harmonise; equilibrium.",
+    "example": "The report included information about the balance.",
+    "translation": "レポートには残高に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "banking",
+    "pos": "noun",
+    "meaning": "銀行業",
+    "definition": "The business of managing a bank.",
+    "example": "The report included information about the banking.",
+    "translation": "報告書には銀行に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "billing",
+    "pos": "noun",
+    "meaning": "請求する",
+    "definition": "The tracking of bills and amounts owed; the department within an institution or business that deals with the tracking of bills and amounts owed.",
+    "example": "The report included information about the billing.",
+    "translation": "レポートには請求に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "board",
+    "pos": "noun",
+    "meaning": "ボード",
+    "definition": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.",
+    "example": "The report included information about the board.",
+    "translation": "報告書には理事会に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "broker",
+    "pos": "noun",
+    "meaning": "ブローカ",
+    "definition": "A mediator between a buyer and seller.",
+    "example": "The report included information about the broker.",
+    "translation": "報告書にはブローカーに関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "campaign",
+    "pos": "noun",
+    "meaning": "キャンペーン",
+    "definition": "A series of operations undertaken to achieve a set goal.",
+    "example": "The company is targeting children in their latest advertising campaign.",
+    "translation": "同社は最新の広告キャンペーンで子供をターゲットにしている。",
+    "level": 600
+  },
+  {
+    "word": "capital",
+    "pos": "noun",
+    "meaning": "資本",
+    "definition": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).",
+    "example": "The report included information about the capital.",
+    "translation": "報告書には首都に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "cash",
+    "pos": "noun",
+    "meaning": "現金",
+    "definition": "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions.",
+    "example": "After you bounced those checks last time, they want to be paid in cash.",
+    "translation": "前回小切手を返送した後、現金で支払いたいと考えています。",
+    "level": 600
+  },
+  {
+    "word": "challenge",
+    "pos": "noun",
+    "meaning": "チャレンジ",
+    "definition": "A confrontation; a dare.",
+    "example": "The report included information about the challenge.",
+    "translation": "レポートには、この挑戦​​に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "chart",
+    "pos": "noun",
+    "meaning": "チャート",
+    "definition": "A map.",
+    "example": "The report included information about the chart.",
+    "translation": "レポートにはチャートに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "claim",
+    "pos": "noun",
+    "meaning": "請求",
+    "definition": "A demand of ownership made for something.",
+    "example": "a claim of ownership",
+    "translation": "所有権の主張",
+    "level": 600
+  },
+  {
+    "word": "closing",
+    "pos": "verb",
+    "meaning": "閉店",
+    "definition": "(physical) To remove a gap.",
+    "example": "The report included information about the closing.",
+    "translation": "報告書には閉店に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "component",
+    "pos": "noun",
+    "meaning": "成分",
+    "definition": "A smaller, self-contained part of a larger entity. Often refers to a manufactured object that is part of a larger device.",
+    "example": "A CPU is a component of a computer.",
+    "translation": "CPU はコンピュータのコンポーネントです。",
+    "level": 600
+  },
+  {
+    "word": "compromise",
+    "pos": "noun",
+    "meaning": "妥協",
+    "definition": "The settlement of differences by arbitration or by consent reached by mutual concessions.",
+    "example": "The report included information about the compromise.",
+    "translation": "レポートには侵害に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "conclusion",
+    "pos": "noun",
+    "meaning": "結論",
+    "definition": "The end, finish, close or last part of something.",
+    "example": "The report included information about the conclusion.",
+    "translation": "報告書には結論に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "contact",
+    "pos": "noun",
+    "meaning": "接触",
+    "definition": "The act of touching physically; being in close association.",
+    "example": "The report included information about the contact.",
+    "translation": "報告書には連絡先に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "corporation",
+    "pos": "noun",
+    "meaning": "株式会社",
+    "definition": "A body corporate, created by law or under authority of law, having a continuous existence independent of the existences of its members, and powers and liabilities distinct from those of its members.",
+    "example": "The report included information about the corporation.",
+    "translation": "報告書には同社に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "credit",
+    "pos": "noun",
+    "meaning": "クレジット",
+    "definition": "Reliance on the truth of something said or done; faith; trust.",
+    "example": "The report included information about the credit.",
+    "translation": "報告書には信用に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "currency",
+    "pos": "noun",
+    "meaning": "通貨",
+    "definition": "Money or other items used to facilitate transactions.",
+    "example": "Wampum was used as a currency by Amerindians.",
+    "translation": "ワンパムはアメリカ先住民によって通貨として使用されました。",
+    "level": 600
+  },
+  {
+    "word": "franchise",
+    "pos": "noun",
+    "meaning": "フランチャイズ",
+    "definition": "The authorization granted by a company to sell or distribute its goods or services in a certain area.",
+    "example": "The report included information about the franchise.",
+    "translation": "レポートにはフランチャイズに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "fund",
+    "pos": "noun",
+    "meaning": "基金",
+    "definition": "A sum or source of money.",
+    "example": "a fund for the maintenance of underprivileged students",
+    "translation": "恵まれない学生を維持するための基金",
+    "level": 600
+  },
+  {
+    "word": "grant",
+    "pos": "noun",
+    "meaning": "付与",
+    "definition": "(ditransitive) To give (permission or wish).",
+    "example": "The report included information about the grant.",
+    "translation": "報告書には助成金に関する情報も含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "index",
+    "pos": "noun",
+    "meaning": "索引",
+    "definition": "An alphabetical listing of items and their location.",
+    "example": "The index of a book lists words or expressions and the pages of the book upon which they are to be found.",
+    "translation": "本の索引には、単​​語や表現と、それらが掲載されている本のページがリストされています。",
+    "level": 600
+  },
+  {
+    "word": "interest",
+    "pos": "noun",
+    "meaning": "興味",
+    "definition": "The price paid for obtaining, or price received for providing, money or goods in a credit transaction, calculated as a fraction of the amount or value of what was borrowed.",
+    "example": "Our bank offers borrowers an annual interest of 5%.",
+    "translation": "私たちの銀行は借り手に年利 5% を提供します。",
+    "level": 600
+  },
+  {
+    "word": "maximum",
+    "pos": "noun",
+    "meaning": "最大",
+    "definition": "The highest limit",
+    "example": "The report included information about the maximum.",
+    "translation": "レポートには最大値に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "occupation",
+    "pos": "noun",
+    "meaning": "職業",
+    "definition": "An activity or task with which one occupies oneself; usually specifically the productive activity, service, trade, or craft for which one is regularly paid; a job.",
+    "example": "The report included information about the occupation.",
+    "translation": "報告書には職業に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "overtime",
+    "pos": "noun",
+    "meaning": "時間とともに",
+    "definition": "Working time outside of one's regular hours.",
+    "example": "Workers are usually paid extra for working overtime.",
+    "translation": "労働者は通常、時間外労働に対して追加賃金を支払われます。",
+    "level": 600
+  },
+  {
+    "word": "restriction",
+    "pos": "noun",
+    "meaning": "制限",
+    "definition": "The act of restricting, or the state of being restricted.",
+    "example": "The report included information about the restriction.",
+    "translation": "レポートには制限に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "risk",
+    "pos": "noun",
+    "meaning": "リスク",
+    "definition": "(uncountable) The probability of a negative outcome to a decision or event.",
+    "example": "The report included information about the risk.",
+    "translation": "報告書にはリスクに関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "statistic",
+    "pos": "noun",
+    "meaning": "統計",
+    "definition": "A quantity calculated from the data in a sample, which characterises an important aspect in the sample (such as mean or standard deviation).",
+    "example": "The report included information about the statistic.",
+    "translation": "レポートには統計に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "storage",
+    "pos": "noun",
+    "meaning": "ストレージ",
+    "definition": "The act of storing goods; the state of being stored.",
+    "example": "There's a lot of storage space in the loft.",
+    "translation": "ロフトには収納スペースがたくさんあります。",
+    "level": 600
+  },
+  {
+    "word": "trend",
+    "pos": "noun",
+    "meaning": "傾向",
+    "definition": "An inclination in a particular direction.",
+    "example": "the trend of a coastline",
+    "translation": "海岸線の傾向",
+    "level": 600
+  },
+  {
+    "word": "acquire",
+    "pos": "verb",
+    "meaning": "取得する",
+    "definition": "To get.",
+    "example": "The manager will acquire the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書を入手します。",
+    "level": 600
+  },
+  {
+    "word": "adjust",
+    "pos": "verb",
+    "meaning": "調整する",
+    "definition": "To modify.",
+    "example": "Morimoto's recipes are adjusted to suit the American palate.",
+    "translation": "森本のレシピはアメリカ人の味覚に合わせて調整されています。",
+    "level": 600
+  },
+  {
+    "word": "advertise",
+    "pos": "verb",
+    "meaning": "宣伝する",
+    "definition": "To give (especially public) notice of (something); to announce publicly.",
+    "example": "The manager will advertise the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を宣伝します。",
+    "level": 600
+  },
+  {
+    "word": "application",
+    "pos": "noun",
+    "meaning": "応用",
+    "definition": "The act of applying or laying on, in a literal sense",
+    "example": "The application of this cream should reduce the swelling.",
+    "translation": "このクリームを塗ると腫れが軽減されるはずです。",
+    "level": 600
+  },
+  {
+    "word": "approximate",
+    "pos": "verb",
+    "meaning": "近似",
+    "definition": "To estimate.",
+    "example": "The report included information about the approximate.",
+    "translation": "レポートには、おおよその情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "assembly",
+    "pos": "noun",
+    "meaning": "組み立て",
+    "definition": "A set of pieces that work together in unison as a mechanism or device.",
+    "example": "In order to change the bearing, you must first remove the gearbox assembly.",
+    "translation": "ベアリングを交換するには、まずギアボックス アセンブリを取り外す必要があります。",
+    "level": 600
+  },
+  {
+    "word": "circulation",
+    "pos": "noun",
+    "meaning": "循環",
+    "definition": "The act of passing from place to place or person to person; free diffusion; transmission.",
+    "example": "The report included information about the circulation.",
+    "translation": "レポートには発行部数に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "clarification",
+    "pos": "noun",
+    "meaning": "明確化",
+    "definition": "The act of freeing from obscurities; disambiguation.",
+    "example": "The report included information about the clarification.",
+    "translation": "報告書には解明に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "collaboration",
+    "pos": "noun",
+    "meaning": "コラボレーション",
+    "definition": "(uncountable) The act of collaborating.",
+    "example": "The report included information about the collaboration.",
+    "translation": "レポートにはコラボレーションに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "collection",
+    "pos": "noun",
+    "meaning": "コレクション",
+    "definition": "A set of items or amount of material procured or gathered together.",
+    "example": "The asteroid belt consists of a collection of dust, rubble, and minor planets.",
+    "translation": "小惑星帯は塵、瓦礫、小惑星の集合体で構成されています。",
+    "level": 600
+  },
+  {
+    "word": "communication",
+    "pos": "noun",
+    "meaning": "コミュニケーション",
+    "definition": "The act or fact of communicating anything; transmission.",
+    "example": "communication of a secret",
+    "translation": "秘密のコミュニケーション",
+    "level": 600
+  },
+  {
+    "word": "comparison",
+    "pos": "noun",
+    "meaning": "比較",
+    "definition": "The act of comparing or the state or process of being compared.",
+    "example": "The report included information about the comparison.",
+    "translation": "レポートには比較に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "compensation",
+    "pos": "noun",
+    "meaning": "補償",
+    "definition": "The act or principle of compensating.",
+    "example": "The report included information about the compensation.",
+    "translation": "報告書には補償金に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "competition",
+    "pos": "noun",
+    "meaning": "競争",
+    "definition": "The action of competing.",
+    "example": "The competition for this job is strong.",
+    "translation": "この仕事の競争は激しいです。",
+    "level": 600
+  },
+  {
+    "word": "completion",
+    "pos": "noun",
+    "meaning": "完了",
+    "definition": "The act or state of being or making something complete; conclusion, accomplishment.",
+    "example": "The report included information about the completion.",
+    "translation": "報告書には完成に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "confirmation",
+    "pos": "noun",
+    "meaning": "確認",
+    "definition": "A verification that something is true or has happened.",
+    "example": "The report included information about the confirmation.",
+    "translation": "報告書には確認に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "consultation",
+    "pos": "noun",
+    "meaning": "相談",
+    "definition": "An appointment or meeting with a professional person, such as a doctor.",
+    "example": "The report included information about the consultation.",
+    "translation": "報告書には協議に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "conversion",
+    "pos": "noun",
+    "meaning": "変換",
+    "definition": "The act of converting something or someone.",
+    "example": "The report included information about the conversion.",
+    "translation": "レポートには変換に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "cooperation",
+    "pos": "noun",
+    "meaning": "協力",
+    "definition": "(usually uncountable) The act of cooperating.",
+    "example": "The report included information about the cooperation.",
+    "translation": "報告書には協力に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "coordination",
+    "pos": "noun",
+    "meaning": "調整",
+    "definition": "The act of coordinating, making different people or things work together for a goal or effect.",
+    "example": "The report included information about the coordination.",
+    "translation": "報告書には調整に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "delivery",
+    "pos": "noun",
+    "meaning": "配達",
+    "definition": "The act of conveying something.",
+    "example": "The delivery was completed by four.",
+    "translation": "配達は4人で完了しました。",
+    "level": 600
+  },
+  {
+    "word": "demonstration",
+    "pos": "noun",
+    "meaning": "デモンストレーション",
+    "definition": "The act of demonstrating; showing or explaining something.",
+    "example": "The report included information about the demonstration.",
+    "translation": "報告書にはデモに関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "description",
+    "pos": "noun",
+    "meaning": "説明",
+    "definition": "A sketch or account of anything in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species.",
+    "example": "The report included information about the description.",
+    "translation": "報告書には説明に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "distribution",
+    "pos": "noun",
+    "meaning": "分布",
+    "definition": "An act of distributing or state of being distributed.",
+    "example": "The report included information about the distribution.",
+    "translation": "レポートには配布に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "efficiency",
+    "pos": "noun",
+    "meaning": "効率",
+    "definition": "The extent to which time is well used for the intended task.",
+    "example": "The efficiency of the planning department is deplorable.",
+    "translation": "企画部門の効率性は嘆かわしい。",
+    "level": 600
+  },
+  {
+    "word": "employment",
+    "pos": "noun",
+    "meaning": "雇用",
+    "definition": "The occupation or work for which one is used, and often paid.",
+    "example": "The report included information about the employment.",
+    "translation": "報告書には雇用に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "evaluation",
+    "pos": "noun",
+    "meaning": "評価",
+    "definition": "An assessment, such as an annual personnel performance review used as the basis for a salary increase or bonus, or a summary of a particular situation.",
+    "example": "The report included information about the evaluation.",
+    "translation": "報告書には評価に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "expansion",
+    "pos": "noun",
+    "meaning": "拡大",
+    "definition": "An act, process, or instance of expanding.",
+    "example": "The report included information about the expansion.",
+    "translation": "レポートには拡張に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "experience",
+    "pos": "noun",
+    "meaning": "経験",
+    "definition": "The effect upon the judgment or feelings produced by any event, whether witnessed or participated in; personal and direct impressions as contrasted with description or fancies; personal acquaintance; actual enjoyment or suffering.",
+    "example": "It was an experience he would not soon forget.",
+    "translation": "それは彼にとってすぐには忘れられない経験となった。",
+    "level": 600
+  },
+  {
+    "word": "explanation",
+    "pos": "noun",
+    "meaning": "説明",
+    "definition": "The act or process of explaining.",
+    "example": "The explanation was long and drawn-out.",
+    "translation": "説明が長くて長かった。",
+    "level": 600
+  },
+  {
+    "word": "extension",
+    "pos": "noun",
+    "meaning": "拡大",
+    "definition": "The act of extending; a stretching out; enlargement in length or breadth; an increase",
+    "example": "The report included information about the extension.",
+    "translation": "レポートには拡張機能に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "improvement",
+    "pos": "noun",
+    "meaning": "改善",
+    "definition": "The act of improving; advancement or growth; a bettering",
+    "example": "The report included information about the improvement.",
+    "translation": "レポートには改善に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "installation",
+    "pos": "noun",
+    "meaning": "インストール",
+    "definition": "An act of installing.",
+    "example": "The report included information about the installation.",
+    "translation": "レポートには、インストールに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "introduction",
+    "pos": "noun",
+    "meaning": "導入",
+    "definition": "The act or process of introducing.",
+    "example": "The report included information about the introduction.",
+    "translation": "報告書には導入に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "investigation",
+    "pos": "noun",
+    "meaning": "調査",
+    "definition": "The act of investigating; the process of inquiring into or following up; research, especially patient or thorough inquiry or examination",
+    "example": "The report included information about the investigation.",
+    "translation": "報告書には調査に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "manufacture",
+    "pos": "noun",
+    "meaning": "製造",
+    "definition": "The action or process of making goods systematically or on a large scale.",
+    "example": "The manager will manufacture the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書を作成します。",
+    "level": 600
+  },
+  {
+    "word": "observation",
+    "pos": "noun",
+    "meaning": "観察",
+    "definition": "The act of observing, and the fact of being observed (see observance)",
+    "example": "The report included information about the observation.",
+    "translation": "報告書には観察に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "operation",
+    "pos": "noun",
+    "meaning": "手術",
+    "definition": "The method by which a device performs its function.",
+    "example": "The report included information about the operation.",
+    "translation": "報告書には作戦に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "organization",
+    "pos": "noun",
+    "meaning": "組織",
+    "definition": "The quality of being organized.",
+    "example": "This painting shows little organization at first glance, but little by little the structure becomes clear.",
+    "translation": "この絵は一見組織性が乏しいですが、少しずつその構造が明らかになっていきます。",
+    "level": 600
+  },
+  {
+    "word": "participation",
+    "pos": "noun",
+    "meaning": "参加",
+    "definition": "The act of participating, of taking part in something.",
+    "example": "The report included information about the participation.",
+    "translation": "報告書には参加に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "performance",
+    "pos": "noun",
+    "meaning": "パフォーマンス",
+    "definition": "The act of performing; carrying into execution or action; execution; achievement; accomplishment; representation by action.",
+    "example": "the performance of an undertaking or a duty",
+    "translation": "事業または義務の遂行",
+    "level": 600
+  },
+  {
+    "word": "preparation",
+    "pos": "noun",
+    "meaning": "準備",
+    "definition": "The act of preparing or getting ready.",
+    "example": "The report included information about the preparation.",
+    "translation": "報告書には準備に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "production",
+    "pos": "noun",
+    "meaning": "生産",
+    "definition": "The act of producing, making or creating something.",
+    "example": "The widget making machine is being used for production now.",
+    "translation": "現在ウィジェット作成機を使用して制作中です。",
+    "level": 600
+  },
+  {
+    "word": "recommendation",
+    "pos": "noun",
+    "meaning": "おすすめ",
+    "definition": "An act of recommending.",
+    "example": "The report included information about the recommendation.",
+    "translation": "レポートには、推奨事項に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "reduction",
+    "pos": "noun",
+    "meaning": "削減",
+    "definition": "The act, process, or result of reducing.",
+    "example": "The report included information about the reduction.",
+    "translation": "報告書には削減に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "replacement",
+    "pos": "noun",
+    "meaning": "交換",
+    "definition": "A person or thing that takes the place of another; a substitute.",
+    "example": "The report included information about the replacement.",
+    "translation": "報告書には代替品に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "resolution",
+    "pos": "noun",
+    "meaning": "解決",
+    "definition": "A strong will, determination.",
+    "example": "The report included information about the resolution.",
+    "translation": "報告書には決議に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "response",
+    "pos": "noun",
+    "meaning": "応答",
+    "definition": "An answer or reply, or something in the nature of an answer or reply.",
+    "example": "The report included information about the response.",
+    "translation": "報告書には対応に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "retirement",
+    "pos": "noun",
+    "meaning": "退職",
+    "definition": "An act of retiring; withdrawal.",
+    "example": "The report included information about the retirement.",
+    "translation": "報告書には引退に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "revision",
+    "pos": "noun",
+    "meaning": "リビジョン",
+    "definition": "The action or process of reviewing, editing and amending.",
+    "example": "The report included information about the revision.",
+    "translation": "報告書には改訂に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "selection",
+    "pos": "noun",
+    "meaning": "選択",
+    "definition": "A process by which heritable traits conferring survival and reproductive advantage to individuals, or related individuals, tend to be passed on to succeeding generations and become more frequent in a population, whereas other less favourable traits tend to become eliminated; the differential survival and reproduction of phenotypes.",
+    "example": "The report included information about the selection.",
+    "translation": "報告書には選考に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "settlement",
+    "pos": "noun",
+    "meaning": "決済",
+    "definition": "A community of people living together, such as a hamlet, village, town, or city; a populated place.",
+    "example": "The report included information about the settlement.",
+    "translation": "報告書には和解に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "specification",
+    "pos": "noun",
+    "meaning": "仕様",
+    "definition": "An explicit set of requirements to be satisfied by a material, product, or service.",
+    "example": "The report included information about the specification.",
+    "translation": "レポートには仕様に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "supervision",
+    "pos": "noun",
+    "meaning": "監督",
+    "definition": "(uncountable) The act or instance of supervising.",
+    "example": "The report included information about the supervision.",
+    "translation": "報告書には監督に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "termination",
+    "pos": "noun",
+    "meaning": "終了",
+    "definition": "The process of terminating or the state of being terminated.",
+    "example": "The report included information about the termination.",
+    "translation": "報告書には解雇に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "transportation",
+    "pos": "noun",
+    "meaning": "交通機関",
+    "definition": "The act of transporting, or the state of being transported; conveyance, often of people, goods etc.",
+    "example": "We have to get people out of their cars and encourage them to use alternative forms of transportation.",
+    "translation": "私たちは人々を車から降ろし、代替交通手段を使用するよう奨励しなければなりません。",
+    "level": 600
+  },
+  {
+    "word": "verification",
+    "pos": "noun",
+    "meaning": "検証",
+    "definition": "The act or process of verifying.",
+    "example": "The report included information about the verification.",
+    "translation": "報告書には検証に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "violation",
+    "pos": "noun",
+    "meaning": "違反",
+    "definition": "The act or an instance of violating or the condition of being violated.",
+    "example": "The report included information about the violation.",
+    "translation": "報告書には違反に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "advisory",
+    "pos": "noun",
+    "meaning": "勧告",
+    "definition": "adj\tAble to give advice.",
+    "example": "The report included information about the advisory.",
+    "translation": "報告書には勧告に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "accurate",
+    "pos": "adjective",
+    "meaning": "正確な",
+    "definition": "Telling the truth or giving a true result; exact; not defective or faulty",
+    "example": "accurate knowledge",
+    "translation": "正確な知識",
+    "level": 600
+  },
+  {
+    "word": "active",
+    "pos": "noun",
+    "meaning": "アクティブ",
+    "definition": "A person or thing that is acting or capable of acting.",
+    "example": "The manager prepared a active report for the client.",
+    "translation": "マネージャーはクライアントのためにアクティブなレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "additional",
+    "pos": "noun",
+    "meaning": "追加",
+    "definition": "Something added.",
+    "example": "The manager prepared a additional report for the client.",
+    "translation": "マネージャーはクライアントのために追加のレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "advanced",
+    "pos": "verb",
+    "meaning": "高度な",
+    "definition": "To promote or advantage.",
+    "example": "The manager prepared a advanced report for the client.",
+    "translation": "マネージャーはクライアントのために詳細なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "apparent",
+    "pos": "adjective",
+    "meaning": "明らかな",
+    "definition": "Capable of being seen, or easily seen; open to view; visible to the eye, eyely; within sight or view.",
+    "example": "The manager prepared a apparent report for the client.",
+    "translation": "マネージャーはクライアントのために明らかな報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "capable",
+    "pos": "adjective",
+    "meaning": "有能",
+    "definition": "Able and efficient; having the ability needed for a specific task; having the disposition to do something; permitting or being susceptible to something.",
+    "example": "As everyone knew, he was capable of violence when roused.",
+    "translation": "誰もが知っていたように、彼は興奮すると暴力を振るうことができました。",
+    "level": 600
+  },
+  {
+    "word": "casual",
+    "pos": "noun",
+    "meaning": "カジュアル",
+    "definition": "A worker who is only working for a company occasionally, not as its permanent employee.",
+    "example": "The manager prepared a casual report for the client.",
+    "translation": "マネージャーはクライアントのためにカジュアルなレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "central",
+    "pos": "adjective",
+    "meaning": "中央",
+    "definition": "Being in the centre.",
+    "example": "The manager prepared a central report for the client.",
+    "translation": "マネージャーはクライアントのために集中レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "civil",
+    "pos": "adjective",
+    "meaning": "民事",
+    "definition": "Having to do with people and government office as opposed to the military or religion.",
+    "example": "She went into civil service because she wanted to help the people.",
+    "translation": "彼女は人々を助けたいと思って公務員になりました。",
+    "level": 600
+  },
+  {
+    "word": "complex",
+    "pos": "noun",
+    "meaning": "複雑な",
+    "definition": "A network of interconnected systems.",
+    "example": "The manager prepared a complex report for the client.",
+    "translation": "マネージャーはクライアントのために複雑なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "consistent",
+    "pos": "noun",
+    "meaning": "一貫性のある",
+    "definition": "(in the plural) Objects or facts that are coexistent, or in agreement with one another.",
+    "example": "The manager prepared a consistent report for the client.",
+    "translation": "マネージャーはクライアントのために一貫したレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "creative",
+    "pos": "noun",
+    "meaning": "クリエイティブ",
+    "definition": "A person directly involved in a creative marketing process.",
+    "example": "He is a visionary creative.",
+    "translation": "彼は先見の明のあるクリエイターです。",
+    "level": 600
+  },
+  {
+    "word": "current",
+    "pos": "noun",
+    "meaning": "現在",
+    "definition": "The generally unidirectional movement of a gas or fluid.",
+    "example": "The manager prepared a current report for the client.",
+    "translation": "マネージャーはクライアントのために現在のレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "defective",
+    "pos": "noun",
+    "meaning": "欠陥のある",
+    "definition": "A person or thing considered to be defective.",
+    "example": "The manager prepared a defective report for the client.",
+    "translation": "マネージャーはクライアントのために欠陥レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "direct",
+    "pos": "verb",
+    "meaning": "直接",
+    "definition": "To manage, control, steer.",
+    "example": "to direct the affairs of a nation or the movements of an army",
+    "translation": "国家の政務や軍の動きを指揮すること",
+    "level": 600
+  },
+  {
+    "word": "distant",
+    "pos": "adjective",
+    "meaning": "遠い",
+    "definition": "Far off (physically, logically or mentally).",
+    "example": "We heard a distant rumbling but didn't pay any more attention to it.   She was surprised to find that her fiancé was a distant relative of hers.   His distant look showed that he was not listening to me.",
+    "translation": "遠くで地鳴りが聞こえましたが、それ以上注意を払いませんでした。   彼女は自分の婚約者が自分の遠い親戚であることを知って驚いた。   彼の遠い目は、彼が私の話を聞いていないことを示していました。",
+    "level": 600
+  },
+  {
+    "word": "educational",
+    "pos": "noun",
+    "meaning": "教育的",
+    "definition": "A free (or low cost) trip for travel consultants, provided by a travel operator or airline as a means of promoting their service. A fam trip",
+    "example": "The manager prepared a educational report for the client.",
+    "translation": "マネージャーはクライアントのために教育レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "electronic",
+    "pos": "adjective",
+    "meaning": "電子",
+    "definition": ": Of or pertaining to an electron or electrons.",
+    "example": "The manager prepared a electronic report for the client.",
+    "translation": "マネージャーはクライアントのために電子レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "essential",
+    "pos": "noun",
+    "meaning": "不可欠",
+    "definition": "A necessary ingredient.",
+    "example": "The manager prepared a essential report for the client.",
+    "translation": "マネージャーはクライアントのために重要なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "external",
+    "pos": "adjective",
+    "meaning": "外部の",
+    "definition": "adj\tOutside of something; on the exterior.",
+    "example": "The manager prepared a external report for the client.",
+    "translation": "マネージャーはクライアントのために外部レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "favorable",
+    "pos": "adjective",
+    "meaning": "有利な",
+    "definition": "Pleasing, encouraging or approving.",
+    "example": "The candidate wearing the business suite made a favourable impression.",
+    "translation": "ビジネススーツを着た候補者は好印象を与えた。",
+    "level": 600
+  },
+  {
+    "word": "former",
+    "pos": "adjective",
+    "meaning": "前者",
+    "definition": "Previous.",
+    "example": "A former president;  the former East Germany",
+    "translation": "元大統領。  旧東ドイツ",
+    "level": 600
+  },
+  {
+    "word": "global",
+    "pos": "noun",
+    "meaning": "グローバル",
+    "definition": "A globally scoped identifier.",
+    "example": "The manager prepared a global report for the client.",
+    "translation": "マネージャーはクライアントのためにグローバルレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "independent",
+    "pos": "noun",
+    "meaning": "独立した",
+    "definition": "A candidate or voter not affiliated with any political party, a freethinker, free of a party platform.",
+    "example": "The manager prepared a independent report for the client.",
+    "translation": "マネージャーはクライアントのために独立したレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "industrial",
+    "pos": "adjective",
+    "meaning": "工業用",
+    "definition": "adj\tOf or relating to industry, notably manufacturing.",
+    "example": "The manager prepared a industrial report for the client.",
+    "translation": "マネージャーはクライアントのために産業レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "legal",
+    "pos": "noun",
+    "meaning": "法律上の",
+    "definition": "The legal department of a company.",
+    "example": "Legal wants this in writing.",
+    "translation": "法務部はこれを書面で伝えることを求めています。",
+    "level": 600
+  },
+  {
+    "word": "local",
+    "pos": "noun",
+    "meaning": "地元",
+    "definition": "A person who lives near a given place.",
+    "example": "It's easy to tell the locals from the tourists.",
+    "translation": "地元の人と観光客を見分けるのは簡単です。",
+    "level": 600
+  },
+  {
+    "word": "logical",
+    "pos": "adjective",
+    "meaning": "論理的な",
+    "definition": "adj\tReasonable.",
+    "example": "The manager prepared a logical report for the client.",
+    "translation": "マネージャーはクライアントのために論理的なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "medical",
+    "pos": "noun",
+    "meaning": "医学",
+    "definition": "A medical examination.",
+    "example": "You'll have to get a medical before you apply for that job.",
+    "translation": "その仕事に応募する前に健康診断を受けなければなりません。",
+    "level": 600
+  },
+  {
+    "word": "mobile",
+    "pos": "noun",
+    "meaning": "携帯",
+    "definition": "A kinetic sculpture or decorative arrangement made of items hanging so that they can move independently from each other.",
+    "example": "The manager prepared a mobile report for the client.",
+    "translation": "マネージャーはクライアントのためにモバイルレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "modern",
+    "pos": "noun",
+    "meaning": "モダンな",
+    "definition": "Someone who lives in modern times.",
+    "example": "The manager prepared a modern report for the client.",
+    "translation": "マネージャーはクライアントのために最新のレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "national",
+    "pos": "noun",
+    "meaning": "全国",
+    "definition": "A subject of a nation.",
+    "example": "The diplomats were advised not to interact with any foreign nationals except on official duty.",
+    "translation": "外交官らは公務時以外は外国人と接触しないよう勧告された。",
+    "level": 600
+  },
+  {
+    "word": "official",
+    "pos": "noun",
+    "meaning": "正式",
+    "definition": "An office holder invested with powers and authorities.",
+    "example": "David Barnes was the official charged with the running of the sports club.",
+    "translation": "デビッド・バーンズはスポーツクラブの運営を担当した職員であった。",
+    "level": 600
+  },
+  {
+    "word": "optional",
+    "pos": "noun",
+    "meaning": "オプション",
+    "definition": "Something that is not compulsory, especially part of an academic course.",
+    "example": "The manager prepared a optional report for the client.",
+    "translation": "マネージャーはクライアントのためにオプションのレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "ordinary",
+    "pos": "adjective",
+    "meaning": "普通",
+    "definition": "A person with authority; authority, ordinance.",
+    "example": "The manager prepared a ordinary report for the client.",
+    "translation": "マネージャーはクライアントのために通常のレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "physical",
+    "pos": "noun",
+    "meaning": "物理的な",
+    "definition": "Physical examination.",
+    "example": "How long has it been since your last physical?",
+    "translation": "最後に身体検査をしてからどれくらい経ちましたか?",
+    "level": 600
+  },
+  {
+    "word": "positive",
+    "pos": "noun",
+    "meaning": "ポジティブ",
+    "definition": "A thing capable of being affirmed; something real or actual.",
+    "example": "The manager prepared a positive report for the client.",
+    "translation": "マネージャーはクライアントのために前向きな報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "precise",
+    "pos": "adjective",
+    "meaning": "正確な",
+    "definition": "adj\t(loosely) Both exact and accurate.",
+    "example": "The manager prepared a precise report for the client.",
+    "translation": "マネージャーはクライアントのために正確なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "preliminary",
+    "pos": "noun",
+    "meaning": "予備",
+    "definition": "A preparation for a main matter; an introduction.",
+    "example": "The manager prepared a preliminary report for the client.",
+    "translation": "マネージャーはクライアントのために予備報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "previous",
+    "pos": "noun",
+    "meaning": "前の",
+    "definition": "An existing criminal record (short for \"previous convictions\")",
+    "example": "It turned out the shoplifter had a lot of previous.",
+    "translation": "万引き犯には前科がたくさんあったことが判明した。",
+    "level": 600
+  },
+  {
+    "word": "primary",
+    "pos": "noun",
+    "meaning": "主要な",
+    "definition": "A primary election; a preliminary election to select a political candidate of a political party.",
+    "example": "The manager prepared a primary report for the client.",
+    "translation": "マネージャーはクライアントのために一次レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "private",
+    "pos": "adjective",
+    "meaning": "プライベート",
+    "definition": "adj\tBelonging or pertaining to an individual person, group of people, or entity that is not the state.",
+    "example": "The manager prepared a private report for the client.",
+    "translation": "マネージャーはクライアントのためにプライベートレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "productive",
+    "pos": "adjective",
+    "meaning": "生産的な",
+    "definition": "adj\tCapable of producing something, especially in abundance; fertile.",
+    "example": "The manager prepared a productive report for the client.",
+    "translation": "マネージャーはクライアントのために生産的なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "regional",
+    "pos": "adjective",
+    "meaning": "地域的な",
+    "definition": "adj\tOf, or pertaining to, a specific region or district.",
+    "example": "The manager prepared a regional report for the client.",
+    "translation": "マネージャーはクライアントのために地域レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "regular",
+    "pos": "adjective",
+    "meaning": "通常",
+    "definition": "adj\t(chiefly US) Having the expected characteristics or appearances; normal, ordinary, standard.",
+    "example": "The manager prepared a regular report for the client.",
+    "translation": "マネージャーはクライアントのために定期報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "remote",
+    "pos": "noun",
+    "meaning": "リモート",
+    "definition": "An element of broadcast programming originating away from the station's or show's control room.",
+    "example": "The manager prepared a remote report for the client.",
+    "translation": "マネージャーはクライアントのためにリモートレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "representative",
+    "pos": "adjective",
+    "meaning": "代表",
+    "definition": "A delegate.",
+    "example": "The manager prepared a representative report for the client.",
+    "translation": "マネージャーはクライアントのために代表的なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "residential",
+    "pos": "adjective",
+    "meaning": "居住の",
+    "definition": "adj\tOf or pertaining to a place of personal residence or to a location for such places.",
+    "example": "The manager prepared a residential report for the client.",
+    "translation": "マネージャーはクライアントのために居住報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "responsible",
+    "pos": "noun",
+    "meaning": "責任者",
+    "definition": "The individual who bears the responsibility for something.",
+    "example": "The manager prepared a responsible report for the client.",
+    "translation": "マネージャーはクライアントのために責任ある報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "rural",
+    "pos": "noun",
+    "meaning": "田舎",
+    "definition": "A person from the countryside; a rustic.",
+    "example": "The manager prepared a rural report for the client.",
+    "translation": "マネージャーはクライアントのために田舎のレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "secure",
+    "pos": "verb",
+    "meaning": "安全な",
+    "definition": "To make safe; to relieve from apprehensions of, or exposure to, danger; to guard; to protect.",
+    "example": "The manager will secure the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書を確保します。",
+    "level": 600
+  },
+  {
+    "word": "senior",
+    "pos": "noun",
+    "meaning": "シニア",
+    "definition": "An old person.",
+    "example": "The manager prepared a senior report for the client.",
+    "translation": "マネージャーはクライアントのために上級レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "separate",
+    "pos": "noun",
+    "meaning": "別",
+    "definition": "(usually in the plural) Anything that is sold by itself, especially an article of clothing.",
+    "example": "The manager will separate the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書を分割します。",
+    "level": 600
+  },
+  {
+    "word": "similar",
+    "pos": "noun",
+    "meaning": "似ている",
+    "definition": "That which is similar to, or resembles, something else, as in quality, form, etc.",
+    "example": "The manager prepared a similar report for the client.",
+    "translation": "マネージャーはクライアントのために同様のレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "skilled",
+    "pos": "adjective",
+    "meaning": "熟練した",
+    "definition": "adj\tHaving or showing skill; skillful.",
+    "example": "The manager prepared a skilled report for the client.",
+    "translation": "マネージャーはクライアントのために熟練したレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "stable",
+    "pos": "noun",
+    "meaning": "安定した",
+    "definition": "A building, wing or dependency set apart and adapted for lodging and feeding (and training) animals with hoofs, especially horses.",
+    "example": "There were stalls for fourteen horses in the squire's stables.",
+    "translation": "大地主の厩舎には14頭の馬のための馬房があった。",
+    "level": 600
+  },
+  {
+    "word": "strategic",
+    "pos": "adjective",
+    "meaning": "戦略的",
+    "definition": "adj\tOf or pertaining to strategy.",
+    "example": "The manager prepared a strategic report for the client.",
+    "translation": "マネージャーはクライアントのために戦略レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "suitable",
+    "pos": "adjective",
+    "meaning": "適切な",
+    "definition": "Having sufficient or the required properties for a certain purpose or task; appropriate to a certain occasion.",
+    "example": "The manager prepared a suitable report for the client.",
+    "translation": "マネージャーはクライアントのために適切なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "technical",
+    "pos": "adjective",
+    "meaning": "テクニカル",
+    "definition": "adj\tOf or related to technology.",
+    "example": "The manager prepared a technical report for the client.",
+    "translation": "マネージャーはクライアントのために技術レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "traditional",
+    "pos": "noun",
+    "meaning": "伝統的",
+    "definition": "A person with traditional beliefs.",
+    "example": "The manager prepared a traditional report for the client.",
+    "translation": "マネージャーはクライアントのために従来のレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "typical",
+    "pos": "noun",
+    "meaning": "典型的な",
+    "definition": "Anything that is typical, normal, or standard.",
+    "example": "Among the moths, typicals were more common than melanics.",
+    "translation": "蛾の中では、メラニック蛾よりも典型的な蛾の方が一般的でした。",
+    "level": 600
+  },
+  {
+    "word": "universal",
+    "pos": "noun",
+    "meaning": "普遍的な",
+    "definition": "A characteristic or property that particular things have in common.",
+    "example": "The manager prepared a universal report for the client.",
+    "translation": "マネージャーはクライアントのためにユニバーサルレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "visible",
+    "pos": "adjective",
+    "meaning": "見える",
+    "definition": "Able to be seen.",
+    "example": "When the sun rises, the world becomes visible.",
+    "translation": "太陽が昇ると世界が見えてきます。",
+    "level": 600
+  },
+  {
+    "word": "vital",
+    "pos": "adjective",
+    "meaning": "重要な",
+    "definition": "Relating to, or characteristic of life.",
+    "example": "vital energies; vital functions; vital actions",
+    "translation": "生命エネルギー。重要な機能。重要な行動",
+    "level": 600
+  },
+  {
+    "word": "commercial",
+    "pos": "noun",
+    "meaning": "コマーシャル",
+    "definition": "An advertisement in a common media format, usually radio or television.",
+    "example": "The manager prepared a commercial report for the client.",
+    "translation": "マネージャーはクライアントのためにコマーシャルレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "competitive",
+    "pos": "adjective",
+    "meaning": "競争力",
+    "definition": "Capable of competing successfully",
+    "example": "The manager prepared a competitive report for the client.",
+    "translation": "マネージャーはクライアントのために競争レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "efficient",
+    "pos": "noun",
+    "meaning": "効率的",
+    "definition": "A cause; something that causes an effect",
+    "example": "The manager prepared a efficient report for the client.",
+    "translation": "マネージャーはクライアントのために効率的なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "familiar",
+    "pos": "adjective",
+    "meaning": "おなじみ",
+    "definition": "adj\tKnown to one, or generally known; commonplace.",
+    "example": "The manager prepared a familiar report for the client.",
+    "translation": "マネージャーはクライアントのためにおなじみのレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "flexible",
+    "pos": "adjective",
+    "meaning": "フレキシブル",
+    "definition": "adj\tCapable of adapting or changing to suit new or modified conditions or situations.",
+    "example": "The manager prepared a flexible report for the client.",
+    "translation": "マネージャーはクライアントのために柔軟なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "immediate",
+    "pos": "adjective",
+    "meaning": "すぐに",
+    "definition": "Happening right away, instantly, with no delay.",
+    "example": "Computer users these days expect immediate results when they click on a link.",
+    "translation": "最近のコンピュータ ユーザーは、リンクをクリックするとすぐに結果が得られることを期待しています。",
+    "level": 600
+  },
+  {
+    "word": "internal",
+    "pos": "adjective",
+    "meaning": "内部",
+    "definition": "Inside of something",
+    "example": "We saw the internal compartments.",
+    "translation": "内部コンパートメントを見ました。",
+    "level": 600
+  },
+  {
+    "word": "original",
+    "pos": "noun",
+    "meaning": "オリジナル",
+    "definition": "An object or other creation (e.g. narrative work) from which all later copies and variations are derived",
+    "example": "This manuscript is the original.",
+    "translation": "この原稿がオリジナルです。",
+    "level": 600
+  },
+  {
+    "word": "overall",
+    "pos": "noun",
+    "meaning": "全体",
+    "definition": "A garment worn over other clothing to protect it; a coverall or boiler suit. A garment, for manual labor or for casual wear, often made of a single piece of fabric, with long legs and a bib upper, supported from the shoulders with straps, and having several large pockets and loops for carrying tools.",
+    "example": "The manager prepared a overall report for the client.",
+    "translation": "マネージャーはクライアントのために全体的なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "potential",
+    "pos": "noun",
+    "meaning": "潜在的",
+    "definition": "Currently unrealized ability (with the most common adposition being to)",
+    "example": "Even from a young age it was clear that she had the potential to become a great musician.",
+    "translation": "幼い頃から、彼女が偉大な音楽家になる可能性を秘めていることは明らかでした。",
+    "level": 600
+  },
+  {
+    "word": "practical",
+    "pos": "noun",
+    "meaning": "実用的",
+    "definition": "A part of an exam or series of exams in which the candidate has to demonstrate their practical ability",
+    "example": "The manager prepared a practical report for the client.",
+    "translation": "マネージャーはクライアントのために実践的なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "professional",
+    "pos": "noun",
+    "meaning": "プロ",
+    "definition": "A person who belongs to a profession",
+    "example": "The manager prepared a professional report for the client.",
+    "translation": "マネージャーはクライアントのために専門的なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "temporary",
+    "pos": "adjective",
+    "meaning": "一時的",
+    "definition": "adj\tNot permanent; existing only for a period or periods of time.",
+    "example": "The manager prepared a temporary report for the client.",
+    "translation": "マネージャーはクライアントのために一時的なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "urgent",
+    "pos": "adjective",
+    "meaning": "緊急",
+    "definition": "adj\tRequiring immediate attention.",
+    "example": "The manager prepared a urgent report for the client.",
+    "translation": "マネージャーはクライアントのために緊急の報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "accountable",
+    "pos": "adjective",
+    "meaning": "責任ある",
+    "definition": "Obliged, when called upon, to answer (for one’s deeds); answerable.",
+    "example": "Every man is accountable to God for his conduct.",
+    "translation": "すべての人は自分の行動について神に対して責任があります。",
+    "level": 600
+  },
+  {
+    "word": "adaptable",
+    "pos": "adjective",
+    "meaning": "順応性のある",
+    "definition": "Capable of adapting or of being adapted.",
+    "example": "The manager prepared a adaptable report for the client.",
+    "translation": "マネージャーはクライアントのために適応可能なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "administrative",
+    "pos": "adjective",
+    "meaning": "管理的な",
+    "definition": "adj\tOf or relating to administering or administration.",
+    "example": "The manager prepared a administrative report for the client.",
+    "translation": "マネージャーはクライアントのために管理報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "advisable",
+    "pos": "adjective",
+    "meaning": "お勧め",
+    "definition": "adj\t(of a course of action) Worthy of being recommended; desirable.",
+    "example": "The manager prepared a advisable report for the client.",
+    "translation": "マネージャーはクライアントのために推奨されるレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "ambitious",
+    "pos": "adjective",
+    "meaning": "野心的な",
+    "definition": "(of a person or their character) Having or showing ambition; wanting a lot of power, honor, respect, superiority, or other distinction.",
+    "example": "an ambitious person",
+    "translation": "野心的な人",
+    "level": 600
+  },
+  {
+    "word": "critical",
+    "pos": "noun",
+    "meaning": "致命的",
+    "definition": "A critical value, factor, etc.",
+    "example": "The manager prepared a critical report for the client.",
+    "translation": "マネージャーはクライアントのために重要なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "dependable",
+    "pos": "adjective",
+    "meaning": "頼りになる",
+    "definition": "A reliable person or thing.",
+    "example": "The manager prepared a dependable report for the client.",
+    "translation": "マネージャーはクライアントのために信頼できるレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "desirable",
+    "pos": "noun",
+    "meaning": "望ましい",
+    "definition": "A thing that people want; something that is desirable.",
+    "example": "There are plenty of desirables on display in the window.",
+    "translation": "ウィンドウには魅力的なものがたくさん展示されています。",
+    "level": 600
+  },
+  {
+    "word": "detailed",
+    "pos": "adjective",
+    "meaning": "詳しい",
+    "definition": "adj\tCharacterized by attention to detail and thoroughness of treatment.",
+    "example": "The manager prepared a detailed report for the client.",
+    "translation": "マネージャーはクライアントのために詳細なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "distinct",
+    "pos": "adjective",
+    "meaning": "明確な",
+    "definition": "adj\tDifferent from one another (with the preferable adposition being \"from\").",
+    "example": "The manager prepared a distinct report for the client.",
+    "translation": "マネージャーはクライアントのために独自のレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "diverse",
+    "pos": "adjective",
+    "meaning": "多様な",
+    "definition": "Consisting of many different elements; various.",
+    "example": "The manager prepared a diverse report for the client.",
+    "translation": "マネージャーはクライアントのためにさまざまなレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "financial",
+    "pos": "adjective",
+    "meaning": "金融",
+    "definition": "Related to finances.",
+    "example": "For financial reasons, we're not going to be able to continue to fund this program.",
+    "translation": "財政上の理由により、このプログラムに資金を提供し続けることができなくなります。",
+    "level": 600
+  },
+  {
+    "word": "formal",
+    "pos": "noun",
+    "meaning": "フォーマル",
+    "definition": "Formalin.",
+    "example": "The manager prepared a formal report for the client.",
+    "translation": "マネージャーはクライアントのために正式な報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "generous",
+    "pos": "adjective",
+    "meaning": "寛大",
+    "definition": "Noble in behaviour or actions; principled, not petty; kind, magnanimous.",
+    "example": "Thank you for your generous words.",
+    "translation": "寛大なお言葉をいただきありがとうございます。",
+    "level": 600
+  },
+  {
+    "word": "intensive",
+    "pos": "adjective",
+    "meaning": "集中的な",
+    "definition": "adj\tDone with intensity or to a great degree; thorough.",
+    "example": "The manager prepared a intensive report for the client.",
+    "translation": "マネージャーはクライアントのために集中レポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "ongoing",
+    "pos": "adjective",
+    "meaning": "継続中",
+    "definition": "adj\tPresently or currently happening; being in progress.",
+    "example": "The manager prepared a ongoing report for the client.",
+    "translation": "マネージャーはクライアントのために進行中のレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "permanent",
+    "pos": "noun",
+    "meaning": "永続",
+    "definition": "A chemical hair treatment imparting or removing curliness, whose effects typically last for a period of weeks; a perm.",
+    "example": "The manager prepared a permanent report for the client.",
+    "translation": "マネージャーはクライアントのために恒久的なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "reasonable",
+    "pos": "adjective",
+    "meaning": "合理的",
+    "definition": "Having the faculty of reason; rational, reasoning.",
+    "example": "The manager prepared a reasonable report for the client.",
+    "translation": "マネージャーはクライアントのために合理的な報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "relevant",
+    "pos": "adjective",
+    "meaning": "関連する",
+    "definition": "adj\tRelated, connected, or pertinent to a topic.",
+    "example": "The manager prepared a relevant report for the client.",
+    "translation": "マネージャーはクライアントのために関連するレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "significant",
+    "pos": "adjective",
+    "meaning": "重要な",
+    "definition": "adj\tHaving a noticeable or major effect.",
+    "example": "The manager prepared a significant report for the client.",
+    "translation": "マネージャーはクライアントのために重要な報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "substantial",
+    "pos": "noun",
+    "meaning": "実質的な",
+    "definition": "Anything having substance; an essential part.",
+    "example": "The manager prepared a substantial report for the client.",
+    "translation": "マネージャーはクライアントのために充実したレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "thorough",
+    "pos": "adjective",
+    "meaning": "徹底した",
+    "definition": "adj\tPainstaking and careful not to miss or omit any detail.",
+    "example": "The manager prepared a thorough report for the client.",
+    "translation": "マネージャーはクライアントのために詳細なレポートを作成しました。",
+    "level": 600
+  },
+  {
+    "word": "unexpected",
+    "pos": "adjective",
+    "meaning": "予想外の",
+    "definition": "Not expected, anticipated or foreseen.",
+    "example": "The manager prepared a unexpected report for the client.",
+    "translation": "マネージャーはクライアントのために予期せぬ報告書を用意しました。",
+    "level": 600
+  },
+  {
+    "word": "voluntary",
+    "pos": "adjective",
+    "meaning": "自発的な",
+    "definition": "adj\tDone, given, or acting of one's own free will.",
+    "example": "The manager prepared a voluntary report for the client.",
+    "translation": "マネージャーはクライアントのために自主的な報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "chief",
+    "pos": "adjective",
+    "meaning": "チーフ",
+    "definition": "The leader or head of a tribe, organisation, business unit, or other group.",
+    "example": "The manager prepared a chief report for the client.",
+    "translation": "マネージャーはクライアントのために主任報告書を作成しました。",
+    "level": 600
+  },
+  {
+    "word": "approximately",
+    "pos": "adverb",
+    "meaning": "約",
+    "definition": "Imprecise but close to in quantity or amount.",
+    "example": "...approximately 60 beats per minute.",
+    "translation": "...毎分約 60 拍。",
+    "level": 600
+  },
+  {
+    "word": "accidentally",
+    "pos": "adverb",
+    "meaning": "偶然",
+    "definition": "adv\tUnintentionally.",
+    "example": "The team accidentally reviewed the updated schedule.",
+    "translation": "チームは誤って更新されたスケジュールを見直してしまいました。",
+    "level": 600
+  },
+  {
+    "word": "adequately",
+    "pos": "adverb",
+    "meaning": "十分に",
+    "definition": "adv\tSufficient to satisfy a requirement or meet a need; sufficiently; satisfactorily.",
+    "example": "The team adequately reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを適切に検討しました。",
+    "level": 600
+  },
+  {
+    "word": "briefly",
+    "pos": "adverb",
+    "meaning": "簡単に",
+    "definition": "adv\t(manner) In a brief manner, summarily.",
+    "example": "He covered the subject briefly in his book.",
+    "translation": "彼は著書の中でこの主題を簡単に取り上げました。",
+    "level": 600
+  },
+  {
+    "word": "directly",
+    "pos": "adverb",
+    "meaning": "直接",
+    "definition": "adv\tIn a straightforward way; without anything intervening; not by secondary but by direct means.",
+    "example": "The team directly reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを直接確認しました。",
+    "level": 600
+  },
+  {
+    "word": "freely",
+    "pos": "adjective",
+    "meaning": "自由に",
+    "definition": "Free; frank.",
+    "example": "The team freely reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを自由にレビューしました。",
+    "level": 600
+  },
+  {
+    "word": "frequently",
+    "pos": "adverb",
+    "meaning": "頻繁に",
+    "definition": "At frequent intervals.",
+    "example": "This question arises frequently.",
+    "translation": "この質問は頻繁に起こります。",
+    "level": 600
+  },
+  {
+    "word": "gradually",
+    "pos": "adverb",
+    "meaning": "徐々に",
+    "definition": "adv\tIn a gradual manner; making slow progress; slowly.",
+    "example": "The team gradually reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを徐々に見直しました。",
+    "level": 600
+  },
+  {
+    "word": "likewise",
+    "pos": "adverb",
+    "meaning": "同じく",
+    "definition": "adv\t(conjunctive) also; moreover; too.",
+    "example": "The team likewise reviewed the updated schedule.",
+    "translation": "チームは同様に、更新されたスケジュールを確認しました。",
+    "level": 600
+  },
+  {
+    "word": "nevertheless",
+    "pos": "adverb",
+    "meaning": "それにもかかわらず",
+    "definition": "In spite of what preceded; yet.",
+    "example": "The team nevertheless reviewed the updated schedule.",
+    "translation": "それでもチームは更新されたスケジュールを見直した。",
+    "level": 600
+  },
+  {
+    "word": "promptly",
+    "pos": "adverb",
+    "meaning": "すぐに",
+    "definition": "adv\tIn a prompt manner.",
+    "example": "The team promptly reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを直ちに確認しました。",
+    "level": 600
+  },
+  {
+    "word": "eventually",
+    "pos": "adverb",
+    "meaning": "最終的に",
+    "definition": "In the end; at some later time, especially after a long time, a series of problems, struggles, delays or setbacks.",
+    "example": "The team eventually reviewed the updated schedule.",
+    "translation": "チームは最終的に更新されたスケジュールを見直しました。",
+    "level": 600
+  },
+  {
+    "word": "finally",
+    "pos": "adverb",
+    "meaning": "ついに",
+    "definition": "At the end or conclusion; ultimately.",
+    "example": "The contest was long, but the Romans finally conquered.",
+    "translation": "戦いは長かったが、最終的にはローマ軍が勝利した。",
+    "level": 600
+  },
+  {
+    "word": "generally",
+    "pos": "adverb",
+    "meaning": "一般的に",
+    "definition": "Popularly or widely.",
+    "example": "It is generally known that the Earth is round.",
+    "translation": "地球が丸いことは一般に知られています。",
+    "level": 600
+  },
+  {
+    "word": "immediately",
+    "pos": "adverb",
+    "meaning": "すぐに",
+    "definition": "In an immediate manner; instantly or without delay.",
+    "example": "I hope we can begin immediately.",
+    "translation": "すぐに始められることを願っています。",
+    "level": 600
+  },
+  {
+    "word": "mainly",
+    "pos": "adverb",
+    "meaning": "主に",
+    "definition": "Forcefully, vigorously.",
+    "example": "The team mainly reviewed the updated schedule.",
+    "translation": "チームは主に更新されたスケジュールを確認しました。",
+    "level": 600
+  },
+  {
+    "word": "normally",
+    "pos": "adverb",
+    "meaning": "普通に",
+    "definition": "Under normal conditions or circumstances; usually; most of the time",
+    "example": "Normally, I eat breakfast at 6am, but today, I got up late and didn't eat until 9.",
+    "translation": "いつもなら朝6時に朝食を食べるのですが、今日は起きるのが遅くて9時まで食べませんでした。",
+    "level": 600
+  },
+  {
+    "word": "occasionally",
+    "pos": "adverb",
+    "meaning": "たまに",
+    "definition": "On the occasion of something else happening; incidentally, by the way.",
+    "example": "The team occasionally reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを時々見直しました。",
+    "level": 600
+  },
+  {
+    "word": "partly",
+    "pos": "adverb",
+    "meaning": "部分的に",
+    "definition": "adv\tIn part, or to some degree, but not completely.",
+    "example": "The team partly reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを部分的に見直した。",
+    "level": 600
+  },
+  {
+    "word": "previously",
+    "pos": "adverb",
+    "meaning": "以前",
+    "definition": "adv\t(with past-tense constructions) At an earlier time; already.",
+    "example": "The team previously reviewed the updated schedule.",
+    "translation": "チームは以前に更新されたスケジュールを確認しました。",
+    "level": 600
+  },
+  {
+    "word": "rapidly",
+    "pos": "adverb",
+    "meaning": "急速に",
+    "definition": "With speed; in a rapid manner.",
+    "example": "She packed her case rapidly and hurried out.",
+    "translation": "彼女は手早く荷物を詰めて、急いで出かけた。",
+    "level": 600
+  },
+  {
+    "word": "recently",
+    "pos": "adverb",
+    "meaning": "最近",
+    "definition": "In the recent past",
+    "example": "a recently published book",
+    "translation": "最近出版された本",
+    "level": 600
+  },
+  {
+    "word": "respectively",
+    "pos": "adverb",
+    "meaning": "それぞれ",
+    "definition": "adv\tIn a relative manner; often used when comparing array lists, where the term denotes that the items in the lists correspond to each other in the order they are given.",
+    "example": "The team respectively reviewed the updated schedule.",
+    "translation": "チームはそれぞれ、更新されたスケジュールを確認しました。",
+    "level": 600
+  },
+  {
+    "word": "roughly",
+    "pos": "adverb",
+    "meaning": "だいたい",
+    "definition": "adv\tWithout precision or exactness; imprecisely but close to in quantity or amount; approximately.",
+    "example": "The team roughly reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを大まかに見直しました。",
+    "level": 600
+  },
+  {
+    "word": "separately",
+    "pos": "adverb",
+    "meaning": "別途",
+    "definition": "adv\tIn a separate manner; not together; apart.",
+    "example": "The team separately reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを個別に検討しました。",
+    "level": 600
+  },
+  {
+    "word": "similarly",
+    "pos": "adverb",
+    "meaning": "同様に",
+    "definition": "adv\t(conjunctive) Used to link similar items.",
+    "example": "The team similarly reviewed the updated schedule.",
+    "translation": "チームは同様に、更新されたスケジュールを確認しました。",
+    "level": 600
+  },
+  {
+    "word": "specifically",
+    "pos": "adverb",
+    "meaning": "具体的には",
+    "definition": "adv\tIn a specific manner, applying to or naming a particular thing or things, expressly, explicitly.",
+    "example": "The team specifically reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを具体的にレビューしました。",
+    "level": 600
+  },
+  {
+    "word": "typically",
+    "pos": "adverb",
+    "meaning": "通常",
+    "definition": "adv\tIn an expected or customary manner.",
+    "example": "The team typically reviewed the updated schedule.",
+    "translation": "チームは通常、更新されたスケジュールを確認しました。",
+    "level": 600
+  },
+  {
+    "word": "voluntarily",
+    "pos": "adverb",
+    "meaning": "自主的に",
+    "definition": "adv\tIn a voluntary manner.",
+    "example": "The team voluntarily reviewed the updated schedule.",
+    "translation": "チームは更新されたスケジュールを自発的に見直しました。",
+    "level": 600
+  },
+  {
+    "word": "annualize",
+    "pos": "noun",
+    "meaning": "年化する",
+    "definition": "American and Oxford British spelling of annualise.",
+    "example": "The report included information about the annualize.",
+    "translation": "レポートには年次報告書に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "automate",
+    "pos": "verb",
+    "meaning": "自動化する",
+    "definition": "(ambitransitive) To replace or enhance human labor with machines.",
+    "example": "The manager will automate the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を自動化します。",
+    "level": 600
+  },
+  {
+    "word": "calculate",
+    "pos": "verb",
+    "meaning": "計算する",
+    "definition": "To determine the value of something or the solution to something by a mathematical process.",
+    "example": "Calculate the square root of 3 to 10 decimal places.",
+    "translation": "小数点以下 3 桁から 10 桁までの平方根を計算します。",
+    "level": 600
+  },
+  {
+    "word": "conclude",
+    "pos": "verb",
+    "meaning": "結論する",
+    "definition": "To end; to come to an end.",
+    "example": "The story concluded with a moral.",
+    "translation": "物語は教訓で終わりました。",
+    "level": 600
+  },
+  {
+    "word": "convince",
+    "pos": "verb",
+    "meaning": "納得させる",
+    "definition": "To make someone believe, or feel sure about something, especially by using logic, argument or evidence.",
+    "example": "I wouldn't have or do something, unless I'm convinced that it's good.",
+    "translation": "それが良いと確信しない限り、私は何かをしたりしません。",
+    "level": 600
+  },
+  {
+    "word": "customize",
+    "pos": "verb",
+    "meaning": "カスタマイズ",
+    "definition": "To build or alter according to personal preferences or specifications.",
+    "example": "The manager will customize the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書をカスタマイズします。",
+    "level": 600
+  },
+  {
+    "word": "detect",
+    "pos": "verb",
+    "meaning": "検出する",
+    "definition": "To discover or find by careful search, examination, or probing.",
+    "example": "The manager will detect the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を検出します。",
+    "level": 600
+  },
+  {
+    "word": "dismiss",
+    "pos": "verb",
+    "meaning": "却下する",
+    "definition": "To discharge; to end the employment or service of.",
+    "example": "The company dismissed me after less than a year.",
+    "translation": "会社は1年も経たないうちに私を解雇しました。",
+    "level": 600
+  },
+  {
+    "word": "edit",
+    "pos": "verb",
+    "meaning": "編集",
+    "definition": "To change a text, or a document.",
+    "example": "The manager will edit the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書を編集します。",
+    "level": 600
+  },
+  {
+    "word": "evaluate",
+    "pos": "verb",
+    "meaning": "評価する",
+    "definition": "To draw conclusions from examining; to assess.",
+    "example": "It will take several years to evaluate the material gathered in the survey.",
+    "translation": "調査で収集された資料を評価するには数年かかります。",
+    "level": 600
+  },
+  {
+    "word": "exhibit",
+    "pos": "noun",
+    "meaning": "展示する",
+    "definition": "An instance of exhibiting.",
+    "example": "The manager will exhibit the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書を提示します。",
+    "level": 600
+  },
+  {
+    "word": "export",
+    "pos": "verb",
+    "meaning": "輸出",
+    "definition": "(uncountable) The act of exporting.",
+    "example": "The manager will export the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書をエクスポートします。",
+    "level": 600
+  },
+  {
+    "word": "finance",
+    "pos": "noun",
+    "meaning": "ファイナンス",
+    "definition": "The management of money and other assets.",
+    "example": "The manager will finance the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案に資金を提供します。",
+    "level": 600
+  },
+  {
+    "word": "finalize",
+    "pos": "verb",
+    "meaning": "完成させる",
+    "definition": "(transitive) To make final or firm; to finish or complete.",
+    "example": "The manager will finalize the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を最終決定します。",
+    "level": 600
+  },
+  {
+    "word": "import",
+    "pos": "noun",
+    "meaning": "輸入",
+    "definition": "Something brought in from an exterior source, especially for sale or trade.",
+    "example": "The manager will import the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案をインポートします。",
+    "level": 600
+  },
+  {
+    "word": "invest",
+    "pos": "verb",
+    "meaning": "投資する",
+    "definition": "To spend money, time, or energy on something, especially for some benefit or purpose; used with in.",
+    "example": "The manager will invest the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を投資します。",
+    "level": 600
+  },
+  {
+    "word": "motivate",
+    "pos": "verb",
+    "meaning": "やる気を起こさせる",
+    "definition": "To provide someone with an incentive to do something; to encourage.",
+    "example": "The weekly staff meeting was meant to motivate employees.",
+    "translation": "毎週のスタッフミーティングは、従業員のモチベーションを高めることを目的としていました。",
+    "level": 600
+  },
+  {
+    "word": "organize",
+    "pos": "verb",
+    "meaning": "整理する",
+    "definition": "To arrange in working order.",
+    "example": "The manager will organize the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書を整理します。",
+    "level": 600
+  },
+  {
+    "word": "postpone",
+    "pos": "verb",
+    "meaning": "延期",
+    "definition": "To delay or put off an event, appointment, etc.",
+    "example": "The manager will postpone the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を延期します。",
+    "level": 600
+  },
+  {
+    "word": "predict",
+    "pos": "noun",
+    "meaning": "予測する",
+    "definition": "A prediction.",
+    "example": "The manager will predict the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を予測します。",
+    "level": 600
+  },
+  {
+    "word": "promote",
+    "pos": "verb",
+    "meaning": "推進する",
+    "definition": "(transitive) To advocate or urge on behalf of (something or someone); to attempt to popularize or sell by means of advertising or publicity.",
+    "example": "The manager will promote the proposal before the meeting.",
+    "translation": "マネージャーは会議の前にその提案を推進します。",
+    "level": 600
+  },
+  {
+    "word": "publish",
+    "pos": "verb",
+    "meaning": "公開",
+    "definition": "(transitive) To issue (something, such as printed work) for distribution and/or sale.",
+    "example": "The manager will publish the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書を公開します。",
+    "level": 600
+  },
+  {
+    "word": "register",
+    "pos": "noun",
+    "meaning": "登録する",
+    "definition": "A machine that tabulates the amount of sales transactions, makes a permanent and cumulative record of them, and has a drawer in which cash can be kept.",
+    "example": "The manager will register the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を登録します。",
+    "level": 600
+  },
+  {
+    "word": "renew",
+    "pos": "verb",
+    "meaning": "更新する",
+    "definition": "To make (something) new again; to restore to freshness or original condition.",
+    "example": "The manager will renew the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を更新します。",
+    "level": 600
+  },
+  {
+    "word": "represent",
+    "pos": "verb",
+    "meaning": "代表する",
+    "definition": "To present again or anew; to present by means of something standing in the place of; to exhibit the counterpart or image of; to typify.",
+    "example": "The manager will represent the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を代表します。",
+    "level": 600
+  },
+  {
+    "word": "select",
+    "pos": "verb",
+    "meaning": "選択する",
+    "definition": "To choose one or more elements of a set, especially a set of options.",
+    "example": "He looked over the menu, and selected the roast beef.",
+    "translation": "彼はメニューを見て、ローストビーフを選びました。",
+    "level": 600
+  },
+  {
+    "word": "simplify",
+    "pos": "verb",
+    "meaning": "単純化する",
+    "definition": "(transitive) To make simpler, either by reducing in complexity, reducing to component parts, or making easier to understand.",
+    "example": "The manager will simplify the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を簡略化します。",
+    "level": 600
+  },
+  {
+    "word": "specialize",
+    "pos": "verb",
+    "meaning": "専門化する",
+    "definition": "To focus one's study upon a particular skill, field, topic, or genre.",
+    "example": "The manager will specialize the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を専門化します。",
+    "level": 600
+  },
+  {
+    "word": "standardize",
+    "pos": "verb",
+    "meaning": "標準化する",
+    "definition": "US and Oxford British English standard spelling of standardise.",
+    "example": "The manager will standardize the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を標準化します。",
+    "level": 600
+  },
+  {
+    "word": "summarize",
+    "pos": "verb",
+    "meaning": "要約する",
+    "definition": "(ambitransitive) To give a recapitulation of the salient facts; to recapitulate or review.",
+    "example": "The manager will summarize the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を要約します。",
+    "level": 600
+  },
+  {
+    "word": "supply",
+    "pos": "noun",
+    "meaning": "供給",
+    "definition": "The act of supplying.",
+    "example": "supply and demand",
+    "translation": "需給",
+    "level": 600
+  },
+  {
+    "word": "switch",
+    "pos": "noun",
+    "meaning": "スイッチ",
+    "definition": "A bundle of thin sticks, typically made of wood, sometimes bond in such a way that binding can be moved so that it varies the tightness of the binding.",
+    "example": "The manager will switch the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案を変更します。",
+    "level": 600
+  },
+  {
+    "word": "submit",
+    "pos": "verb",
+    "meaning": "提出する",
+    "definition": "To yield or give way to another.",
+    "example": "They will not submit to the destruction of their rights.",
+    "translation": "彼らは自分たちの権利の破壊には屈しません。",
+    "level": 600
+  },
+  {
+    "word": "translate",
+    "pos": "noun",
+    "meaning": "翻訳する",
+    "definition": "In Euclidean spaces: a set of points obtained by adding a given fixed vector to each point of a given set.",
+    "example": "The manager will translate the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案書を翻訳します。",
+    "level": 600
+  },
+  {
+    "word": "upgrade",
+    "pos": "verb",
+    "meaning": "アップグレード",
+    "definition": "An improved component or replacement item, usually applied to technology.",
+    "example": "The manager will upgrade the proposal before the meeting.",
+    "translation": "マネージャーは会議の前に提案をアップグレードします。",
+    "level": 600
+  },
+  {
+    "word": "accredited",
+    "pos": "noun",
+    "meaning": "認定された",
+    "definition": "adj\tGiven official approval after meeting certain standards, as an accredited university; or as disease free cattle.",
+    "example": "The report included information about the accredited.",
+    "translation": "報告書には認定者に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "clearance",
+    "pos": "noun",
+    "meaning": "クリアランス",
+    "definition": "The act of clearing or something (such as a space) cleared",
+    "example": "The report included information about the clearance.",
+    "translation": "報告書には認可に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "consultant",
+    "pos": "noun",
+    "meaning": "コンサルタント",
+    "definition": "A person or party that is consulted",
+    "example": "The report included information about the consultant.",
+    "translation": "報告書にはコンサルタントに関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "dispatchable",
+    "pos": "adjective",
+    "meaning": "発送可能な・派遣可能な",
+    "definition": "Able to be sent, delivered, or assigned for a particular task.",
+    "example": "The warehouse keeps dispatchable orders in a separate area.",
+    "translation": "倉庫では発送可能な注文を別の場所に保管しています。",
+    "level": 600
+  },
+  {
+    "word": "enrollment",
+    "pos": "noun",
+    "meaning": "登録",
+    "definition": "The act of enrolling or the state of being enrolled.",
+    "example": "The report included information about the enrollment.",
+    "translation": "レポートには登録に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "marketplace",
+    "pos": "noun",
+    "meaning": "市場",
+    "definition": "(by extension) The world of commerce and trade.",
+    "example": "The report included information about the marketplace.",
+    "translation": "レポートには市場に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "nomination",
+    "pos": "noun",
+    "meaning": "指名",
+    "definition": "(more common) The result of such a nomination act.",
+    "example": "The report included information about the nomination.",
+    "translation": "報告書には指名に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "notification",
+    "pos": "noun",
+    "meaning": "通知",
+    "definition": "(countable, computing) A message, alert, or signal displayed by a system or application to inform the user of an event, update, new message, etc.",
+    "example": "The report included information about the notification.",
+    "translation": "レポートには通知に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "orientation",
+    "pos": "noun",
+    "meaning": "向き",
+    "definition": "The determination of the relative position of something or someone.",
+    "example": "The report included information about the orientation.",
+    "translation": "報告書にはオリエンテーションに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "outsource",
+    "pos": "noun",
+    "meaning": "アウトソーシング",
+    "definition": "(chiefly US, business, management, transitive) To transfer the management or day-to-day execution of a business function to a third-party service provider.",
+    "example": "The report included information about the outsource.",
+    "translation": "報告書には外部委託先に関する情報も含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "overhead",
+    "pos": "noun",
+    "meaning": "オーバーヘッド",
+    "definition": "(uncountable, business, accounting) The expense of a business not directly assigned to goods or services provided.",
+    "example": "The report included information about the overhead.",
+    "translation": "レポートにはオーバーヘッドに関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "productivity",
+    "pos": "noun",
+    "meaning": "生産性",
+    "definition": "The state of being productive, fertile or efficient",
+    "example": "The report included information about the productivity.",
+    "translation": "レポートには生産性に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "prospectus",
+    "pos": "noun",
+    "meaning": "目論見書",
+    "definition": "A document, distributed to prospective members, investors, buyers, or participants, which describes an institution (such as a university), a publication, or a business and what it has to offer.",
+    "example": "The report included information about the prospectus.",
+    "translation": "報告書には目論見書に関する情報が含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "screening",
+    "pos": "noun",
+    "meaning": "スクリーニング",
+    "definition": "The showing of a film, typically by projecting it on a screen.",
+    "example": "The report included information about the screening.",
+    "translation": "レポートには上映会に関する情報も含まれていました。",
+    "level": 600
+  },
+  {
+    "word": "timetable",
+    "pos": "noun",
+    "meaning": "時刻表",
+    "definition": "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+    "example": "The timetable has been changed several times since it was first announced.",
+    "translation": "タイムテーブルは最初に発表されてから何度か変更されています。",
+    "level": 600
+  },
+  {
+    "word": "trademark",
+    "pos": "noun",
+    "meaning": "商標",
+    "definition": "A word, symbol, or phrase used to identify a particular company's product and differentiate it from other companies' products.",
+    "example": "The report included information about the trademark.",
+    "translation": "報告書には商標に関する情報が含まれていた。",
+    "level": 600
+  },
+  {
+    "word": "workflow",
+    "pos": "noun",
+    "meaning": "ワークフロー",
+    "definition": "(especially business) A process or procedure by which tasks are completed. It may be defined by a flowchart with actors, actions, results, decisions, and action paths.",
+    "example": "The report included information about the workflow.",
+    "translation": "レポートにはワークフローに関する情報が含まれていました。",
+    "level": 600
+  }
+]

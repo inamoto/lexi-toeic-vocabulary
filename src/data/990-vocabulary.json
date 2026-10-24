@@ -1,0 +1,2702 @@
+[
+  {
+    "word": "accredit",
+    "pos": "verb",
+    "meaning": "認定する",
+    "definition": "to officially recognize an organization as meeting standards",
+    "example": "The agency accredited the laboratory after a rigorous review.",
+    "translation": "その機関は厳格な審査後に研究所を認定した。",
+    "level": 990
+  },
+  {
+    "word": "adhere",
+    "pos": "verb",
+    "meaning": "従う、固守する",
+    "definition": "to follow a rule, agreement, or principle closely",
+    "example": "All contractors must adhere to the safety code.",
+    "translation": "すべての請負業者は安全規定を厳守しなければならない。",
+    "level": 990
+  },
+  {
+    "word": "adverse",
+    "pos": "adjective",
+    "meaning": "不利な",
+    "definition": "having a harmful or unfavorable effect",
+    "example": "The merger had adverse effects on small suppliers.",
+    "translation": "その合併は小規模な供給業者に不利な影響を与えた。",
+    "level": 990
+  },
+  {
+    "word": "allay",
+    "pos": "verb",
+    "meaning": "和らげる",
+    "definition": "to reduce fear, doubt, or worry",
+    "example": "The briefing allayed investors’ concerns about the delay.",
+    "translation": "説明会は投資家の遅延への懸念を和らげた。",
+    "level": 990
+  },
+  {
+    "word": "amalgamate",
+    "pos": "verb",
+    "meaning": "合併する",
+    "definition": "to combine two organizations or groups into one",
+    "example": "The firms agreed to amalgamate their research divisions.",
+    "translation": "両社は研究部門を統合することに合意した。",
+    "level": 990
+  },
+  {
+    "word": "albeit",
+    "pos": "conjunction",
+    "meaning": "とはいえ",
+    "definition": "although; despite the fact that",
+    "example": "The plan was approved, albeit with several conditions.",
+    "translation": "その計画はいくつかの条件付きではあるが承認された。",
+    "level": 990
+  },
+  {
+    "word": "animosity",
+    "pos": "noun",
+    "meaning": "敵意",
+    "definition": "strong hostility or dislike",
+    "example": "Long-standing animosity delayed the labor agreement.",
+    "translation": "長年の敵意が労働協約を遅らせた。",
+    "level": 990
+  },
+  {
+    "word": "assent",
+    "pos": "noun",
+    "meaning": "同意",
+    "definition": "official agreement to a proposal or request",
+    "example": "The board gave its assent to the revised budget.",
+    "translation": "取締役会は修正予算に同意した。",
+    "level": 990
+  },
+  {
+    "word": "begrudge",
+    "pos": "verb",
+    "meaning": "惜しむ、快く思わない",
+    "definition": "to resent giving or allowing something",
+    "example": "The manager did not begrudge the team its bonus.",
+    "translation": "部長はチームの賞与を惜しいとは思わなかった。",
+    "level": 990
+  },
+  {
+    "word": "beset",
+    "pos": "verb",
+    "meaning": "悩ませる",
+    "definition": "to trouble someone or something persistently",
+    "example": "The project was beset by repeated supply shortages.",
+    "translation": "その計画は度重なる供給不足に悩まされた。",
+    "level": 990
+  },
+  {
+    "word": "breach",
+    "pos": "verb",
+    "meaning": "違反する",
+    "definition": "to break a law, promise, or agreement",
+    "example": "Sharing the file would breach the confidentiality clause.",
+    "translation": "そのファイルの共有は秘密保持条項に違反する。",
+    "level": 990
+  },
+  {
+    "word": "commensurate",
+    "pos": "adjective",
+    "meaning": "釣り合った",
+    "definition": "corresponding in size or degree",
+    "example": "The salary is commensurate with the candidate’s experience.",
+    "translation": "給与は候補者の経験に見合っている。",
+    "level": 990
+  },
+  {
+    "word": "compelling",
+    "pos": "adjective",
+    "meaning": "説得力のある",
+    "definition": "convincing and difficult to ignore",
+    "example": "The report presents compelling evidence of waste.",
+    "translation": "その報告書は浪費の説得力ある証拠を示している。",
+    "level": 990
+  },
+  {
+    "word": "consummate",
+    "pos": "adjective",
+    "meaning": "熟達した",
+    "definition": "showing the highest degree of skill",
+    "example": "She is a consummate negotiator with global experience.",
+    "translation": "彼女は国際経験豊富な非常に熟練した交渉人だ。",
+    "level": 990
+  },
+  {
+    "word": "corollary",
+    "pos": "noun",
+    "meaning": "当然の結果",
+    "definition": "a natural result that follows from something else",
+    "example": "Higher demand is a corollary of the expanded service.",
+    "translation": "需要増加はサービス拡大の当然の結果だ。",
+    "level": 990
+  },
+  {
+    "word": "deleterious",
+    "pos": "adjective",
+    "meaning": "有害な",
+    "definition": "causing harm or damage",
+    "example": "The policy may have deleterious effects on innovation.",
+    "translation": "その政策は革新に有害な影響を及ぼす可能性がある。",
+    "level": 990
+  },
+  {
+    "word": "devoid",
+    "pos": "adjective",
+    "meaning": "全くない",
+    "definition": "completely lacking something",
+    "example": "The proposal was devoid of practical safeguards.",
+    "translation": "その提案には実際的な安全策が全くなかった。",
+    "level": 990
+  },
+  {
+    "word": "disparity",
+    "pos": "noun",
+    "meaning": "格差",
+    "definition": "a noticeable difference between two things",
+    "example": "The study revealed a disparity in regional wages.",
+    "translation": "その調査は地域間賃金格差を明らかにした。",
+    "level": 990
+  },
+  {
+    "word": "dogmatic",
+    "pos": "adjective",
+    "meaning": "独断的な",
+    "definition": "insisting that one’s beliefs are unquestionably correct",
+    "example": "A dogmatic approach can discourage useful debate.",
+    "translation": "独断的な姿勢は有益な議論を妨げることがある。",
+    "level": 990
+  },
+  {
+    "word": "efficacious",
+    "pos": "adjective",
+    "meaning": "効果のある",
+    "definition": "successful in producing the intended result",
+    "example": "The training proved efficacious in reducing errors.",
+    "translation": "その研修はミス削減に効果があると証明された。",
+    "level": 990
+  },
+  {
+    "word": "endeavor",
+    "pos": "noun",
+    "meaning": "努力、試み",
+    "definition": "a serious attempt to achieve something",
+    "example": "The expansion is a costly but worthwhile endeavor.",
+    "translation": "その拡張は費用がかかるが価値ある試みだ。",
+    "level": 990
+  },
+  {
+    "word": "epitomize",
+    "pos": "verb",
+    "meaning": "典型的に示す",
+    "definition": "to be a perfect example of something",
+    "example": "The design epitomizes the brand’s understated style.",
+    "translation": "そのデザインはブランドの控えめな शैलीを典型的に示している。",
+    "level": 990
+  },
+  {
+    "word": "equitable",
+    "pos": "adjective",
+    "meaning": "公平な",
+    "definition": "fair and impartial",
+    "example": "The mediator proposed an equitable settlement.",
+    "translation": "調停人は公平な和解案を提案した。",
+    "level": 990
+  },
+  {
+    "word": "erroneous",
+    "pos": "adjective",
+    "meaning": "誤った",
+    "definition": "containing a mistake or based on false information",
+    "example": "The invoice contained an erroneous tax calculation.",
+    "translation": "その請求書には誤った税計算があった。",
+    "level": 990
+  },
+  {
+    "word": "exorbitant",
+    "pos": "adjective",
+    "meaning": "法外な",
+    "definition": "unreasonably high in amount or cost",
+    "example": "The hotel charged an exorbitant cancellation fee.",
+    "translation": "そのホテルは法外なキャンセル料を請求した。",
+    "level": 990
+  },
+  {
+    "word": "fallacious",
+    "pos": "adjective",
+    "meaning": "誤った",
+    "definition": "based on faulty reasoning",
+    "example": "The report rejects the fallacious assumption that sales equal profit.",
+    "translation": "その報告書は売上と利益が同じという誤った前提を退けている。",
+    "level": 990
+  },
+  {
+    "word": "fickle",
+    "pos": "adjective",
+    "meaning": "気まぐれな",
+    "definition": "changing opinions or preferences frequently",
+    "example": "Demand in the fashion market is notoriously fickle.",
+    "translation": "ファッション市場の需要は非常に気まぐれで有名だ。",
+    "level": 990
+  },
+  {
+    "word": "frivolous",
+    "pos": "adjective",
+    "meaning": "軽薄な、根拠のない",
+    "definition": "not serious or sensible",
+    "example": "The court dismissed the frivolous complaint.",
+    "translation": "裁判所は根拠のない訴えを退けた。",
+    "level": 990
+  },
+  {
+    "word": "gregarious",
+    "pos": "adjective",
+    "meaning": "社交的な",
+    "definition": "friendly and fond of being with other people",
+    "example": "Her gregarious style helped build strong client relationships.",
+    "translation": "彼女の社交的な性格は強い顧客関係の構築に役立った。",
+    "level": 990
+  },
+  {
+    "word": "haphazard",
+    "pos": "adjective",
+    "meaning": "無計画な",
+    "definition": "lacking order, planning, or control",
+    "example": "Haphazard record keeping made the investigation difficult.",
+    "translation": "無計画な記録管理が調査を困難にした。",
+    "level": 990
+  },
+  {
+    "word": "holistic",
+    "pos": "adjective",
+    "meaning": "総合的な",
+    "definition": "considering a whole system rather than separate parts",
+    "example": "The clinic adopted a holistic approach to employee well-being.",
+    "translation": "その診療所は従業員の健康に総合的な取り組みを採用した。",
+    "level": 990
+  },
+  {
+    "word": "impetuous",
+    "pos": "adjective",
+    "meaning": "衝動的な",
+    "definition": "acting suddenly without careful thought",
+    "example": "An impetuous purchase weakened the department’s budget.",
+    "translation": "衝動的な購入が部門の予算を圧迫した。",
+    "level": 990
+  },
+  {
+    "word": "inadvertent",
+    "pos": "adjective",
+    "meaning": "不注意による",
+    "definition": "not intended or planned",
+    "example": "The inadvertent disclosure exposed customer addresses.",
+    "translation": "不注意による開示で顧客の住所が露出した。",
+    "level": 990
+  },
+  {
+    "word": "indignant",
+    "pos": "adjective",
+    "meaning": "憤慨した",
+    "definition": "angry because something is unfair or wrong",
+    "example": "The customer was indignant about the unexplained charge.",
+    "translation": "顧客は説明のない請求に憤慨した。",
+    "level": 990
+  },
+  {
+    "word": "inhibit",
+    "pos": "verb",
+    "meaning": "抑制する",
+    "definition": "to prevent or slow an activity or process",
+    "example": "High fees inhibit small firms from entering the market.",
+    "translation": "高い手数料は小企業の市場参入を抑制する。",
+    "level": 990
+  },
+  {
+    "word": "insidious",
+    "pos": "adjective",
+    "meaning": "徐々に害を及ぼす",
+    "definition": "causing harm gradually and subtly",
+    "example": "Insidious errors in the database distorted the forecast.",
+    "translation": "データベースの潜在的な誤りが予測を歪めた。",
+    "level": 990
+  },
+  {
+    "word": "intangible",
+    "pos": "adjective",
+    "meaning": "無形の",
+    "definition": "existing but not physically measurable or touchable",
+    "example": "Trust is an intangible asset for any service business.",
+    "translation": "信頼はどのサービス企業にも無形の資産である。",
+    "level": 990
+  },
+  {
+    "word": "intransigent",
+    "pos": "adjective",
+    "meaning": "強硬な",
+    "definition": "unwilling to change one’s position",
+    "example": "The intransigent negotiator rejected every compromise.",
+    "translation": "強硬な交渉担当者は妥協案をすべて拒否した。",
+    "level": 990
+  },
+  {
+    "word": "irrespective",
+    "pos": "adjective",
+    "meaning": "関係なく",
+    "definition": "not affected by a particular consideration",
+    "example": "All applicants are considered irrespective of age.",
+    "translation": "すべての応募者は年齢に関係なく考慮される。",
+    "level": 990
+  },
+  {
+    "word": "laudable",
+    "pos": "adjective",
+    "meaning": "称賛に値する",
+    "definition": "deserving praise or approval",
+    "example": "The company’s commitment to accessibility is laudable.",
+    "translation": "会社のアクセシビリティへの取り組みは称賛に値する。",
+    "level": 990
+  },
+  {
+    "word": "mundane",
+    "pos": "adjective",
+    "meaning": "ありふれた",
+    "definition": "ordinary and not interesting",
+    "example": "Automation freed staff from mundane administrative tasks.",
+    "translation": "自動化により職員はありふれた事務作業から解放された。",
+    "level": 990
+  },
+  {
+    "word": "nuance",
+    "pos": "noun",
+    "meaning": "微妙な差異",
+    "definition": "a small difference in meaning, feeling, or effect",
+    "example": "The translator captured every nuance of the proposal.",
+    "translation": "翻訳者は提案書の微妙な意味合いをすべて捉えた。",
+    "level": 990
+  },
+  {
+    "word": "obsolescent",
+    "pos": "adjective",
+    "meaning": "廃れかけた",
+    "definition": "becoming outdated but not yet obsolete",
+    "example": "The manufacturer replaced obsolescent equipment.",
+    "translation": "メーカーは廃れかけた設備を交換した。",
+    "level": 990
+  },
+  {
+    "word": "ostensible",
+    "pos": "adjective",
+    "meaning": "表向きの",
+    "definition": "stated or appearing to be true but possibly not so",
+    "example": "The ostensible reason for the closure was renovation.",
+    "translation": "閉鎖の表向きの理由は改装だった。",
+    "level": 990
+  },
+  {
+    "word": "perfunctory",
+    "pos": "adjective",
+    "meaning": "おざなりな",
+    "definition": "done with little care, interest, or effort",
+    "example": "The auditor rejected the perfunctory safety check.",
+    "translation": "監査人はおざなりな安全点検を退けた。",
+    "level": 990
+  },
+  {
+    "word": "pragmatic",
+    "pos": "adjective",
+    "meaning": "実用的な",
+    "definition": "dealing with problems in a practical way",
+    "example": "The committee adopted a pragmatic compromise.",
+    "translation": "委員会は実用的な妥協案を採用した。",
+    "level": 990
+  },
+  {
+    "word": "precarious",
+    "pos": "adjective",
+    "meaning": "不安定な",
+    "definition": "not securely held or likely to change suddenly",
+    "example": "The company’s precarious finances required immediate action.",
+    "translation": "会社の不安定な財務状況には即時対応が必要だった。",
+    "level": 990
+  },
+  {
+    "word": "proponent",
+    "pos": "noun",
+    "meaning": "支持者",
+    "definition": "a person who supports an idea or proposal",
+    "example": "She is a strong proponent of ethical sourcing.",
+    "translation": "彼女は倫理的調達の強い支持者だ。",
+    "level": 990
+  },
+  {
+    "word": "proprietary",
+    "pos": "adjective",
+    "meaning": "独占所有の",
+    "definition": "owned by a person or company and not freely available",
+    "example": "The software uses proprietary encryption technology.",
+    "translation": "そのソフトウェアは独自の暗号化技術を使っている。",
+    "level": 990
+  },
+  {
+    "word": "reciprocal",
+    "pos": "adjective",
+    "meaning": "相互の",
+    "definition": "given, felt, or done in return",
+    "example": "The countries reached a reciprocal trade arrangement.",
+    "translation": "両国は相互貿易協定に達した。",
+    "level": 990
+  },
+  {
+    "word": "recalcitrant",
+    "pos": "adjective",
+    "meaning": "反抗的な",
+    "definition": "stubbornly resistant to authority or control",
+    "example": "The recalcitrant vendor ignored repeated notices.",
+    "translation": "反抗的な業者は再三の通知を無視した。",
+    "level": 990
+  },
+  {
+    "word": "resolute",
+    "pos": "adjective",
+    "meaning": "断固とした",
+    "definition": "determined and unwavering",
+    "example": "The resolute manager defended the compliance program.",
+    "translation": "断固とした部長はコンプライアンス計画を擁護した。",
+    "level": 990
+  },
+  {
+    "word": "reticent",
+    "pos": "adjective",
+    "meaning": "口数の少ない",
+    "definition": "unwilling to speak openly about something",
+    "example": "The witness was reticent about the internal dispute.",
+    "translation": "証人は社内紛争について口を閉ざした。",
+    "level": 990
+  },
+  {
+    "word": "tacit",
+    "pos": "adjective",
+    "meaning": "暗黙の",
+    "definition": "understood without being openly expressed",
+    "example": "The partners reached a tacit understanding.",
+    "translation": "パートナーたちは暗黙の了解に達した。",
+    "level": 990
+  },
+  {
+    "word": "ubiquitous",
+    "pos": "adjective",
+    "meaning": "至る所にある",
+    "definition": "present or found everywhere",
+    "example": "Mobile payment is now ubiquitous in urban stores.",
+    "translation": "モバイル決済は今や都市の店舗で至る所に見られる。",
+    "level": 990
+  },
+  {
+    "word": "veracity",
+    "pos": "noun",
+    "meaning": "真実性",
+    "definition": "the quality of being true or accurate",
+    "example": "The editor questioned the veracity of the source.",
+    "translation": "編集者は情報源の真実性を疑った。",
+    "level": 990
+  },
+  {
+    "word": "vigilant",
+    "pos": "adjective",
+    "meaning": "警戒している",
+    "definition": "watchful and alert to danger or problems",
+    "example": "Staff must remain vigilant against phishing attempts.",
+    "translation": "職員はフィッシング攻撃に警戒し続けなければならない。",
+    "level": 990
+  },
+  {
+    "word": "waive",
+    "pos": "verb",
+    "meaning": "放棄する、免除する",
+    "definition": "to choose not to require a right or payment",
+    "example": "The airline agreed to waive the change fee.",
+    "translation": "航空会社は変更手数料を免除することに同意した。",
+    "level": 990
+  },
+  {
+    "word": "wary",
+    "pos": "adjective",
+    "meaning": "用心深い",
+    "definition": "careful because one expects possible problems",
+    "example": "Investors remain wary of speculative ventures.",
+    "translation": "投資家は投機的な事業に依然用心深い。",
+    "level": 990
+  },
+  {
+    "word": "abide by",
+    "pos": "phrasal verb",
+    "meaning": "従う",
+    "definition": "to accept and follow a rule or decision",
+    "example": "All vendors must abide by the procurement code.",
+    "translation": "すべての業者は調達規程に従わなければならない。",
+    "level": 990
+  },
+  {
+    "word": "account for",
+    "pos": "phrasal verb",
+    "meaning": "説明する、占める",
+    "definition": "to explain something or form a particular amount",
+    "example": "Online orders account for half of our revenue.",
+    "translation": "オンライン注文は当社の収入の半分を占める。",
+    "level": 990
+  },
+  {
+    "word": "act on",
+    "pos": "phrasal verb",
+    "meaning": "行動に移す",
+    "definition": "to take action because of information or advice",
+    "example": "The manager acted on the auditor’s recommendation.",
+    "translation": "部長は監査人の勧告に基づいて行動した。",
+    "level": 990
+  },
+  {
+    "word": "back up",
+    "pos": "phrasal verb",
+    "meaning": "裏付ける、支援する",
+    "definition": "to support a statement or person with evidence",
+    "example": "The figures back up the consultant’s conclusion.",
+    "translation": "その数字はコンサルタントの結論を裏付けている。",
+    "level": 990
+  },
+  {
+    "word": "bear out",
+    "pos": "phrasal verb",
+    "meaning": "裏付ける",
+    "definition": "to confirm that something is true",
+    "example": "The latest survey bears out our original forecast.",
+    "translation": "最新の調査は当初の予測を裏付けている。",
+    "level": 990
+  },
+  {
+    "word": "branch out",
+    "pos": "phrasal verb",
+    "meaning": "事業を広げる",
+    "definition": "to develop new activities or areas",
+    "example": "The publisher branched out into digital education.",
+    "translation": "出版社はデジタル教育へ事業を広げた。",
+    "level": 990
+  },
+  {
+    "word": "bring about",
+    "pos": "phrasal verb",
+    "meaning": "引き起こす",
+    "definition": "to cause something to happen",
+    "example": "The reform brought about major efficiency gains.",
+    "translation": "その改革は大幅な効率向上をもたらした。",
+    "level": 990
+  },
+  {
+    "word": "bring forward",
+    "pos": "phrasal verb",
+    "meaning": "前倒しする、提案する",
+    "definition": "to move a date earlier or present an idea",
+    "example": "The committee brought forward the review date.",
+    "translation": "委員会は審査日を前倒しした。",
+    "level": 990
+  },
+  {
+    "word": "call off",
+    "pos": "phrasal verb",
+    "meaning": "中止する",
+    "definition": "to cancel an event or arrangement",
+    "example": "The organizer called off the outdoor ceremony.",
+    "translation": "主催者は屋外式典を中止した。",
+    "level": 990
+  },
+  {
+    "word": "carry out",
+    "pos": "phrasal verb",
+    "meaning": "実行する",
+    "definition": "to perform or complete a task",
+    "example": "The team carried out a risk assessment.",
+    "translation": "チームはリスク評価を実施した。",
+    "level": 990
+  },
+  {
+    "word": "catch up on",
+    "pos": "phrasal verb",
+    "meaning": "遅れを取り戻す",
+    "definition": "to do work that should have been done earlier",
+    "example": "I stayed late to catch up on correspondence.",
+    "translation": "私は通信業務の遅れを取り戻すため残業した。",
+    "level": 990
+  },
+  {
+    "word": "clamp down on",
+    "pos": "phrasal verb",
+    "meaning": "厳しく取り締まる",
+    "definition": "to act strictly to stop an unwanted activity",
+    "example": "The regulator clamped down on false advertising.",
+    "translation": "規制当局は虚偽広告を厳しく取り締まった。",
+    "level": 990
+  },
+  {
+    "word": "come under",
+    "pos": "phrasal verb",
+    "meaning": "受ける、さらされる",
+    "definition": "to experience criticism, pressure, or control",
+    "example": "The supplier came under scrutiny after the recall.",
+    "translation": "その供給業者は回収後に厳しい scrutiny を受けた。",
+    "level": 990
+  },
+  {
+    "word": "come up with",
+    "pos": "phrasal verb",
+    "meaning": "考え出す",
+    "definition": "to think of an idea or solution",
+    "example": "The engineers came up with a low-cost solution.",
+    "translation": "技術者たちは低コストの解決策を考え出した。",
+    "level": 990
+  },
+  {
+    "word": "count on",
+    "pos": "phrasal verb",
+    "meaning": "頼りにする",
+    "definition": "to depend on someone or something",
+    "example": "We count on the carrier to deliver by Friday.",
+    "translation": "私たちは運送業者が金曜までに届けると頼りにしている。",
+    "level": 990
+  },
+  {
+    "word": "cut back on",
+    "pos": "phrasal verb",
+    "meaning": "削減する",
+    "definition": "to reduce the amount or use of something",
+    "example": "The factory cut back on energy consumption.",
+    "translation": "工場はエネルギー消費を削減した。",
+    "level": 990
+  },
+  {
+    "word": "deal with",
+    "pos": "phrasal verb",
+    "meaning": "対処する",
+    "definition": "to take action about a person, problem, or situation",
+    "example": "The help desk deals with urgent access requests.",
+    "translation": "ヘルプデスクは緊急のアクセス申請に対処する。",
+    "level": 990
+  },
+  {
+    "word": "draw up",
+    "pos": "phrasal verb",
+    "meaning": "作成する",
+    "definition": "to prepare a formal document or plan",
+    "example": "The lawyers drew up a revised agreement.",
+    "translation": "弁護士たちは改訂契約書を作成した。",
+    "level": 990
+  },
+  {
+    "word": "fall through",
+    "pos": "phrasal verb",
+    "meaning": "実現しない",
+    "definition": "to fail to happen or be completed",
+    "example": "The acquisition fell through during final negotiations.",
+    "translation": "その買収は最終交渉中に実現しなかった。",
+    "level": 990
+  },
+  {
+    "word": "figure out",
+    "pos": "phrasal verb",
+    "meaning": "理解する、解決する",
+    "definition": "to understand or solve something",
+    "example": "The technician figured out why the server failed.",
+    "translation": "技術者はサーバーが故障した理由を解明した。",
+    "level": 990
+  },
+  {
+    "word": "follow up on",
+    "pos": "phrasal verb",
+    "meaning": "追跡調査する",
+    "definition": "to take further action about something",
+    "example": "The representative followed up on the unresolved complaint.",
+    "translation": "担当者は未解決の苦情を追跡調査した。",
+    "level": 990
+  },
+  {
+    "word": "get ahead of",
+    "pos": "phrasal verb",
+    "meaning": "先手を打つ",
+    "definition": "to act before a problem or event occurs",
+    "example": "The team got ahead of demand by increasing inventory.",
+    "translation": "チームは在庫を増やして需要に先手を打った。",
+    "level": 990
+  },
+  {
+    "word": "get around",
+    "pos": "phrasal verb",
+    "meaning": "回避する、広まる",
+    "definition": "to avoid a difficulty or become widely known",
+    "example": "There is no easy way to get around the requirement.",
+    "translation": "その要件を簡単に回避する方法はない。",
+    "level": 990
+  },
+  {
+    "word": "give rise to",
+    "pos": "phrasal verb",
+    "meaning": "引き起こす",
+    "definition": "to cause something to happen",
+    "example": "The change gave rise to several legal questions.",
+    "translation": "その変更はいくつかの法的問題を引き起こした。",
+    "level": 990
+  },
+  {
+    "word": "go over",
+    "pos": "phrasal verb",
+    "meaning": "詳しく検討する",
+    "definition": "to examine or review something carefully",
+    "example": "Let us go over the figures before publication.",
+    "translation": "公表前に数字を詳しく検討しましょう。",
+    "level": 990
+  },
+  {
+    "word": "hold off",
+    "pos": "phrasal verb",
+    "meaning": "延期する、控える",
+    "definition": "to delay doing something",
+    "example": "The buyer held off signing until the terms were clarified.",
+    "translation": "買い手は条件が明確になるまで署名を延期した。",
+    "level": 990
+  },
+  {
+    "word": "iron out",
+    "pos": "phrasal verb",
+    "meaning": "解決する",
+    "definition": "to resolve difficulties or disagreements",
+    "example": "The teams met to iron out the remaining details.",
+    "translation": "チームは残りの細部を解決するため会合した。",
+    "level": 990
+  },
+  {
+    "word": "lay off",
+    "pos": "phrasal verb",
+    "meaning": "解雇する",
+    "definition": "to stop employing workers because of business conditions",
+    "example": "The manufacturer laid off staff during the downturn.",
+    "translation": "メーカーは景気後退中に従業員を解雇した。",
+    "level": 990
+  },
+  {
+    "word": "look into",
+    "pos": "phrasal verb",
+    "meaning": "調査する",
+    "definition": "to investigate a problem or situation",
+    "example": "The compliance officer will look into the allegation.",
+    "translation": "コンプライアンス担当者がその申し立てを調査する。",
+    "level": 990
+  },
+  {
+    "word": "make up for",
+    "pos": "phrasal verb",
+    "meaning": "埋め合わせる",
+    "definition": "to compensate for something lost or lacking",
+    "example": "The discount made up for the delivery delay.",
+    "translation": "割引が配送遅延を埋め合わせた。",
+    "level": 990
+  },
+  {
+    "word": "narrow down",
+    "pos": "phrasal verb",
+    "meaning": "絞り込む",
+    "definition": "to reduce a number of possibilities",
+    "example": "The panel narrowed down the applicants to three.",
+    "translation": "委員会は応募者を3人に絞り込んだ。",
+    "level": 990
+  },
+  {
+    "word": "opt for",
+    "pos": "phrasal verb",
+    "meaning": "選ぶ",
+    "definition": "to choose one thing instead of another",
+    "example": "Many customers opt for the annual subscription.",
+    "translation": "多くの顧客は年額契約を選ぶ。",
+    "level": 990
+  },
+  {
+    "word": "phase in",
+    "pos": "phrasal verb",
+    "meaning": "段階的に導入する",
+    "definition": "to introduce something gradually",
+    "example": "The company phased in the new reporting system.",
+    "translation": "会社は新しい報告システムを段階的に導入した。",
+    "level": 990
+  },
+  {
+    "word": "point out",
+    "pos": "phrasal verb",
+    "meaning": "指摘する",
+    "definition": "to draw attention to a fact or problem",
+    "example": "The auditor pointed out a weakness in the controls.",
+    "translation": "監査人は統制の弱点を指摘した。",
+    "level": 990
+  },
+  {
+    "word": "rule out",
+    "pos": "phrasal verb",
+    "meaning": "除外する",
+    "definition": "to decide that something is impossible or unsuitable",
+    "example": "The doctor ruled out a serious equipment fault.",
+    "translation": "技術者は重大な設備故障の可能性を除外した。",
+    "level": 990
+  },
+  {
+    "word": "set aside",
+    "pos": "phrasal verb",
+    "meaning": "取っておく、無視する",
+    "definition": "to reserve something or decide not to consider it",
+    "example": "The board set aside funds for emergency repairs.",
+    "translation": "取締役会は緊急修理のため資金を取っておいた。",
+    "level": 990
+  },
+  {
+    "word": "set out",
+    "pos": "phrasal verb",
+    "meaning": "明確に述べる",
+    "definition": "to explain or arrange something clearly",
+    "example": "The policy sets out procedures for reporting misconduct.",
+    "translation": "その方針は不正報告の手順を明確に定めている。",
+    "level": 990
+  },
+  {
+    "word": "stand for",
+    "pos": "phrasal verb",
+    "meaning": "意味する、容認する",
+    "definition": "to represent something or tolerate something",
+    "example": "The initials stand for the company’s original name.",
+    "translation": "その頭文字は会社の元の名称を表している。",
+    "level": 990
+  },
+  {
+    "word": "step down",
+    "pos": "phrasal verb",
+    "meaning": "辞任する",
+    "definition": "to leave an important position",
+    "example": "The chair stepped down after the annual meeting.",
+    "translation": "議長は年次総会後に辞任した。",
+    "level": 990
+  },
+  {
+    "word": "step up",
+    "pos": "phrasal verb",
+    "meaning": "強化する",
+    "definition": "to increase an effort or activity",
+    "example": "The retailer stepped up security during the sale.",
+    "translation": "小売業者はセール中に警備を強化した。",
+    "level": 990
+  },
+  {
+    "word": "take into account",
+    "pos": "idiom",
+    "meaning": "考慮に入れる",
+    "definition": "to consider a particular fact or circumstance",
+    "example": "The forecast takes seasonal demand into account.",
+    "translation": "その予測は季節的需要を考慮に入れている。",
+    "level": 990
+  },
+  {
+    "word": "take issue with",
+    "pos": "idiom",
+    "meaning": "異議を唱える",
+    "definition": "to disagree with or object to something",
+    "example": "The reviewer took issue with the unsupported conclusion.",
+    "translation": "審査員は裏付けのない結論に異議を唱えた。",
+    "level": 990
+  },
+  {
+    "word": "tie in with",
+    "pos": "phrasal verb",
+    "meaning": "関連する",
+    "definition": "to connect or agree with something else",
+    "example": "The promotion ties in with the product launch.",
+    "translation": "その販売促進は製品発売と関連している。",
+    "level": 990
+  },
+  {
+    "word": "touch on",
+    "pos": "phrasal verb",
+    "meaning": "軽く触れる",
+    "definition": "to mention or deal briefly with a subject",
+    "example": "The presentation touched on future hiring plans.",
+    "translation": "プレゼンテーションは将来の採用計画に軽く触れた。",
+    "level": 990
+  },
+  {
+    "word": "turn down",
+    "pos": "phrasal verb",
+    "meaning": "断る、下げる",
+    "definition": "to reject an offer or reduce a level",
+    "example": "The committee turned down the expensive proposal.",
+    "translation": "委員会は高額な提案を断った。",
+    "level": 990
+  },
+  {
+    "word": "turn out",
+    "pos": "phrasal verb",
+    "meaning": "結果となる",
+    "definition": "to develop in a particular way or prove to be true",
+    "example": "The new process turned out to be highly efficient.",
+    "translation": "新しい工程は非常に効率的だと分かった。",
+    "level": 990
+  },
+  {
+    "word": "weigh up",
+    "pos": "phrasal verb",
+    "meaning": "比較検討する",
+    "definition": "to consider the advantages and disadvantages",
+    "example": "The director weighed up both bids before deciding.",
+    "translation": "部長は決定前に両方の入札を比較検討した。",
+    "level": 990
+  },
+  {
+    "word": "work out",
+    "pos": "phrasal verb",
+    "meaning": "解決する、うまくいく",
+    "definition": "to solve a problem or develop successfully",
+    "example": "The partners worked out a payment schedule.",
+    "translation": "パートナーたちは支払日程を決めた。",
+    "level": 990
+  },
+  {
+    "word": "a far cry from",
+    "pos": "idiom",
+    "meaning": "大きく異なる",
+    "definition": "very different from something",
+    "example": "The final design is a far cry from the original draft.",
+    "translation": "最終デザインは初稿とは大きく異なる。",
+    "level": 990
+  },
+  {
+    "word": "at stake",
+    "pos": "idiom",
+    "meaning": "危機にさらされて",
+    "definition": "at risk of being lost or damaged",
+    "example": "Customer trust is at stake in this investigation.",
+    "translation": "この調査では顧客の信頼が危機にさらされている。",
+    "level": 990
+  },
+  {
+    "word": "by virtue of",
+    "pos": "idiom",
+    "meaning": "によって",
+    "definition": "because of or through the power of something",
+    "example": "By virtue of her license, she can approve the designs.",
+    "translation": "彼女は資格によって設計を承認できる。",
+    "level": 990
+  },
+  {
+    "word": "come to terms with",
+    "pos": "idiom",
+    "meaning": "受け入れる",
+    "definition": "to accept an unpleasant fact or situation",
+    "example": "The firm came to terms with the need for restructuring.",
+    "translation": "会社は再編の必要性を受け入れた。",
+    "level": 990
+  },
+  {
+    "word": "for the sake of",
+    "pos": "idiom",
+    "meaning": "のために",
+    "definition": "in order to help or preserve something",
+    "example": "The schedule was simplified for the sake of clarity.",
+    "translation": "明確さのために日程は簡素化された。",
+    "level": 990
+  },
+  {
+    "word": "in light of",
+    "pos": "idiom",
+    "meaning": "を考慮して",
+    "definition": "because of new information or circumstances",
+    "example": "In light of the audit, the policy was revised.",
+    "translation": "監査を考慮して方針が改訂された。",
+    "level": 990
+  },
+  {
+    "word": "in lieu of",
+    "pos": "idiom",
+    "meaning": "の代わりに",
+    "definition": "instead of something else",
+    "example": "The firm offered extra leave in lieu of overtime pay.",
+    "translation": "会社は残業代の代わりに追加休暇を提供した。",
+    "level": 990
+  },
+  {
+    "word": "in the event of",
+    "pos": "idiom",
+    "meaning": "の場合には",
+    "definition": "if a particular event happens",
+    "example": "In the event of a fire, use the rear exit.",
+    "translation": "火災の場合には裏口を使ってください。",
+    "level": 990
+  },
+  {
+    "word": "on the grounds that",
+    "pos": "idiom",
+    "meaning": "という理由で",
+    "definition": "for the stated reason",
+    "example": "The claim was rejected on the grounds that evidence was missing.",
+    "translation": "証拠が不足しているという理由で請求は却下された。",
+    "level": 990
+  },
+  {
+    "word": "on the verge of",
+    "pos": "idiom",
+    "meaning": "今にも起ころうとして",
+    "definition": "very close to a particular state or event",
+    "example": "The startup was on the verge of profitability.",
+    "translation": "その新興企業は黒字化寸前だった。",
+    "level": 990
+  },
+  {
+    "word": "put down to",
+    "pos": "phrasal verb",
+    "meaning": "のせいにする",
+    "definition": "to attribute something to a particular cause",
+    "example": "The delay was put down to severe weather.",
+    "translation": "遅延は悪天候のせいにされた。",
+    "level": 990
+  },
+  {
+    "word": "to that end",
+    "pos": "idiom",
+    "meaning": "その目的のために",
+    "definition": "for the purpose just mentioned",
+    "example": "We need better data; to that end, a survey will begin Monday.",
+    "translation": "より良いデータが必要なので、その目的で月曜に調査を始める。",
+    "level": 990
+  },
+  {
+    "word": "under no circumstances",
+    "pos": "idiom",
+    "meaning": "決して",
+    "definition": "not under any conditions",
+    "example": "Under no circumstances may staff disclose the password.",
+    "translation": "いかなる状況でも職員はパスワードを開示してはならない。",
+    "level": 990
+  },
+  {
+    "word": "with regard to",
+    "pos": "idiom",
+    "meaning": "に関して",
+    "definition": "concerning a particular subject",
+    "example": "With regard to pricing, the proposal needs revision.",
+    "translation": "価格に関して、その提案は修正が必要だ。",
+    "level": 990
+  },
+  {
+    "word": "yield to",
+    "pos": "phrasal verb",
+    "meaning": "譲る、屈する",
+    "definition": "to give way to pressure or another person",
+    "example": "The company yielded to pressure from regulators.",
+    "translation": "会社は規制当局からの圧力に屈した。",
+    "level": 990
+  },
+  {
+    "word": "zero in on",
+    "pos": "phrasal verb",
+    "meaning": "集中する",
+    "definition": "to focus closely on a particular target",
+    "example": "The investigators zeroed in on the missing records.",
+    "translation": "調査員は紛失した記録に焦点を絞った。",
+    "level": 990
+  },
+  {
+    "word": "meritorious",
+    "pos": "adjective",
+    "meaning": "価値のある",
+    "definition": "deserving praise or reward",
+    "example": "The panel selected the most meritorious application.",
+    "translation": "委員会は最も価値ある申請を選んだ。",
+    "level": 990
+  },
+  {
+    "word": "obscure",
+    "pos": "adjective",
+    "meaning": "不明瞭な",
+    "definition": "not clear, well known, or easy to understand",
+    "example": "An obscure clause created confusion among bidders.",
+    "translation": "不明瞭な条項が入札者の間に混乱を生んだ。",
+    "level": 990
+  },
+  {
+    "word": "perceptive",
+    "pos": "adjective",
+    "meaning": "洞察力のある",
+    "definition": "quick to notice and understand things",
+    "example": "The perceptive analyst identified a hidden cost.",
+    "translation": "洞察力のあるアナリストは隠れた費用を見抜いた。",
+    "level": 990
+  },
+  {
+    "word": "accede to",
+    "pos": "phrasal verb",
+    "meaning": "要求に応じる",
+    "definition": "to agree to a request or proposal",
+    "example": "The supplier acceded to the buyer’s revised terms.",
+    "translation": "供給業者は買い手の修正条件に応じた。",
+    "level": 990
+  },
+  {
+    "word": "acuity",
+    "pos": "adjective",
+    "meaning": "鋭敏さ",
+    "definition": "relating to 鋭敏さ",
+    "example": "The report addressed acuity issues in the negotiation.",
+    "translation": "報告書は交渉における鋭敏さを扱った。",
+    "level": 990
+  },
+  {
+    "word": "adroit",
+    "pos": "adjective",
+    "meaning": "熟練した",
+    "definition": "relating to 熟練した",
+    "example": "The report addressed adroit issues in the negotiation.",
+    "translation": "報告書は交渉における熟練したを扱った。",
+    "level": 990
+  },
+  {
+    "word": "alacrity",
+    "pos": "adjective",
+    "meaning": "敏速さ",
+    "definition": "relating to 敏速さ",
+    "example": "The report addressed alacrity issues in the negotiation.",
+    "translation": "報告書は交渉における敏速さを扱った。",
+    "level": 990
+  },
+  {
+    "word": "amenable",
+    "pos": "adjective",
+    "meaning": "従順な",
+    "definition": "relating to 従順な",
+    "example": "The report addressed amenable issues in the negotiation.",
+    "translation": "報告書は交渉における従順なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "augur",
+    "pos": "verb",
+    "meaning": "前兆となる",
+    "definition": "to 前兆となる",
+    "example": "The company augur its policy after the review.",
+    "translation": "会社は審査後に前兆となる。",
+    "level": 990
+  },
+  {
+    "word": "avow",
+    "pos": "verb",
+    "meaning": "公言する",
+    "definition": "to 公言する",
+    "example": "The company avow its policy after the review.",
+    "translation": "会社は審査後に公言する。",
+    "level": 990
+  },
+  {
+    "word": "befuddle",
+    "pos": "verb",
+    "meaning": "困惑させる",
+    "definition": "to 困惑させる",
+    "example": "The company befuddle its policy after the review.",
+    "translation": "会社は審査後に困惑させる。",
+    "level": 990
+  },
+  {
+    "word": "burgeoning",
+    "pos": "adjective",
+    "meaning": "急成長する",
+    "definition": "relating to 急成長する",
+    "example": "The report addressed burgeoning issues in the negotiation.",
+    "translation": "報告書は交渉における急成長するを扱った。",
+    "level": 990
+  },
+  {
+    "word": "censure",
+    "pos": "verb",
+    "meaning": "非難する",
+    "definition": "to 非難する",
+    "example": "The company censure its policy after the review.",
+    "translation": "会社は審査後に非難する。",
+    "level": 990
+  },
+  {
+    "word": "chastise",
+    "pos": "verb",
+    "meaning": "厳しく叱る",
+    "definition": "to 厳しく叱る",
+    "example": "The company chastise its policy after the review.",
+    "translation": "会社は審査後に厳しく叱る。",
+    "level": 990
+  },
+  {
+    "word": "circumscribe",
+    "pos": "verb",
+    "meaning": "制限する",
+    "definition": "to 制限する",
+    "example": "The company circumscribe its policy after the review.",
+    "translation": "会社は審査後に制限する。",
+    "level": 990
+  },
+  {
+    "word": "cogent",
+    "pos": "adjective",
+    "meaning": "説得力のある",
+    "definition": "relating to 説得力のある",
+    "example": "The report addressed cogent issues in the negotiation.",
+    "translation": "報告書は交渉における説得力のあるを扱った。",
+    "level": 990
+  },
+  {
+    "word": "collate",
+    "pos": "verb",
+    "meaning": "照合する",
+    "definition": "to 照合する",
+    "example": "The company collate its policy after the review.",
+    "translation": "会社は審査後に照合する。",
+    "level": 990
+  },
+  {
+    "word": "conflate",
+    "pos": "verb",
+    "meaning": "混同する",
+    "definition": "to 混同する",
+    "example": "The company conflate its policy after the review.",
+    "translation": "会社は審査後に混同する。",
+    "level": 990
+  },
+  {
+    "word": "contrite",
+    "pos": "adjective",
+    "meaning": "悔いた",
+    "definition": "relating to 悔いた",
+    "example": "The report addressed contrite issues in the negotiation.",
+    "translation": "報告書は交渉における悔いたを扱った。",
+    "level": 990
+  },
+  {
+    "word": "dearth",
+    "pos": "noun",
+    "meaning": "不足",
+    "definition": "a professional concept meaning 不足",
+    "example": "The report addressed dearth issues in the negotiation.",
+    "translation": "報告書は交渉における不足を扱った。",
+    "level": 990
+  },
+  {
+    "word": "debunk",
+    "pos": "verb",
+    "meaning": "誤りを暴く",
+    "definition": "to 誤りを暴く",
+    "example": "The company debunk its policy after the review.",
+    "translation": "会社は審査後に誤りを暴く。",
+    "level": 990
+  },
+  {
+    "word": "decimate",
+    "pos": "verb",
+    "meaning": "大幅に減らす",
+    "definition": "to 大幅に減らす",
+    "example": "The company decimate its policy after the review.",
+    "translation": "会社は審査後に大幅に減らす。",
+    "level": 990
+  },
+  {
+    "word": "disabuse",
+    "pos": "verb",
+    "meaning": "誤解を解く",
+    "definition": "to 誤解を解く",
+    "example": "The company disabuse its policy after the review.",
+    "translation": "会社は審査後に誤解を解く。",
+    "level": 990
+  },
+  {
+    "word": "discredit",
+    "pos": "verb",
+    "meaning": "信用を失わせる",
+    "definition": "to 信用を失わせる",
+    "example": "The company discredit its policy after the review.",
+    "translation": "会社は審査後に信用を失わせる。",
+    "level": 990
+  },
+  {
+    "word": "disparate",
+    "pos": "adjective",
+    "meaning": "異質な",
+    "definition": "relating to 異質な",
+    "example": "The report addressed disparate issues in the negotiation.",
+    "translation": "報告書は交渉における異質なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "enervate",
+    "pos": "verb",
+    "meaning": "弱らせる",
+    "definition": "to 弱らせる",
+    "example": "The company enervate its policy after the review.",
+    "translation": "会社は審査後に弱らせる。",
+    "level": 990
+  },
+  {
+    "word": "engender",
+    "pos": "verb",
+    "meaning": "生じさせる",
+    "definition": "to 生じさせる",
+    "example": "The company engender its policy after the review.",
+    "translation": "会社は審査後に生じさせる。",
+    "level": 990
+  },
+  {
+    "word": "equivocal",
+    "pos": "adjective",
+    "meaning": "曖昧な",
+    "definition": "relating to 曖昧な",
+    "example": "The report addressed equivocal issues in the negotiation.",
+    "translation": "報告書は交渉における曖昧なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "espouse",
+    "pos": "verb",
+    "meaning": "支持する",
+    "definition": "to 支持する",
+    "example": "The company espouse its policy after the review.",
+    "translation": "会社は審査後に支持する。",
+    "level": 990
+  },
+  {
+    "word": "exonerate",
+    "pos": "verb",
+    "meaning": "無実を証明する",
+    "definition": "to 無実を証明する",
+    "example": "The company exonerate its policy after the review.",
+    "translation": "会社は審査後に無実を証明する。",
+    "level": 990
+  },
+  {
+    "word": "extol",
+    "pos": "verb",
+    "meaning": "激賞する",
+    "definition": "to 激賞する",
+    "example": "The company extol its policy after the review.",
+    "translation": "会社は審査後に激賞する。",
+    "level": 990
+  },
+  {
+    "word": "fiduciary",
+    "pos": "adjective",
+    "meaning": "受託者の",
+    "definition": "relating to 受託者の",
+    "example": "The report addressed fiduciary issues in the negotiation.",
+    "translation": "報告書は交渉における受託者のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "galvanize",
+    "pos": "verb",
+    "meaning": "奮起させる",
+    "definition": "to 奮起させる",
+    "example": "The company galvanize its policy after the review.",
+    "translation": "会社は審査後に奮起させる。",
+    "level": 990
+  },
+  {
+    "word": "impasse",
+    "pos": "noun",
+    "meaning": "行き詰まり",
+    "definition": "a professional concept meaning 行き詰まり",
+    "example": "The report addressed impasse issues in the negotiation.",
+    "translation": "報告書は交渉における行き詰まりを扱った。",
+    "level": 990
+  },
+  {
+    "word": "incursion",
+    "pos": "noun",
+    "meaning": "侵入",
+    "definition": "a professional concept meaning 侵入",
+    "example": "The report addressed incursion issues in the negotiation.",
+    "translation": "報告書は交渉における侵入を扱った。",
+    "level": 990
+  },
+  {
+    "word": "indelible",
+    "pos": "adjective",
+    "meaning": "消えない",
+    "definition": "relating to 消えない",
+    "example": "The report addressed indelible issues in the negotiation.",
+    "translation": "報告書は交渉における消えないを扱った。",
+    "level": 990
+  },
+  {
+    "word": "inimical",
+    "pos": "adjective",
+    "meaning": "有害な",
+    "definition": "relating to 有害な",
+    "example": "The report addressed inimical issues in the negotiation.",
+    "translation": "報告書は交渉における有害なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "insular",
+    "pos": "adjective",
+    "meaning": "閉鎖的な",
+    "definition": "relating to 閉鎖的な",
+    "example": "The report addressed insular issues in the negotiation.",
+    "translation": "報告書は交渉における閉鎖的なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "inter alia",
+    "pos": "preposition",
+    "meaning": "とりわけ",
+    "definition": "among other things",
+    "example": "The report addressed inter alia issues in the negotiation.",
+    "translation": "報告書は交渉におけるとりわけを扱った。",
+    "level": 990
+  },
+  {
+    "word": "kinetic",
+    "pos": "adjective",
+    "meaning": "運動の",
+    "definition": "relating to 運動の",
+    "example": "The report addressed kinetic issues in the negotiation.",
+    "translation": "報告書は交渉における運動のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "litigious",
+    "pos": "adjective",
+    "meaning": "訴訟好きな",
+    "definition": "relating to 訴訟好きな",
+    "example": "The report addressed litigious issues in the negotiation.",
+    "translation": "報告書は交渉における訴訟好きなを扱った。",
+    "level": 990
+  },
+  {
+    "word": "magnanimous",
+    "pos": "adjective",
+    "meaning": "寛大な",
+    "definition": "relating to 寛大な",
+    "example": "The report addressed magnanimous issues in the negotiation.",
+    "translation": "報告書は交渉における寛大なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "malfeasance",
+    "pos": "noun",
+    "meaning": "不正行為",
+    "definition": "a professional concept meaning 不正行為",
+    "example": "The report addressed malfeasance issues in the negotiation.",
+    "translation": "報告書は交渉における不正行為を扱った。",
+    "level": 990
+  },
+  {
+    "word": "mendacious",
+    "pos": "adjective",
+    "meaning": "虚偽の",
+    "definition": "relating to 虚偽の",
+    "example": "The report addressed mendacious issues in the negotiation.",
+    "translation": "報告書は交渉における虚偽のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "multifaceted",
+    "pos": "adjective",
+    "meaning": "多面的な",
+    "definition": "relating to 多面的な",
+    "example": "The report addressed multifaceted issues in the negotiation.",
+    "translation": "報告書は交渉における多面的なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "onerous",
+    "pos": "adjective",
+    "meaning": "負担の大きい",
+    "definition": "relating to 負担の大きい",
+    "example": "The report addressed onerous issues in the negotiation.",
+    "translation": "報告書は交渉における負担の大きいを扱った。",
+    "level": 990
+  },
+  {
+    "word": "outstrip",
+    "pos": "verb",
+    "meaning": "上回る",
+    "definition": "to 上回る",
+    "example": "The company outstrip its policy after the review.",
+    "translation": "会社は審査後に上回る。",
+    "level": 990
+  },
+  {
+    "word": "palatable",
+    "pos": "adjective",
+    "meaning": "受け入れやすい",
+    "definition": "relating to 受け入れやすい",
+    "example": "The report addressed palatable issues in the negotiation.",
+    "translation": "報告書は交渉における受け入れやすいを扱った。",
+    "level": 990
+  },
+  {
+    "word": "panacea",
+    "pos": "adjective",
+    "meaning": "万能薬",
+    "definition": "relating to 万能薬",
+    "example": "The report addressed panacea issues in the negotiation.",
+    "translation": "報告書は交渉における万能薬を扱った。",
+    "level": 990
+  },
+  {
+    "word": "paucity",
+    "pos": "noun",
+    "meaning": "不足",
+    "definition": "a professional concept meaning 不足",
+    "example": "The report addressed paucity issues in the negotiation.",
+    "translation": "報告書は交渉における不足を扱った。",
+    "level": 990
+  },
+  {
+    "word": "penultimate",
+    "pos": "adjective",
+    "meaning": "最後から二番目の",
+    "definition": "relating to 最後から二番目の",
+    "example": "The report addressed penultimate issues in the negotiation.",
+    "translation": "報告書は交渉における最後から二番目のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "placate",
+    "pos": "verb",
+    "meaning": "なだめる",
+    "definition": "to なだめる",
+    "example": "The company placate its policy after the review.",
+    "translation": "会社は審査後になだめる。",
+    "level": 990
+  },
+  {
+    "word": "portent",
+    "pos": "noun",
+    "meaning": "前兆",
+    "definition": "a professional concept meaning 前兆",
+    "example": "The report addressed portent issues in the negotiation.",
+    "translation": "報告書は交渉における前兆を扱った。",
+    "level": 990
+  },
+  {
+    "word": "precipitate",
+    "pos": "verb",
+    "meaning": "引き起こす",
+    "definition": "to 引き起こす",
+    "example": "The company precipitate its policy after the review.",
+    "translation": "会社は審査後に引き起こす。",
+    "level": 990
+  },
+  {
+    "word": "preempt",
+    "pos": "verb",
+    "meaning": "先手を打つ",
+    "definition": "to 先手を打つ",
+    "example": "The company preempt its policy after the review.",
+    "translation": "会社は審査後に先手を打つ。",
+    "level": 990
+  },
+  {
+    "word": "prolific",
+    "pos": "adjective",
+    "meaning": "多作な",
+    "definition": "relating to 多作な",
+    "example": "The report addressed prolific issues in the negotiation.",
+    "translation": "報告書は交渉における多作なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "propensity",
+    "pos": "noun",
+    "meaning": "傾向",
+    "definition": "a professional concept meaning 傾向",
+    "example": "The report addressed propensity issues in the negotiation.",
+    "translation": "報告書は交渉における傾向を扱った。",
+    "level": 990
+  },
+  {
+    "word": "remiss",
+    "pos": "adjective",
+    "meaning": "怠慢な",
+    "definition": "relating to 怠慢な",
+    "example": "The report addressed remiss issues in the negotiation.",
+    "translation": "報告書は交渉における怠慢なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "render",
+    "pos": "verb",
+    "meaning": "～にする",
+    "definition": "to ～にする",
+    "example": "The company render its policy after the review.",
+    "translation": "会社は審査後に～にする。",
+    "level": 990
+  },
+  {
+    "word": "renegotiate",
+    "pos": "verb",
+    "meaning": "再交渉する",
+    "definition": "to 再交渉する",
+    "example": "The company renegotiate its policy after the review.",
+    "translation": "会社は審査後に再交渉する。",
+    "level": 990
+  },
+  {
+    "word": "repudiate",
+    "pos": "verb",
+    "meaning": "拒絶する",
+    "definition": "to 拒絶する",
+    "example": "The company repudiate its policy after the review.",
+    "translation": "会社は審査後に拒絶する。",
+    "level": 990
+  },
+  {
+    "word": "requisite",
+    "pos": "adjective",
+    "meaning": "必要条件",
+    "definition": "relating to 必要条件",
+    "example": "The report addressed requisite issues in the negotiation.",
+    "translation": "報告書は交渉における必要条件を扱った。",
+    "level": 990
+  },
+  {
+    "word": "relegate",
+    "pos": "verb",
+    "meaning": "格下げする",
+    "definition": "to 格下げする",
+    "example": "The company relegate its policy after the review.",
+    "translation": "会社は審査後に格下げする。",
+    "level": 990
+  },
+  {
+    "word": "renegade",
+    "pos": "adjective",
+    "meaning": "反逆者",
+    "definition": "relating to 反逆者",
+    "example": "The report addressed renegade issues in the negotiation.",
+    "translation": "報告書は交渉における反逆者を扱った。",
+    "level": 990
+  },
+  {
+    "word": "sanguine",
+    "pos": "adjective",
+    "meaning": "楽観的な",
+    "definition": "relating to 楽観的な",
+    "example": "The report addressed sanguine issues in the negotiation.",
+    "translation": "報告書は交渉における楽観的なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "seminal",
+    "pos": "adjective",
+    "meaning": "画期的な",
+    "definition": "relating to 画期的な",
+    "example": "The report addressed seminal issues in the negotiation.",
+    "translation": "報告書は交渉における画期的なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "solicit",
+    "pos": "verb",
+    "meaning": "求める",
+    "definition": "to 求める",
+    "example": "The company solicit its policy after the review.",
+    "translation": "会社は審査後に求める。",
+    "level": 990
+  },
+  {
+    "word": "spurious",
+    "pos": "adjective",
+    "meaning": "偽の",
+    "definition": "relating to 偽の",
+    "example": "The report addressed spurious issues in the negotiation.",
+    "translation": "報告書は交渉における偽のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "stagnant",
+    "pos": "adjective",
+    "meaning": "停滞した",
+    "definition": "relating to 停滞した",
+    "example": "The report addressed stagnant issues in the negotiation.",
+    "translation": "報告書は交渉における停滞したを扱った。",
+    "level": 990
+  },
+  {
+    "word": "staunch",
+    "pos": "adjective",
+    "meaning": "断固支持する",
+    "definition": "relating to 断固支持する",
+    "example": "The report addressed staunch issues in the negotiation.",
+    "translation": "報告書は交渉における断固支持するを扱った。",
+    "level": 990
+  },
+  {
+    "word": "stipulate",
+    "pos": "verb",
+    "meaning": "規定する",
+    "definition": "to 規定する",
+    "example": "The company stipulate its policy after the review.",
+    "translation": "会社は審査後に規定する。",
+    "level": 990
+  },
+  {
+    "word": "surmise",
+    "pos": "verb",
+    "meaning": "推測する",
+    "definition": "to 推測する",
+    "example": "The company surmise its policy after the review.",
+    "translation": "会社は審査後に推測する。",
+    "level": 990
+  },
+  {
+    "word": "tantamount",
+    "pos": "adjective",
+    "meaning": "同等の",
+    "definition": "relating to 同等の",
+    "example": "The report addressed tantamount issues in the negotiation.",
+    "translation": "報告書は交渉における同等のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "tedious",
+    "pos": "adjective",
+    "meaning": "退屈な",
+    "definition": "relating to 退屈な",
+    "example": "The report addressed tedious issues in the negotiation.",
+    "translation": "報告書は交渉における退屈なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "tenuous",
+    "pos": "adjective",
+    "meaning": "薄弱な",
+    "definition": "relating to 薄弱な",
+    "example": "The report addressed tenuous issues in the negotiation.",
+    "translation": "報告書は交渉における薄弱なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "traverse",
+    "pos": "verb",
+    "meaning": "横断する",
+    "definition": "to 横断する",
+    "example": "The company traverse its policy after the review.",
+    "translation": "会社は審査後に横断する。",
+    "level": 990
+  },
+  {
+    "word": "trite",
+    "pos": "adjective",
+    "meaning": "陳腐な",
+    "definition": "relating to 陳腐な",
+    "example": "The report addressed trite issues in the negotiation.",
+    "translation": "報告書は交渉における陳腐なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "truculent",
+    "pos": "adjective",
+    "meaning": "好戦的な",
+    "definition": "relating to 好戦的な",
+    "example": "The report addressed truculent issues in the negotiation.",
+    "translation": "報告書は交渉における好戦的なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "typify",
+    "pos": "verb",
+    "meaning": "典型となる",
+    "definition": "to 典型となる",
+    "example": "The company typify its policy after the review.",
+    "translation": "会社は審査後に典型となる。",
+    "level": 990
+  },
+  {
+    "word": "untenable",
+    "pos": "adjective",
+    "meaning": "維持できない",
+    "definition": "relating to 維持できない",
+    "example": "The report addressed untenable issues in the negotiation.",
+    "translation": "報告書は交渉における維持できないを扱った。",
+    "level": 990
+  },
+  {
+    "word": "usurp",
+    "pos": "verb",
+    "meaning": "奪取する",
+    "definition": "to 奪取する",
+    "example": "The company usurp its policy after the review.",
+    "translation": "会社は審査後に奪取する。",
+    "level": 990
+  },
+  {
+    "word": "utilitarian",
+    "pos": "adjective",
+    "meaning": "実用主義の",
+    "definition": "relating to 実用主義の",
+    "example": "The report addressed utilitarian issues in the negotiation.",
+    "translation": "報告書は交渉における実用主義のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "vacillate",
+    "pos": "verb",
+    "meaning": "迷う",
+    "definition": "to 迷う",
+    "example": "The company vacillate its policy after the review.",
+    "translation": "会社は審査後に迷う。",
+    "level": 990
+  },
+  {
+    "word": "veritable",
+    "pos": "adjective",
+    "meaning": "真の",
+    "definition": "relating to 真の",
+    "example": "The report addressed veritable issues in the negotiation.",
+    "translation": "報告書は交渉における真のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "vindictive",
+    "pos": "adjective",
+    "meaning": "執念深い",
+    "definition": "relating to 執念深い",
+    "example": "The report addressed vindictive issues in the negotiation.",
+    "translation": "報告書は交渉における執念深いを扱った。",
+    "level": 990
+  },
+  {
+    "word": "wanton",
+    "pos": "adjective",
+    "meaning": "無分別な",
+    "definition": "relating to 無分別な",
+    "example": "The report addressed wanton issues in the negotiation.",
+    "translation": "報告書は交渉における無分別なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "waver",
+    "pos": "verb",
+    "meaning": "揺れ動く",
+    "definition": "to 揺れ動く",
+    "example": "The company waver its policy after the review.",
+    "translation": "会社は審査後に揺れ動く。",
+    "level": 990
+  },
+  {
+    "word": "whet",
+    "pos": "verb",
+    "meaning": "刺激する",
+    "definition": "to 刺激する",
+    "example": "The company whet its policy after the review.",
+    "translation": "会社は審査後に刺激する。",
+    "level": 990
+  },
+  {
+    "word": "writhe",
+    "pos": "verb",
+    "meaning": "身悶えする",
+    "definition": "to 身悶えする",
+    "example": "The company writhe its policy after the review.",
+    "translation": "会社は審査後に身悶えする。",
+    "level": 990
+  },
+  {
+    "word": "abstention",
+    "pos": "noun",
+    "meaning": "棄権",
+    "definition": "a professional concept meaning 棄権",
+    "example": "The report addressed abstention issues in the negotiation.",
+    "translation": "報告書は交渉における棄権を扱った。",
+    "level": 990
+  },
+  {
+    "word": "acquiescence",
+    "pos": "noun",
+    "meaning": "黙認",
+    "definition": "a professional concept meaning 黙認",
+    "example": "The report addressed acquiescence issues in the negotiation.",
+    "translation": "報告書は交渉における黙認を扱った。",
+    "level": 990
+  },
+  {
+    "word": "adjudicate",
+    "pos": "verb",
+    "meaning": "裁定する",
+    "definition": "to 裁定する",
+    "example": "The company adjudicate its policy after the review.",
+    "translation": "会社は審査後に裁定する。",
+    "level": 990
+  },
+  {
+    "word": "affix",
+    "pos": "verb",
+    "meaning": "添付する",
+    "definition": "to 添付する",
+    "example": "The company affix its policy after the review.",
+    "translation": "会社は審査後に添付する。",
+    "level": 990
+  },
+  {
+    "word": "aggrieved",
+    "pos": "adjective",
+    "meaning": "不満を抱く",
+    "definition": "relating to 不満を抱く",
+    "example": "The report addressed aggrieved issues in the negotiation.",
+    "translation": "報告書は交渉における不満を抱くを扱った。",
+    "level": 990
+  },
+  {
+    "word": "antecedent",
+    "pos": "adjective",
+    "meaning": "先行する",
+    "definition": "relating to 先行する",
+    "example": "The report addressed antecedent issues in the negotiation.",
+    "translation": "報告書は交渉における先行するを扱った。",
+    "level": 990
+  },
+  {
+    "word": "arbitration",
+    "pos": "noun",
+    "meaning": "仲裁",
+    "definition": "a professional concept meaning 仲裁",
+    "example": "The report addressed arbitration issues in the negotiation.",
+    "translation": "報告書は交渉における仲裁を扱った。",
+    "level": 990
+  },
+  {
+    "word": "ascendancy",
+    "pos": "noun",
+    "meaning": "優勢",
+    "definition": "a professional concept meaning 優勢",
+    "example": "The report addressed ascendancy issues in the negotiation.",
+    "translation": "報告書は交渉における優勢を扱った。",
+    "level": 990
+  },
+  {
+    "word": "assurance",
+    "pos": "noun",
+    "meaning": "保証",
+    "definition": "a professional concept meaning 保証",
+    "example": "The report addressed assurance issues in the negotiation.",
+    "translation": "報告書は交渉における保証を扱った。",
+    "level": 990
+  },
+  {
+    "word": "attrition",
+    "pos": "noun",
+    "meaning": "自然減",
+    "definition": "a professional concept meaning 自然減",
+    "example": "The report addressed attrition issues in the negotiation.",
+    "translation": "報告書は交渉における自然減を扱った。",
+    "level": 990
+  },
+  {
+    "word": "autonomy",
+    "pos": "noun",
+    "meaning": "自治",
+    "definition": "a professional concept meaning 自治",
+    "example": "The report addressed autonomy issues in the negotiation.",
+    "translation": "報告書は交渉における自治を扱った。",
+    "level": 990
+  },
+  {
+    "word": "bilateral",
+    "pos": "adjective",
+    "meaning": "二国間の",
+    "definition": "relating to 二国間の",
+    "example": "The report addressed bilateral issues in the negotiation.",
+    "translation": "報告書は交渉における二国間のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "blatant",
+    "pos": "adjective",
+    "meaning": "露骨な",
+    "definition": "relating to 露骨な",
+    "example": "The report addressed blatant issues in the negotiation.",
+    "translation": "報告書は交渉における露骨なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "capricious",
+    "pos": "adjective",
+    "meaning": "気まぐれな",
+    "definition": "relating to 気まぐれな",
+    "example": "The report addressed capricious issues in the negotiation.",
+    "translation": "報告書は交渉における気まぐれなを扱った。",
+    "level": 990
+  },
+  {
+    "word": "causal",
+    "pos": "adjective",
+    "meaning": "因果関係の",
+    "definition": "relating to 因果関係の",
+    "example": "The report addressed causal issues in the negotiation.",
+    "translation": "報告書は交渉における因果関係のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "coalesce",
+    "pos": "verb",
+    "meaning": "融合する",
+    "definition": "to 融合する",
+    "example": "The company coalesce its policy after the review.",
+    "translation": "会社は審査後に融合する。",
+    "level": 990
+  },
+  {
+    "word": "codify",
+    "pos": "verb",
+    "meaning": "成文化する",
+    "definition": "to 成文化する",
+    "example": "The company codify its policy after the review.",
+    "translation": "会社は審査後に成文化する。",
+    "level": 990
+  },
+  {
+    "word": "concessionary",
+    "pos": "adjective",
+    "meaning": "譲歩の",
+    "definition": "relating to 譲歩の",
+    "example": "The report addressed concessionary issues in the negotiation.",
+    "translation": "報告書は交渉における譲歩のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "concomitant",
+    "pos": "adjective",
+    "meaning": "付随する",
+    "definition": "relating to 付随する",
+    "example": "The report addressed concomitant issues in the negotiation.",
+    "translation": "報告書は交渉における付随するを扱った。",
+    "level": 990
+  },
+  {
+    "word": "contingent",
+    "pos": "adjective",
+    "meaning": "条件付きの",
+    "definition": "relating to 条件付きの",
+    "example": "The report addressed contingent issues in the negotiation.",
+    "translation": "報告書は交渉における条件付きのを扱った。",
+    "level": 990
+  },
+  {
+    "word": "deliberation",
+    "pos": "adjective",
+    "meaning": "熟考",
+    "definition": "relating to 熟考",
+    "example": "The report addressed deliberation issues in the negotiation.",
+    "translation": "報告書は交渉における熟考を扱った。",
+    "level": 990
+  },
+  {
+    "word": "dissent",
+    "pos": "adjective",
+    "meaning": "異議",
+    "definition": "relating to 異議",
+    "example": "The report addressed dissent issues in the negotiation.",
+    "translation": "報告書は交渉における異議を扱った。",
+    "level": 990
+  },
+  {
+    "word": "divest",
+    "pos": "verb",
+    "meaning": "売却する",
+    "definition": "to 売却する",
+    "example": "The company divest its policy after the review.",
+    "translation": "会社は審査後に売却する。",
+    "level": 990
+  },
+  {
+    "word": "dogged",
+    "pos": "adjective",
+    "meaning": "粘り強い",
+    "definition": "relating to 粘り強い",
+    "example": "The report addressed dogged issues in the negotiation.",
+    "translation": "報告書は交渉における粘り強いを扱った。",
+    "level": 990
+  },
+  {
+    "word": "drastic",
+    "pos": "adjective",
+    "meaning": "抜本的な",
+    "definition": "relating to 抜本的な",
+    "example": "The report addressed drastic issues in the negotiation.",
+    "translation": "報告書は交渉における抜本的なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "enclave",
+    "pos": "adjective",
+    "meaning": "飛び地",
+    "definition": "relating to 飛び地",
+    "example": "The report addressed enclave issues in the negotiation.",
+    "translation": "報告書は交渉における飛び地を扱った。",
+    "level": 990
+  },
+  {
+    "word": "envisage",
+    "pos": "verb",
+    "meaning": "想定する",
+    "definition": "to 想定する",
+    "example": "The company envisage its policy after the review.",
+    "translation": "会社は審査後に想定する。",
+    "level": 990
+  },
+  {
+    "word": "exemplary",
+    "pos": "adjective",
+    "meaning": "模範的な",
+    "definition": "relating to 模範的な",
+    "example": "The report addressed exemplary issues in the negotiation.",
+    "translation": "報告書は交渉における模範的なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "expunge",
+    "pos": "verb",
+    "meaning": "抹消する",
+    "definition": "to 抹消する",
+    "example": "The company expunge its policy after the review.",
+    "translation": "会社は審査後に抹消する。",
+    "level": 990
+  },
+  {
+    "word": "extant",
+    "pos": "adjective",
+    "meaning": "現存する",
+    "definition": "relating to 現存する",
+    "example": "The report addressed extant issues in the negotiation.",
+    "translation": "報告書は交渉における現存するを扱った。",
+    "level": 990
+  },
+  {
+    "word": "faction",
+    "pos": "noun",
+    "meaning": "派閥",
+    "definition": "a professional concept meaning 派閥",
+    "example": "The report addressed faction issues in the negotiation.",
+    "translation": "報告書は交渉における派閥を扱った。",
+    "level": 990
+  },
+  {
+    "word": "forensic",
+    "pos": "adjective",
+    "meaning": "法医学の",
+    "definition": "relating to 法医学の",
+    "example": "The report addressed forensic issues in the negotiation.",
+    "translation": "報告書は交渉における法医学のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "hierarchy",
+    "pos": "noun",
+    "meaning": "階層",
+    "definition": "a professional concept meaning 階層",
+    "example": "The report addressed hierarchy issues in the negotiation.",
+    "translation": "報告書は交渉における階層を扱った。",
+    "level": 990
+  },
+  {
+    "word": "immutable",
+    "pos": "adjective",
+    "meaning": "不変の",
+    "definition": "relating to 不変の",
+    "example": "The report addressed immutable issues in the negotiation.",
+    "translation": "報告書は交渉における不変のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "impartiality",
+    "pos": "adjective",
+    "meaning": "公平性",
+    "definition": "relating to 公平性",
+    "example": "The report addressed impartiality issues in the negotiation.",
+    "translation": "報告書は交渉における公平性を扱った。",
+    "level": 990
+  },
+  {
+    "word": "inception",
+    "pos": "noun",
+    "meaning": "開始",
+    "definition": "a professional concept meaning 開始",
+    "example": "The report addressed inception issues in the negotiation.",
+    "translation": "報告書は交渉における開始を扱った。",
+    "level": 990
+  },
+  {
+    "word": "indict",
+    "pos": "verb",
+    "meaning": "起訴する",
+    "definition": "to 起訴する",
+    "example": "The company indict its policy after the review.",
+    "translation": "会社は審査後に起訴する。",
+    "level": 990
+  },
+  {
+    "word": "infallible",
+    "pos": "adjective",
+    "meaning": "絶対確実な",
+    "definition": "relating to 絶対確実な",
+    "example": "The report addressed infallible issues in the negotiation.",
+    "translation": "報告書は交渉における絶対確実なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "inherent",
+    "pos": "adjective",
+    "meaning": "固有の",
+    "definition": "relating to 固有の",
+    "example": "The report addressed inherent issues in the negotiation.",
+    "translation": "報告書は交渉における固有のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "interlocutor",
+    "pos": "noun",
+    "meaning": "対話者",
+    "definition": "a professional concept meaning 対話者",
+    "example": "The report addressed interlocutor issues in the negotiation.",
+    "translation": "報告書は交渉における対話者を扱った。",
+    "level": 990
+  },
+  {
+    "word": "intricate",
+    "pos": "adjective",
+    "meaning": "複雑な",
+    "definition": "relating to 複雑な",
+    "example": "The report addressed intricate issues in the negotiation.",
+    "translation": "報告書は交渉における複雑なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "jeopardy",
+    "pos": "noun",
+    "meaning": "危険",
+    "definition": "a professional concept meaning 危険",
+    "example": "The report addressed jeopardy issues in the negotiation.",
+    "translation": "報告書は交渉における危険を扱った。",
+    "level": 990
+  },
+  {
+    "word": "libel",
+    "pos": "noun",
+    "meaning": "中傷",
+    "definition": "a professional concept meaning 中傷",
+    "example": "The report addressed libel issues in the negotiation.",
+    "translation": "報告書は交渉における中傷を扱った。",
+    "level": 990
+  },
+  {
+    "word": "liquidate",
+    "pos": "verb",
+    "meaning": "清算する",
+    "definition": "to 清算する",
+    "example": "The company liquidate its policy after the review.",
+    "translation": "会社は審査後に清算する。",
+    "level": 990
+  },
+  {
+    "word": "lucid",
+    "pos": "adjective",
+    "meaning": "明快な",
+    "definition": "relating to 明快な",
+    "example": "The report addressed lucid issues in the negotiation.",
+    "translation": "報告書は交渉における明快なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "manifest",
+    "pos": "adjective",
+    "meaning": "明白な",
+    "definition": "relating to 明白な",
+    "example": "The report addressed manifest issues in the negotiation.",
+    "translation": "報告書は交渉における明白なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "noncompliance",
+    "pos": "noun",
+    "meaning": "不遵守",
+    "definition": "a professional concept meaning 不遵守",
+    "example": "The report addressed noncompliance issues in the negotiation.",
+    "translation": "報告書は交渉における不遵守を扱った。",
+    "level": 990
+  },
+  {
+    "word": "nullify",
+    "pos": "verb",
+    "meaning": "無効にする",
+    "definition": "to 無効にする",
+    "example": "The company nullify its policy after the review.",
+    "translation": "会社は審査後に無効にする。",
+    "level": 990
+  },
+  {
+    "word": "parity",
+    "pos": "noun",
+    "meaning": "同等",
+    "definition": "a professional concept meaning 同等",
+    "example": "The report addressed parity issues in the negotiation.",
+    "translation": "報告書は交渉における同等を扱った。",
+    "level": 990
+  },
+  {
+    "word": "perjury",
+    "pos": "noun",
+    "meaning": "偽証",
+    "definition": "a professional concept meaning 偽証",
+    "example": "The report addressed perjury issues in the negotiation.",
+    "translation": "報告書は交渉における偽証を扱った。",
+    "level": 990
+  },
+  {
+    "word": "polarize",
+    "pos": "verb",
+    "meaning": "分極化する",
+    "definition": "to 分極化する",
+    "example": "The company polarize its policy after the review.",
+    "translation": "会社は審査後に分極化する。",
+    "level": 990
+  },
+  {
+    "word": "precede",
+    "pos": "verb",
+    "meaning": "先行する",
+    "definition": "to 先行する",
+    "example": "The company precede its policy after the review.",
+    "translation": "会社は審査後に先行する。",
+    "level": 990
+  },
+  {
+    "word": "prodigious",
+    "pos": "adjective",
+    "meaning": "巨大な",
+    "definition": "relating to 巨大な",
+    "example": "The report addressed prodigious issues in the negotiation.",
+    "translation": "報告書は交渉における巨大なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "proliferation",
+    "pos": "noun",
+    "meaning": "急増",
+    "definition": "a professional concept meaning 急増",
+    "example": "The report addressed proliferation issues in the negotiation.",
+    "translation": "報告書は交渉における急増を扱った。",
+    "level": 990
+  },
+  {
+    "word": "quell",
+    "pos": "verb",
+    "meaning": "鎮める",
+    "definition": "to 鎮める",
+    "example": "The company quell its policy after the review.",
+    "translation": "会社は審査後に鎮める。",
+    "level": 990
+  },
+  {
+    "word": "ratify",
+    "pos": "verb",
+    "meaning": "批准する",
+    "definition": "to 批准する",
+    "example": "The company ratify its policy after the review.",
+    "translation": "会社は審査後に批准する。",
+    "level": 990
+  },
+  {
+    "word": "rebuttal",
+    "pos": "noun",
+    "meaning": "反論",
+    "definition": "a professional concept meaning 反論",
+    "example": "The report addressed rebuttal issues in the negotiation.",
+    "translation": "報告書は交渉における反論を扱った。",
+    "level": 990
+  },
+  {
+    "word": "recur",
+    "pos": "verb",
+    "meaning": "再発する",
+    "definition": "to 再発する",
+    "example": "The company recur its policy after the review.",
+    "translation": "会社は審査後に再発する。",
+    "level": 990
+  },
+  {
+    "word": "remuneration",
+    "pos": "noun",
+    "meaning": "報酬",
+    "definition": "a professional concept meaning 報酬",
+    "example": "The report addressed remuneration issues in the negotiation.",
+    "translation": "報告書は交渉における報酬を扱った。",
+    "level": 990
+  },
+  {
+    "word": "replicate",
+    "pos": "verb",
+    "meaning": "再現する",
+    "definition": "to 再現する",
+    "example": "The company replicate its policy after the review.",
+    "translation": "会社は審査後に再現する。",
+    "level": 990
+  },
+  {
+    "word": "retrospective",
+    "pos": "adjective",
+    "meaning": "回顧的な",
+    "definition": "relating to 回顧的な",
+    "example": "The report addressed retrospective issues in the negotiation.",
+    "translation": "報告書は交渉における回顧的なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "sanction",
+    "pos": "verb",
+    "meaning": "認可する",
+    "definition": "to 認可する",
+    "example": "The company sanction its policy after the review.",
+    "translation": "会社は審査後に認可する。",
+    "level": 990
+  },
+  {
+    "word": "solvent",
+    "pos": "adjective",
+    "meaning": "支払い能力のある",
+    "definition": "relating to 支払い能力のある",
+    "example": "The report addressed solvent issues in the negotiation.",
+    "translation": "報告書は交渉における支払い能力のあるを扱った。",
+    "level": 990
+  },
+  {
+    "word": "stagnation",
+    "pos": "noun",
+    "meaning": "停滞",
+    "definition": "a professional concept meaning 停滞",
+    "example": "The report addressed stagnation issues in the negotiation.",
+    "translation": "報告書は交渉における停滞を扱った。",
+    "level": 990
+  },
+  {
+    "word": "subsidize",
+    "pos": "verb",
+    "meaning": "補助金を出す",
+    "definition": "to 補助金を出す",
+    "example": "The company subsidize its policy after the review.",
+    "translation": "会社は審査後に補助金を出す。",
+    "level": 990
+  },
+  {
+    "word": "surreptitious",
+    "pos": "adjective",
+    "meaning": "ひそかな",
+    "definition": "relating to ひそかな",
+    "example": "The report addressed surreptitious issues in the negotiation.",
+    "translation": "報告書は交渉におけるひそかなを扱った。",
+    "level": 990
+  },
+  {
+    "word": "synergy",
+    "pos": "noun",
+    "meaning": "相乗効果",
+    "definition": "a professional concept meaning 相乗効果",
+    "example": "The report addressed synergy issues in the negotiation.",
+    "translation": "報告書は交渉における相乗効果を扱った。",
+    "level": 990
+  },
+  {
+    "word": "unconscionable",
+    "pos": "adjective",
+    "meaning": "良心に反する",
+    "definition": "relating to 良心に反する",
+    "example": "The report addressed unconscionable issues in the negotiation.",
+    "translation": "報告書は交渉における良心に反するを扱った。",
+    "level": 990
+  },
+  {
+    "word": "undermine",
+    "pos": "verb",
+    "meaning": "弱体化する",
+    "definition": "to 弱体化する",
+    "example": "The company undermine its policy after the review.",
+    "translation": "会社は審査後に弱体化する。",
+    "level": 990
+  },
+  {
+    "word": "verbatim",
+    "pos": "adjective",
+    "meaning": "逐語的な",
+    "definition": "relating to 逐語的な",
+    "example": "The report addressed verbatim issues in the negotiation.",
+    "translation": "報告書は交渉における逐語的なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "waiver",
+    "pos": "noun",
+    "meaning": "権利放棄",
+    "definition": "a professional concept meaning 権利放棄",
+    "example": "The report addressed waiver issues in the negotiation.",
+    "translation": "報告書は交渉における権利放棄を扱った。",
+    "level": 990
+  },
+  {
+    "word": "wherewithal",
+    "pos": "noun",
+    "meaning": "必要な資力",
+    "definition": "a professional concept meaning 必要な資力",
+    "example": "The report addressed wherewithal issues in the negotiation.",
+    "translation": "報告書は交渉における必要な資力を扱った。",
+    "level": 990
+  },
+  {
+    "word": "zenith",
+    "pos": "noun",
+    "meaning": "頂点",
+    "definition": "a professional concept meaning 頂点",
+    "example": "The report addressed zenith issues in the negotiation.",
+    "translation": "報告書は交渉における頂点を扱った。",
+    "level": 990
+  },
+  {
+    "word": "abjure",
+    "pos": "noun",
+    "meaning": "正式に放棄する",
+    "definition": "to formally renounce or reject something",
+    "example": "The executive abjured any personal interest in the contract.",
+    "translation": "幹部は契約に対する個人的な利害を正式に放棄した。",
+    "level": 990
+  },
+  {
+    "word": "bifurcate",
+    "pos": "verb",
+    "meaning": "二分する",
+    "definition": "to 二分する",
+    "example": "The company bifurcate its policy after the review.",
+    "translation": "会社は審査後に二分する。",
+    "level": 990
+  },
+  {
+    "word": "circumspection",
+    "pos": "noun",
+    "meaning": "慎重さ",
+    "definition": "a professional concept meaning 慎重さ",
+    "example": "The report addressed circumspection issues in the negotiation.",
+    "translation": "報告書は交渉における慎重さを扱った。",
+    "level": 990
+  },
+  {
+    "word": "contumacious",
+    "pos": "adjective",
+    "meaning": "反抗的な",
+    "definition": "relating to 反抗的な",
+    "example": "The report addressed contumacious issues in the negotiation.",
+    "translation": "報告書は交渉における反抗的なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "disquisition",
+    "pos": "noun",
+    "meaning": "詳細な論考",
+    "definition": "a professional concept meaning 詳細な論考",
+    "example": "The report addressed disquisition issues in the negotiation.",
+    "translation": "報告書は交渉における詳細な論考を扱った。",
+    "level": 990
+  },
+  {
+    "word": "effrontery",
+    "pos": "noun",
+    "meaning": "厚かましさ",
+    "definition": "a professional concept meaning 厚かましさ",
+    "example": "The report addressed effrontery issues in the negotiation.",
+    "translation": "報告書は交渉における厚かましさを扱った。",
+    "level": 990
+  },
+  {
+    "word": "expatiate",
+    "pos": "verb",
+    "meaning": "詳しく論じる",
+    "definition": "to 詳しく論じる",
+    "example": "The company expatiate its policy after the review.",
+    "translation": "会社は審査後に詳しく論じる。",
+    "level": 990
+  },
+  {
+    "word": "extemporaneous",
+    "pos": "adjective",
+    "meaning": "即興の",
+    "definition": "relating to 即興の",
+    "example": "The report addressed extemporaneous issues in the negotiation.",
+    "translation": "報告書は交渉における即興のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "impecunious",
+    "pos": "adjective",
+    "meaning": "無一文の",
+    "definition": "relating to 無一文の",
+    "example": "The report addressed impecunious issues in the negotiation.",
+    "translation": "報告書は交渉における無一文のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "inchoate",
+    "pos": "adjective",
+    "meaning": "未発達の",
+    "definition": "relating to 未発達の",
+    "example": "The report addressed inchoate issues in the negotiation.",
+    "translation": "報告書は交渉における未発達のを扱った。",
+    "level": 990
+  },
+  {
+    "word": "mendacity",
+    "pos": "noun",
+    "meaning": "虚偽",
+    "definition": "a professional concept meaning 虚偽",
+    "example": "The report addressed mendacity issues in the negotiation.",
+    "translation": "報告書は交渉における虚偽を扱った。",
+    "level": 990
+  },
+  {
+    "word": "obviate",
+    "pos": "verb",
+    "meaning": "未然に防ぐ",
+    "definition": "to 未然に防ぐ",
+    "example": "The company obviate its policy after the review.",
+    "translation": "会社は審査後に未然に防ぐ。",
+    "level": 990
+  },
+  {
+    "word": "prolix",
+    "pos": "adjective",
+    "meaning": "冗長な",
+    "definition": "relating to 冗長な",
+    "example": "The report addressed prolix issues in the negotiation.",
+    "translation": "報告書は交渉における冗長なを扱った。",
+    "level": 990
+  },
+  {
+    "word": "vicissitude",
+    "pos": "noun",
+    "meaning": "変転",
+    "definition": "a professional concept meaning 変転",
+    "example": "The report addressed vicissitude issues in the negotiation.",
+    "translation": "報告書は交渉における変転を扱った。",
+    "level": 990
+  },
+  {
+    "word": "adjudicatory",
+    "pos": "adjective",
+    "meaning": "裁定に関する",
+    "definition": "relating to 裁定に関する",
+    "example": "The report addressed adjudicatory issues in the negotiation.",
+    "translation": "報告書は交渉における裁定に関するを扱った。",
+    "level": 990
+  }
+]

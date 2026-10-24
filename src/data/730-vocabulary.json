@@ -1,0 +1,3602 @@
+[
+  {
+    "word": "abandon",
+    "pos": "verb",
+    "meaning": "放棄する",
+    "definition": "To stop doing something or leave it completely, especially a plan, project, or responsibility.",
+    "example": "The team had to abandon the project after its funding was withdrawn.",
+    "translation": "資金が打ち切られた後、チームはそのプロジェクトを断念しなければならなかった。",
+    "level": 730
+  },
+  {
+    "word": "accommodate",
+    "pos": "verb",
+    "meaning": "収容する・要望に応じる",
+    "definition": "To provide enough space for someone or something, or to meet a request or need.",
+    "example": "The hotel was able to accommodate the customer’s request for a late checkout.",
+    "translation": "そのホテルは、顧客のレイトチェックアウトの要望に応じることができた。",
+    "level": 730
+  },
+  {
+    "word": "accomplish",
+    "pos": "verb",
+    "meaning": "達成する",
+    "definition": "To successfully complete something or achieve a goal.",
+    "example": "The sales team worked hard to accomplish its quarterly goal.",
+    "translation": "営業チームは四半期の目標を達成するために努力した。",
+    "level": 730
+  },
+  {
+    "word": "accumulate",
+    "pos": "verb",
+    "meaning": "蓄積する",
+    "definition": "To gradually collect or increase something over time.",
+    "example": "The researchers accumulated data from several thousand surveys.",
+    "translation": "研究者たちは数千件の調査からデータを蓄積した。",
+    "level": 730
+  },
+  {
+    "word": "acquisition",
+    "pos": "noun",
+    "meaning": "買収・取得",
+    "definition": "The act of obtaining or buying something, especially a company or property.",
+    "example": "The acquisition of the software company strengthened our technology division.",
+    "translation": "そのソフトウェア会社の買収により、当社の技術部門は強化された。",
+    "level": 730
+  },
+  {
+    "word": "adapt",
+    "pos": "verb",
+    "meaning": "適応する",
+    "definition": "To change or adjust so that you can deal with new conditions.",
+    "example": "Employees must adapt to changes in the market.",
+    "translation": "従業員は市場の変化に適応しなければならない。",
+    "level": 730
+  },
+  {
+    "word": "adequate",
+    "pos": "adjective",
+    "meaning": "十分な",
+    "definition": "Enough for a particular purpose or need.",
+    "example": "The project cannot begin until it has adequate funding.",
+    "translation": "そのプロジェクトは十分な資金が得られるまで開始できない。",
+    "level": 730
+  },
+  {
+    "word": "adjacent",
+    "pos": "adjective",
+    "meaning": "隣接した",
+    "definition": "Next to or very close to something else.",
+    "example": "The new office is adjacent to the station.",
+    "translation": "新しいオフィスは駅に隣接している。",
+    "level": 730
+  },
+  {
+    "word": "administer",
+    "pos": "verb",
+    "meaning": "運営する・管理する",
+    "definition": "To manage or organize a program, system, or process.",
+    "example": "The nonprofit administers a training program for young entrepreneurs.",
+    "translation": "その非営利団体は若い起業家向けの研修プログラムを運営している。",
+    "level": 730
+  },
+  {
+    "word": "agenda",
+    "pos": "noun",
+    "meaning": "議題",
+    "definition": "A list of matters to be discussed at a meeting.",
+    "example": "The budget is the first item on the agenda for the meeting.",
+    "translation": "予算が会議の議題の最初の項目である。",
+    "level": 730
+  },
+  {
+    "word": "allocate",
+    "pos": "verb",
+    "meaning": "割り当てる",
+    "definition": "To distribute money, time, or resources for a particular purpose.",
+    "example": "The board decided to allocate funds to improve cybersecurity.",
+    "translation": "取締役会はサイバーセキュリティ改善のために資金を割り当てることを決めた。",
+    "level": 730
+  },
+  {
+    "word": "anticipate",
+    "pos": "verb",
+    "meaning": "予想する",
+    "definition": "To expect something and prepare for it in advance.",
+    "example": "The company anticipates strong demand for the new product.",
+    "translation": "その会社は新製品への強い需要を予想している。",
+    "level": 730
+  },
+  {
+    "word": "appliance",
+    "pos": "noun",
+    "meaning": "家電製品",
+    "definition": "A machine or device used in the home, such as a refrigerator or washing machine.",
+    "example": "The store offers a wide range of energy-efficient appliances.",
+    "translation": "その店は省エネ家電を幅広く扱っている。",
+    "level": 730
+  },
+  {
+    "word": "applicant",
+    "pos": "noun",
+    "meaning": "応募者",
+    "definition": "A person who formally asks for a job, place, or opportunity.",
+    "example": "Each applicant must submit a résumé and two references.",
+    "translation": "各応募者は履歴書と推薦者2名を提出しなければならない。",
+    "level": 730
+  },
+  {
+    "word": "appoint",
+    "pos": "verb",
+    "meaning": "任命する・約束を取り付ける",
+    "definition": "To officially choose someone for a position, or arrange a time to meet.",
+    "example": "The directors voted to appoint a new manager.",
+    "translation": "取締役たちは新しい管理職を任命することに投票した。",
+    "level": 730
+  },
+  {
+    "word": "appreciate",
+    "pos": "verb",
+    "meaning": "感謝する・正しく評価する",
+    "definition": "To be thankful for something or recognize its value.",
+    "example": "We appreciate your assistance with the annual report.",
+    "translation": "年次報告書へのご協力に感謝します。",
+    "level": 730
+  },
+  {
+    "word": "appropriate",
+    "pos": "adjective",
+    "meaning": "適切な",
+    "definition": "Suitable or correct for a particular situation or purpose.",
+    "example": "The company took appropriate measures to protect customer data.",
+    "translation": "その会社は顧客データを保護するために適切な措置を講じた。",
+    "level": 730
+  },
+  {
+    "word": "approval",
+    "pos": "noun",
+    "meaning": "承認",
+    "definition": "Official permission or agreement to do something.",
+    "example": "The proposal is waiting for final approval from the board.",
+    "translation": "その提案は取締役会の最終承認を待っている。",
+    "level": 730
+  },
+  {
+    "word": "assess",
+    "pos": "verb",
+    "meaning": "評価する",
+    "definition": "To examine something carefully and judge its quality, value, or risk.",
+    "example": "Managers must assess the risks before approving the investment.",
+    "translation": "管理職は投資を承認する前にリスクを評価しなければならない。",
+    "level": 730
+  },
+  {
+    "word": "asset",
+    "pos": "noun",
+    "meaning": "資産",
+    "definition": "Something valuable that a person or organization owns.",
+    "example": "The factory is one of the company’s most valuable assets.",
+    "translation": "その工場は会社が所有する最も価値のある資産の一つだ。",
+    "level": 730
+  },
+  {
+    "word": "assignment",
+    "pos": "noun",
+    "meaning": "任務・課題",
+    "definition": "A task or piece of work given to someone.",
+    "example": "The trainee completed the assignment before the deadline.",
+    "translation": "研修生は締め切り前に課題を終えた。",
+    "level": 730
+  },
+  {
+    "word": "assume",
+    "pos": "verb",
+    "meaning": "想定する",
+    "definition": "To accept something as true or likely without proof.",
+    "example": "The director will assume responsibility for the decision.",
+    "translation": "部長がその決定の責任を負うことになる。",
+    "level": 730
+  },
+  {
+    "word": "attain",
+    "pos": "verb",
+    "meaning": "達成する",
+    "definition": "To reach a goal or succeed in getting something after effort.",
+    "example": "The team attained its sales goal ahead of schedule.",
+    "translation": "チームは予定より早く売上目標を達成した。",
+    "level": 730
+  },
+  {
+    "word": "attendance",
+    "pos": "noun",
+    "meaning": "出席",
+    "definition": "The act or fact of being present at an event or place.",
+    "example": "Attendance at the mandatory training session is required.",
+    "translation": "必須研修への出席が求められる。",
+    "level": 730
+  },
+  {
+    "word": "authorize",
+    "pos": "verb",
+    "meaning": "許可する",
+    "definition": "To give official permission for something.",
+    "example": "Only the finance director can authorize payment.",
+    "translation": "財務部長だけが支払いを許可できる。",
+    "level": 730
+  },
+  {
+    "word": "available",
+    "pos": "adjective",
+    "meaning": "利用できる",
+    "definition": "Ready for use or obtainable when needed.",
+    "example": "There are still several available seats near the front.",
+    "translation": "前方にはまだ利用できる席がいくつかある。",
+    "level": 730
+  },
+  {
+    "word": "awareness",
+    "pos": "noun",
+    "meaning": "認識",
+    "definition": "Knowledge or understanding of a situation or fact.",
+    "example": "The campaign raised awareness of workplace safety.",
+    "translation": "そのキャンペーンは職場の安全に対する認識を高めた。",
+    "level": 730
+  },
+  {
+    "word": "behalf",
+    "pos": "noun",
+    "meaning": "代理",
+    "definition": "The position of representing someone or acting for them.",
+    "example": "She signed the contract on behalf of the company president.",
+    "translation": "彼女は社長に代わって契約書に署名した。",
+    "level": 730
+  },
+  {
+    "word": "beneficial",
+    "pos": "adjective",
+    "meaning": "有益な",
+    "definition": "Producing a good or helpful result.",
+    "example": "Regular feedback is beneficial to both employees and managers.",
+    "translation": "定期的なフィードバックは従業員と管理職の双方に有益だ。",
+    "level": 730
+  },
+  {
+    "word": "benefit",
+    "pos": "noun",
+    "meaning": "利益・恩恵",
+    "definition": "An advantage or helpful result gained from something.",
+    "example": "The new employee benefit includes additional paid leave.",
+    "translation": "新しい従業員福利厚生には追加の有給休暇が含まれる。",
+    "level": 730
+  },
+  {
+    "word": "brochure",
+    "pos": "noun",
+    "meaning": "パンフレット",
+    "definition": "A small booklet containing information or advertisements.",
+    "example": "Visitors can pick up a brochure at the reception desk.",
+    "translation": "来訪者は受付でパンフレットを手に取ることができる。",
+    "level": 730
+  },
+  {
+    "word": "capacity",
+    "pos": "noun",
+    "meaning": "容量・能力",
+    "definition": "The maximum amount that something can contain, handle, or produce.",
+    "example": "The warehouse is operating at full capacity this month.",
+    "translation": "その倉庫は今月、最大収容能力で稼働している。",
+    "level": 730
+  },
+  {
+    "word": "compensate",
+    "pos": "verb",
+    "meaning": "補償する",
+    "definition": "To pay for damage, loss, or inconvenience caused to someone.",
+    "example": "The airline agreed to compensate the customer for the delayed flight.",
+    "translation": "航空会社は遅延便について顧客に補償することに同意した。",
+    "level": 730
+  },
+  {
+    "word": "competent",
+    "pos": "adjective",
+    "meaning": "有能な",
+    "definition": "Having the ability, skill, or knowledge to do something well.",
+    "example": "We need a competent engineer to lead the installation team.",
+    "translation": "設置チームを率いる有能な技術者が必要だ。",
+    "level": 730
+  },
+  {
+    "word": "compile",
+    "pos": "verb",
+    "meaning": "まとめる",
+    "definition": "To collect information from different sources and organize it.",
+    "example": "The analyst will compile a report on customer satisfaction.",
+    "translation": "アナリストは顧客満足度に関する報告書をまとめる。",
+    "level": 730
+  },
+  {
+    "word": "comply",
+    "pos": "verb",
+    "meaning": "従う",
+    "definition": "To obey a rule, law, or request.",
+    "example": "All contractors must comply with the company’s safety regulations.",
+    "translation": "すべての請負業者は会社の安全規則に従わなければならない。",
+    "level": 730
+  },
+  {
+    "word": "comprehensive",
+    "pos": "adjective",
+    "meaning": "包括的な",
+    "definition": "Including all or nearly all relevant details or parts.",
+    "example": "The committee conducted a comprehensive review of the policy.",
+    "translation": "委員会はその方針を包括的に見直した。",
+    "level": 730
+  },
+  {
+    "word": "comprise",
+    "pos": "verb",
+    "meaning": "構成する",
+    "definition": "To be made up of particular parts or members.",
+    "example": "The advisory board comprises experts from five industries.",
+    "translation": "諮問委員会は5つの業界の専門家で構成されている。",
+    "level": 730
+  },
+  {
+    "word": "concession",
+    "pos": "noun",
+    "meaning": "譲歩・割引",
+    "definition": "Something given or accepted to end a disagreement, or a special reduction in price.",
+    "example": "The supplier offered a concession to resolve the contract dispute.",
+    "translation": "供給業者は契約上の紛争を解決するため譲歩を申し出た。",
+    "level": 730
+  },
+  {
+    "word": "confidential",
+    "pos": "adjective",
+    "meaning": "機密の",
+    "definition": "Intended to be kept secret or shared only with authorized people.",
+    "example": "The report contains confidential information about the merger.",
+    "translation": "その報告書には合併に関する機密情報が含まれている。",
+    "level": 730
+  },
+  {
+    "word": "consensus",
+    "pos": "noun",
+    "meaning": "合意",
+    "definition": "A general agreement among people or groups.",
+    "example": "The committee reached a consensus on the revised policy.",
+    "translation": "委員会は改訂方針について合意に達した。",
+    "level": 730
+  },
+  {
+    "word": "consolidate",
+    "pos": "verb",
+    "meaning": "統合する",
+    "definition": "To combine separate things into one whole.",
+    "example": "The company plans to consolidate its regional offices.",
+    "translation": "その会社は地域オフィスを統合する予定だ。",
+    "level": 730
+  },
+  {
+    "word": "consult",
+    "pos": "verb",
+    "meaning": "相談する",
+    "definition": "To ask someone for advice or information.",
+    "example": "Please consult an accountant before filing the tax documents.",
+    "translation": "税務書類を提出する前に会計士に相談してください。",
+    "level": 730
+  },
+  {
+    "word": "consumer",
+    "pos": "noun",
+    "meaning": "消費者",
+    "definition": "A person who buys or uses goods and services.",
+    "example": "The survey measured consumer demand for environmentally friendly products.",
+    "translation": "その調査は環境に優しい製品に対する消費者の需要を測定した。",
+    "level": 730
+  },
+  {
+    "word": "contemporary",
+    "pos": "adjective",
+    "meaning": "現代の",
+    "definition": "Belonging to the present time or recent times.",
+    "example": "The museum combines contemporary design with traditional materials.",
+    "translation": "その美術館は現代のデザインと伝統的な素材を組み合わせている。",
+    "level": 730
+  },
+  {
+    "word": "contingency",
+    "pos": "noun",
+    "meaning": "不測の事態",
+    "definition": "An event or situation that may happen unexpectedly.",
+    "example": "The emergency fund will cover costs in the event of a contingency.",
+    "translation": "緊急基金は不測の事態が起きた場合の費用を賄う。",
+    "level": 730
+  },
+  {
+    "word": "convenient",
+    "pos": "adjective",
+    "meaning": "便利な",
+    "definition": "Useful, easy, or suitable for a particular purpose or situation.",
+    "example": "The online booking system is convenient for business travelers.",
+    "translation": "オンライン予約システムは出張者にとって便利だ。",
+    "level": 730
+  },
+  {
+    "word": "convert",
+    "pos": "verb",
+    "meaning": "変換する",
+    "definition": "To change something from one form, system, or use into another.",
+    "example": "The program can convert the spreadsheet into a PDF file.",
+    "translation": "そのプログラムはスプレッドシートをPDFファイルに変換できる。",
+    "level": 730
+  },
+  {
+    "word": "cooperate",
+    "pos": "verb",
+    "meaning": "協力する",
+    "definition": "To work together with someone to achieve a shared result.",
+    "example": "The two departments agreed to cooperate on the new project.",
+    "translation": "2つの部門は新しいプロジェクトで協力することに同意した。",
+    "level": 730
+  },
+  {
+    "word": "coordinate",
+    "pos": "verb",
+    "meaning": "調整する",
+    "definition": "To organize people or activities so that they work together effectively.",
+    "example": "She will coordinate the meeting with our overseas partners.",
+    "translation": "彼女は海外の取引先との会議を調整する。",
+    "level": 730
+  },
+  {
+    "word": "corporate",
+    "pos": "adjective",
+    "meaning": "企業の・法人の",
+    "definition": "Relating to a company or its organization, activities, or culture.",
+    "example": "The corporate office approved a revised travel policy for all employees.",
+    "translation": "本社は全従業員向けの改訂された出張規程を承認した。",
+    "level": 730
+  },
+  {
+    "word": "counterpart",
+    "pos": "noun",
+    "meaning": "対応する人・同等の相手",
+    "definition": "A person or organization that has the same role or function as another in a different place or group.",
+    "example": "I will discuss the delivery schedule with my counterpart at the Singapore branch.",
+    "translation": "私はシンガポール支店の担当者と納品スケジュールについて話し合います。",
+    "level": 730
+  },
+  {
+    "word": "credibility",
+    "pos": "noun",
+    "meaning": "信頼性・信用",
+    "definition": "The quality of being trusted and believed to be honest, accurate, or dependable.",
+    "example": "Publishing the audit results strengthened the company’s credibility with investors.",
+    "translation": "監査結果を公表したことで、その会社は投資家からの信用を高めた。",
+    "level": 730
+  },
+  {
+    "word": "criteria",
+    "pos": "noun",
+    "meaning": "基準・判断基準",
+    "definition": "Standards used to judge or decide whether something is acceptable or suitable.",
+    "example": "Price and delivery time are the main criteria for selecting a logistics partner.",
+    "translation": "価格と納期が物流業者を選ぶ際の主な基準です。",
+    "level": 730
+  },
+  {
+    "word": "deadline",
+    "pos": "noun",
+    "meaning": "締め切り・期限",
+    "definition": "The latest time or date by which something must be completed or submitted.",
+    "example": "Please send your expense report by Friday’s deadline so payroll can process it on time.",
+    "translation": "給与処理が間に合うよう、金曜日の締め切りまでに経費報告書を送ってください。",
+    "level": 730
+  },
+  {
+    "word": "decline",
+    "pos": "verb",
+    "meaning": "減少する・断る",
+    "definition": "To become smaller or less, or to politely refuse an offer or invitation.",
+    "example": "Sales declined sharply after the distributor raised its prices.",
+    "translation": "販売量は販売業者が価格を引き上げた後、急激に減少した。",
+    "level": 730
+  },
+  {
+    "word": "deduction",
+    "pos": "noun",
+    "meaning": "控除・差し引き",
+    "definition": "An amount subtracted from a total, especially from income for tax or other purposes.",
+    "example": "The payroll system automatically applies the tax deduction to each employee’s salary.",
+    "translation": "給与システムは各従業員の給与に税額控除を自動的に適用する。",
+    "level": 730
+  },
+  {
+    "word": "defer",
+    "pos": "verb",
+    "meaning": "延期する・後回しにする",
+    "definition": "To postpone an action or decision until a later time.",
+    "example": "The board decided to defer the expansion plan until market conditions improve.",
+    "translation": "取締役会は市場環境が改善するまで拡張計画を延期することを決めた。",
+    "level": 730
+  },
+  {
+    "word": "deficit",
+    "pos": "noun",
+    "meaning": "赤字・不足額",
+    "definition": "An amount by which spending, debt, or other costs exceed available income or resources.",
+    "example": "The finance team proposed spending cuts to eliminate the projected budget deficit.",
+    "translation": "財務チームは予想される予算赤字をなくすため、支出削減を提案した。",
+    "level": 730
+  },
+  {
+    "word": "delegate",
+    "pos": "verb",
+    "meaning": "委任する・任せる",
+    "definition": "To give a task or responsibility to another person while retaining overall responsibility for the result.",
+    "example": "The manager delegated the client presentation to her most experienced analyst.",
+    "translation": "部長は顧客へのプレゼンテーションを最も経験豊富なアナリストに任せた。",
+    "level": 730
+  },
+  {
+    "word": "deliver",
+    "pos": "verb",
+    "meaning": "届ける・伝える",
+    "definition": "To take goods to a destination or communicate something to a person or audience.",
+    "example": "The supplier promised to deliver the replacement parts by Wednesday morning.",
+    "translation": "供給業者は交換部品を水曜日の朝までに届けると約束した。",
+    "level": 730
+  },
+  {
+    "word": "demonstrate",
+    "pos": "verb",
+    "meaning": "実演する・示す",
+    "definition": "To show clearly how something works or to provide evidence of a quality or fact.",
+    "example": "The consultant demonstrated the new inventory system during the client workshop.",
+    "translation": "コンサルタントは顧客向け研修で新しい在庫システムを実演した。",
+    "level": 730
+  },
+  {
+    "word": "depart",
+    "pos": "verb",
+    "meaning": "出発する・離れる",
+    "definition": "To leave a place, especially at the beginning of a journey.",
+    "example": "The delegation will depart from Frankfurt after signing the partnership agreement.",
+    "translation": "代表団は提携契約に署名した後、フランクフルトを出発する。",
+    "level": 730
+  },
+  {
+    "word": "depict",
+    "pos": "verb",
+    "meaning": "描写する・描く",
+    "definition": "To represent a person, situation, or idea in words, pictures, or other forms.",
+    "example": "The market report depicts strong demand for affordable renewable-energy solutions.",
+    "translation": "市場報告書は手頃な価格の再生可能エネルギー・ソリューションへの強い需要を描き出している。",
+    "level": 730
+  },
+  {
+    "word": "designate",
+    "pos": "verb",
+    "meaning": "指定する・任命する",
+    "definition": "To officially choose or identify someone or something for a particular purpose.",
+    "example": "The director designated Maya as the contact person for the overseas account.",
+    "translation": "部長は海外顧客の連絡担当者にマヤを指名した。",
+    "level": 730
+  },
+  {
+    "word": "determine",
+    "pos": "verb",
+    "meaning": "決定する・確定する",
+    "definition": "To establish something precisely after considering the relevant facts or options.",
+    "example": "The procurement committee will determine which bid offers the best value.",
+    "translation": "調達委員会はどの入札が最も高い価値を提供するかを決定する。",
+    "level": 730
+  },
+  {
+    "word": "diminish",
+    "pos": "verb",
+    "meaning": "減少させる・弱める",
+    "definition": "To make something smaller, weaker, or less important.",
+    "example": "Automating routine checks will diminish the risk of data-entry errors.",
+    "translation": "定型的な確認作業を自動化すれば、入力ミスのリスクを減らせる。",
+    "level": 730
+  },
+  {
+    "word": "disclosure",
+    "pos": "noun",
+    "meaning": "開示・公表",
+    "definition": "The act of making information known, especially information that was previously private or secret.",
+    "example": "The regulator requires full disclosure of any potential conflict of interest.",
+    "translation": "規制当局は、利益相反の可能性をすべて開示するよう求めている。",
+    "level": 730
+  },
+  {
+    "word": "discontinue",
+    "pos": "verb",
+    "meaning": "中止する・打ち切る",
+    "definition": "To stop providing, producing, or using something permanently or indefinitely.",
+    "example": "The manufacturer will discontinue the model because demand has fallen below expectations.",
+    "translation": "メーカーは需要が予想を下回ったため、そのモデルの生産を打ち切る。",
+    "level": 730
+  },
+  {
+    "word": "discount",
+    "pos": "noun",
+    "meaning": "割引",
+    "definition": "A reduction in the usual price of a product or service.",
+    "example": "The vendor offered a volume discount for orders exceeding 1,000 units.",
+    "translation": "販売業者は1,000個を超える注文に対して数量割引を提示した。",
+    "level": 730
+  },
+  {
+    "word": "discriminate",
+    "pos": "verb",
+    "meaning": "差別する・見分ける",
+    "definition": "To treat a person unfairly because of a characteristic, or to recognize a difference between things.",
+    "example": "The company’s hiring policy prohibits managers from discriminating against applicants based on age.",
+    "translation": "その会社の採用方針は、管理職が年齢を理由に応募者を差別することを禁じている。",
+    "level": 730
+  },
+  {
+    "word": "distribute",
+    "pos": "verb",
+    "meaning": "配布する・分配する",
+    "definition": "To give or deliver something to a number of people or places.",
+    "example": "The coordinator distributed the revised agenda to everyone attending the meeting.",
+    "translation": "調整担当者は会議の出席者全員に改訂版の議題を配布した。",
+    "level": 730
+  },
+  {
+    "word": "domestic",
+    "pos": "adjective",
+    "meaning": "国内の・家庭内の",
+    "definition": "Relating to a country’s own affairs, industries, or markets rather than foreign ones.",
+    "example": "The company is shifting its focus from domestic sales to regional exports.",
+    "translation": "その会社は国内販売から地域輸出へと重点を移している。",
+    "level": 730
+  },
+  {
+    "word": "draft",
+    "pos": "verb",
+    "meaning": "下書きを作る・起草する",
+    "definition": "To prepare a preliminary version of a document, plan, or proposal.",
+    "example": "Our legal team drafted a confidentiality agreement for the new supplier.",
+    "translation": "当社の法務チームは新しい供給業者向けの秘密保持契約書の草案を作成した。",
+    "level": 730
+  },
+  {
+    "word": "eligible",
+    "pos": "adjective",
+    "meaning": "資格のある・適格な",
+    "definition": "Meeting the conditions required to receive a benefit, take part, or be considered for something.",
+    "example": "Employees are eligible for the bonus if they meet their annual performance targets.",
+    "translation": "従業員は年間業績目標を達成すれば、その賞与を受け取る資格がある。",
+    "level": 730
+  },
+  {
+    "word": "eliminate",
+    "pos": "verb",
+    "meaning": "排除する・取り除く",
+    "definition": "To remove something completely or prevent it from being considered or used.",
+    "example": "The new approval process is designed to eliminate unnecessary paperwork.",
+    "translation": "新しい承認手続きは不要な書類作業をなくすことを目的としている。",
+    "level": 730
+  },
+  {
+    "word": "encounter",
+    "pos": "verb",
+    "meaning": "遭遇する・直面する",
+    "definition": "To experience or unexpectedly meet a person, problem, or situation.",
+    "example": "The project encountered unexpected delays when the main contractor went bankrupt.",
+    "translation": "主契約業者が倒産したため、そのプロジェクトは予想外の遅延に直面した。",
+    "level": 730
+  },
+  {
+    "word": "endorse",
+    "pos": "verb",
+    "meaning": "支持する・承認する",
+    "definition": "To publicly express support for an idea, product, or person, or to approve a document by signing it.",
+    "example": "Several industry leaders endorsed the proposed standards for secure online payments.",
+    "translation": "複数の業界リーダーが、安全なオンライン決済に関する提案基準を支持した。",
+    "level": 730
+  },
+  {
+    "word": "enforce",
+    "pos": "verb",
+    "meaning": "施行する・実施する",
+    "definition": "To make sure that a law, rule, or agreement is obeyed.",
+    "example": "The compliance officer must enforce the company’s anti-bribery policy consistently.",
+    "translation": "コンプライアンス担当者は会社の贈収賄防止方針を一貫して施行しなければならない。",
+    "level": 730
+  },
+  {
+    "word": "enhance",
+    "pos": "verb",
+    "meaning": "高める・強化する",
+    "definition": "To improve the quality, value, effectiveness, or appearance of something.",
+    "example": "The redesign enhanced the website’s usability on mobile devices.",
+    "translation": "デザインの刷新によって、モバイル端末でのウェブサイトの使いやすさが向上した。",
+    "level": 730
+  },
+  {
+    "word": "enroll",
+    "pos": "verb",
+    "meaning": "登録する・入学させる",
+    "definition": "To officially record someone as a member of a course, program, or organization.",
+    "example": "The training manager enrolled thirty new hires in the compliance course.",
+    "translation": "研修責任者は30人の新入社員をコンプライアンス講座に登録した。",
+    "level": 730
+  },
+  {
+    "word": "ensure",
+    "pos": "verb",
+    "meaning": "確実にする・保証する",
+    "definition": "To make certain that something happens or is true.",
+    "example": "Please double-check the figures to ensure that the quarterly report is accurate.",
+    "translation": "四半期報告書が正確であることを確実にするため、数値を再確認してください。",
+    "level": 730
+  },
+  {
+    "word": "equivalent",
+    "pos": "adjective",
+    "meaning": "同等の・同価値のもの",
+    "definition": "Equal in value, amount, meaning, or importance to something else.",
+    "example": "One year of relevant experience is considered equivalent to the required certificate.",
+    "translation": "関連分野での1年間の経験は、必要な資格証明書と同等と見なされる。",
+    "level": 730
+  },
+  {
+    "word": "estimate",
+    "pos": "verb",
+    "meaning": "見積もる・推定する",
+    "definition": "To calculate or judge an amount, cost, or value approximately.",
+    "example": "The contractor estimated the renovation costs at approximately $80,000.",
+    "translation": "請負業者は改装費を約8万ドルと見積もった。",
+    "level": 730
+  },
+  {
+    "word": "exceed",
+    "pos": "verb",
+    "meaning": "上回る・超える",
+    "definition": "To be greater than a particular amount, limit, or expectation.",
+    "example": "The campaign exceeded its sales target within the first two weeks.",
+    "translation": "そのキャンペーンは開始から2週間で売上目標を上回った。",
+    "level": 730
+  },
+  {
+    "word": "exclusive",
+    "pos": "adjective",
+    "meaning": "限定された・独占的な",
+    "definition": "Limited to a particular person, group, purpose, or area, often giving special access or rights.",
+    "example": "The retailer signed an exclusive distribution agreement for the new product line.",
+    "translation": "その小売業者は新製品ラインの独占販売契約を締結した。",
+    "level": 730
+  },
+  {
+    "word": "executive",
+    "pos": "noun",
+    "meaning": "重役・幹部",
+    "definition": "A senior manager or other person with authority to make important business decisions.",
+    "example": "The chief executive briefed senior executives on the proposed acquisition.",
+    "translation": "最高経営責任者は提案中の買収について上級幹部に説明した。",
+    "level": 730
+  },
+  {
+    "word": "expenditure",
+    "pos": "noun",
+    "meaning": "支出・支出額",
+    "definition": "The act of spending money or the amount of money spent for a particular purpose.",
+    "example": "The finance director must approve any capital expenditure over $50,000.",
+    "translation": "財務部長は5万ドルを超える設備投資支出を承認しなければならない。",
+    "level": 730
+  },
+  {
+    "word": "expertise",
+    "pos": "noun",
+    "meaning": "専門知識・専門的技能",
+    "definition": "Specialized knowledge or skill gained through training and experience.",
+    "example": "We hired the consultant for her expertise in international tax law.",
+    "translation": "当社は国際税法に関する彼女の専門知識を評価して、そのコンサルタントを雇った。",
+    "level": 730
+  },
+  {
+    "word": "expire",
+    "pos": "verb",
+    "meaning": "期限が切れる・満了する",
+    "definition": "To come to the end of the period during which something is valid or available.",
+    "example": "The software license expires at the end of June unless we renew it.",
+    "translation": "そのソフトウェアのライセンスは更新しない限り6月末に期限が切れる。",
+    "level": 730
+  },
+  {
+    "word": "facilitate",
+    "pos": "verb",
+    "meaning": "促進する・容易にする",
+    "definition": "To make an action or process easier, smoother, or more likely to happen.",
+    "example": "The shared dashboard facilitates communication between the sales and support teams.",
+    "translation": "共有ダッシュボードは営業チームとサポートチームの間の連絡を円滑にする。",
+    "level": 730
+  },
+  {
+    "word": "feasible",
+    "pos": "adjective",
+    "meaning": "実行可能な・実現可能な",
+    "definition": "Possible to do successfully with the available time, money, resources, or technology.",
+    "example": "The engineers confirmed that the proposed production schedule was feasible.",
+    "translation": "技術者たちは提案された生産スケジュールが実行可能だと確認した。",
+    "level": 730
+  },
+  {
+    "word": "fiscal",
+    "pos": "adjective",
+    "meaning": "財政上の・会計の",
+    "definition": "Relating to government finances, company finances, taxation, or accounting.",
+    "example": "The minister announced fiscal measures to support small businesses.",
+    "translation": "大臣は中小企業を支援するための財政措置を発表した。",
+    "level": 730
+  },
+  {
+    "word": "fluctuate",
+    "pos": "verb",
+    "meaning": "変動する",
+    "definition": "To change repeatedly in amount, value, or level rather than remain steady.",
+    "example": "Fuel costs fluctuate widely, so the carrier reviews its surcharge each month.",
+    "translation": "燃料費は大きく変動するため、その運送会社は毎月割増料金を見直している。",
+    "level": 730
+  },
+  {
+    "word": "forecast",
+    "pos": "verb",
+    "meaning": "予測する・予測",
+    "definition": "To make a statement about what is likely to happen in the future based on available information.",
+    "example": "The economist forecast moderate growth in consumer spending for the next quarter.",
+    "translation": "その経済学者は、来四半期の個人消費が緩やかに伸びると予測した。",
+    "level": 730
+  },
+  {
+    "word": "formulate",
+    "pos": "verb",
+    "meaning": "策定する・公式化する",
+    "definition": "To develop a plan, policy, or method carefully and systematically.",
+    "example": "The committee formulated a response plan for future supply-chain disruptions.",
+    "translation": "委員会は将来のサプライチェーン混乱に備えた対応計画を策定した。",
+    "level": 730
+  },
+  {
+    "word": "foundation",
+    "pos": "noun",
+    "meaning": "基盤・財団",
+    "definition": "The basic support or structure on which something is built, or an organization established to provide funding for a cause.",
+    "example": "Trust between the partners formed the foundation of the long-term agreement.",
+    "translation": "パートナー間の信頼が長期契約の基盤となった。",
+    "level": 730
+  },
+  {
+    "word": "frequent",
+    "pos": "adjective",
+    "meaning": "頻繁な・よく起こる",
+    "definition": "Happening often or occurring at short intervals.",
+    "example": "Frequent updates from the supplier help us adjust the production schedule quickly.",
+    "translation": "供給業者から頻繁に連絡があると、生産スケジュールを素早く調整できる。",
+    "level": 730
+  },
+  {
+    "word": "fulfill",
+    "pos": "verb",
+    "meaning": "果たす・履行する",
+    "definition": "To complete a duty, promise, requirement, or task successfully.",
+    "example": "The contractor fulfilled all of its obligations under the service agreement.",
+    "translation": "請負業者はサービス契約に基づくすべての義務を履行した。",
+    "level": 730
+  },
+  {
+    "word": "genuine",
+    "pos": "adjective",
+    "meaning": "本物の・真正な",
+    "definition": "Real, genuine, and not copied, false, or merely apparent.",
+    "example": "The buyer requested proof that the imported artwork was genuine before completing the purchase.",
+    "translation": "買い手は購入を完了する前に、輸入美術品が本物だという証明を求めた。",
+    "level": 730
+  },
+  {
+    "word": "headquarters",
+    "pos": "noun",
+    "meaning": "本社",
+    "definition": "The main office that directs a company’s overall operations and sets policy for its branches.",
+    "example": "The company will move its headquarters to Singapore next year.",
+    "translation": "その会社は来年、本社をシンガポールに移転する。",
+    "level": 730
+  },
+  {
+    "word": "implement",
+    "pos": "verb",
+    "meaning": "実施する",
+    "definition": "To put a plan, policy, or decision into practical operation.",
+    "example": "The IT team will implement the security update across all offices tonight.",
+    "translation": "IT部門は今夜、全オフィスでセキュリティ更新を実施する。",
+    "level": 730
+  },
+  {
+    "word": "incentive",
+    "pos": "noun",
+    "meaning": "奨励金・動機",
+    "definition": "A benefit or reason offered to encourage someone to take a particular action.",
+    "example": "The retailer introduced an incentive for customers who choose paperless billing.",
+    "translation": "その小売業者は、ペーパーレス請求を選ぶ顧客に奨励金を導入した。",
+    "level": 730
+  },
+  {
+    "word": "incident",
+    "pos": "noun",
+    "meaning": "出来事・事件",
+    "definition": "An event, especially one that disrupts normal business activity or requires attention.",
+    "example": "The manager documented the incident and reported it to the compliance officer.",
+    "translation": "部長はその出来事を記録し、コンプライアンス担当者に報告した。",
+    "level": 730
+  },
+  {
+    "word": "income",
+    "pos": "noun",
+    "meaning": "収入",
+    "definition": "Money received by a person or organization, especially from sales, work, or investments.",
+    "example": "Higher subscription income enabled the publisher to hire two editors.",
+    "translation": "購読収入の増加によって、その出版社は編集者を2人採用できた。",
+    "level": 730
+  },
+  {
+    "word": "incorporate",
+    "pos": "verb",
+    "meaning": "組み込む・法人化する",
+    "definition": "To include something as part of a larger system, plan, or organization.",
+    "example": "We should incorporate the client’s feedback into the final proposal.",
+    "translation": "顧客の意見を最終提案書に組み込むべきだ。",
+    "level": 730
+  },
+  {
+    "word": "indication",
+    "pos": "noun",
+    "meaning": "兆候・示唆",
+    "definition": "A sign or piece of evidence that suggests something is true or likely to happen.",
+    "example": "The sudden drop in orders is an indication that demand is weakening.",
+    "translation": "注文の急減は、需要が弱まっている兆候だ。",
+    "level": 730
+  },
+  {
+    "word": "infrastructure",
+    "pos": "noun",
+    "meaning": "インフラ・基盤",
+    "definition": "The basic physical and organizational systems needed for a society or business to function.",
+    "example": "The project requires major investment in transportation infrastructure.",
+    "translation": "そのプロジェクトには交通インフラへの大規模な投資が必要だ。",
+    "level": 730
+  },
+  {
+    "word": "inspection",
+    "pos": "noun",
+    "meaning": "検査",
+    "definition": "A careful examination of something to check its condition, quality, or compliance.",
+    "example": "The factory passed its annual safety inspection without any major findings.",
+    "translation": "その工場は年次安全検査に大きな指摘なく合格した。",
+    "level": 730
+  },
+  {
+    "word": "installment",
+    "pos": "noun",
+    "meaning": "分割払い",
+    "definition": "One of several scheduled payments used to pay for a purchase or debt over time.",
+    "example": "The customer paid the first installment when the equipment was delivered.",
+    "translation": "顧客は機器の納入時に最初の分割払いを支払った。",
+    "level": 730
+  },
+  {
+    "word": "insurance",
+    "pos": "noun",
+    "meaning": "保険",
+    "definition": "An arrangement in which a company provides financial protection against specified risks in exchange for premiums.",
+    "example": "The policy provides insurance coverage for damage during international shipping.",
+    "translation": "その保険契約は国際輸送中の損害を補償する。",
+    "level": 730
+  },
+  {
+    "word": "integrate",
+    "pos": "verb",
+    "meaning": "統合する",
+    "definition": "To combine separate systems, activities, or organizations so that they operate as one.",
+    "example": "The bank plans to integrate its mobile app with its payment platform.",
+    "translation": "その銀行はモバイルアプリを決済プラットフォームと統合する予定だ。",
+    "level": 730
+  },
+  {
+    "word": "integrity",
+    "pos": "noun",
+    "meaning": "誠実さ・高潔さ",
+    "definition": "The quality of being honest, principled, and consistent in one’s conduct.",
+    "example": "The board praised her integrity during the investigation into the accounting error.",
+    "translation": "取締役会は会計ミスの調査中、彼女の誠実さを称賛した。",
+    "level": 730
+  },
+  {
+    "word": "inventory",
+    "pos": "noun",
+    "meaning": "在庫",
+    "definition": "The goods and materials a business has available for sale or use.",
+    "example": "Our inventory of replacement parts is running low.",
+    "translation": "交換部品の在庫が少なくなっている。",
+    "level": 730
+  },
+  {
+    "word": "investigate",
+    "pos": "verb",
+    "meaning": "調査する",
+    "definition": "To examine facts or evidence systematically in order to discover information or the cause of something.",
+    "example": "The audit team will investigate the discrepancy in the quarterly figures.",
+    "translation": "監査チームは四半期の数値の食い違いを調査する。",
+    "level": 730
+  },
+  {
+    "word": "invoice",
+    "pos": "noun",
+    "meaning": "請求書",
+    "definition": "A document that lists the goods or services supplied and the amount owed for them.",
+    "example": "Please attach the purchase order when you submit the invoice.",
+    "translation": "請求書を提出する際は、発注書を添付してください。",
+    "level": 730
+  },
+  {
+    "word": "involve",
+    "pos": "verb",
+    "meaning": "関与する・含む",
+    "definition": "To include someone or something in an activity, situation, or process.",
+    "example": "The merger will involve negotiations with employees in three countries.",
+    "translation": "その合併には3か国の従業員との交渉が伴う。",
+    "level": 730
+  },
+  {
+    "word": "itinerary",
+    "pos": "noun",
+    "meaning": "旅程",
+    "definition": "A detailed plan showing the places to be visited and the times of travel.",
+    "example": "I sent the client a revised itinerary for her three-day business trip.",
+    "translation": "私は顧客に3日間の出張の修正版旅程を送った。",
+    "level": 730
+  },
+  {
+    "word": "justify",
+    "pos": "verb",
+    "meaning": "正当化する",
+    "definition": "To show that an action, decision, or expense is reasonable or necessary.",
+    "example": "The expected savings justify the cost of upgrading the software.",
+    "translation": "見込まれる節約効果が、ソフトウェア更新の費用を正当化する。",
+    "level": 730
+  },
+  {
+    "word": "launch",
+    "pos": "verb",
+    "meaning": "開始する・発売する",
+    "definition": "To introduce a new product or begin an important activity or project.",
+    "example": "The manufacturer will launch its electric vehicle line in April.",
+    "translation": "そのメーカーは4月に電気自動車の製品ラインを発売する。",
+    "level": 730
+  },
+  {
+    "word": "legislation",
+    "pos": "noun",
+    "meaning": "法律・法令",
+    "definition": "A law or set of laws made and enforced by a government.",
+    "example": "The new legislation requires companies to disclose their emissions data.",
+    "translation": "新しい法令は企業に排出量データの開示を義務付けている。",
+    "level": 730
+  },
+  {
+    "word": "liability",
+    "pos": "noun",
+    "meaning": "責任・負債",
+    "definition": "A legal or financial responsibility, or a debt that an individual or organization must pay.",
+    "example": "The contract limits the supplier’s liability for indirect losses.",
+    "translation": "その契約は間接損失に対する供給業者の責任を制限している。",
+    "level": 730
+  },
+  {
+    "word": "maintain",
+    "pos": "verb",
+    "meaning": "維持する",
+    "definition": "To keep something in a particular condition or at a certain level over time.",
+    "example": "Regular training helps maintain high customer-service standards.",
+    "translation": "定期研修は高い顧客サービス水準の維持に役立つ。",
+    "level": 730
+  },
+  {
+    "word": "mandatory",
+    "pos": "adjective",
+    "meaning": "義務的な",
+    "definition": "Required by a rule, law, or official instruction rather than optional.",
+    "example": "Attendance at the data-protection seminar is mandatory for all new hires.",
+    "translation": "データ保護セミナーへの出席は全新入社員に義務付けられている。",
+    "level": 730
+  },
+  {
+    "word": "margin",
+    "pos": "noun",
+    "meaning": "利益幅・余裕",
+    "definition": "The difference between the cost of producing or buying something and its selling price.",
+    "example": "Rising fuel costs have reduced the margin on our delivery service.",
+    "translation": "燃料費の上昇で、配送サービスの利益幅が縮小した。",
+    "level": 730
+  },
+  {
+    "word": "merchandise",
+    "pos": "noun",
+    "meaning": "商品",
+    "definition": "Goods offered for sale, especially products handled by a retailer or wholesaler.",
+    "example": "The store redesigned its displays to highlight seasonal merchandise.",
+    "translation": "その店は季節商品を目立たせるため展示を改装した。",
+    "level": 730
+  },
+  {
+    "word": "merge",
+    "pos": "verb",
+    "meaning": "合併する・統合する",
+    "definition": "To combine two or more companies or organizations into a single entity.",
+    "example": "The two regional banks agreed to merge after months of negotiations.",
+    "translation": "その2つの地方銀行は数か月の交渉を経て合併に合意した。",
+    "level": 730
+  },
+  {
+    "word": "minimize",
+    "pos": "verb",
+    "meaning": "最小限にする",
+    "definition": "To reduce something to the smallest practical amount or degree.",
+    "example": "The new routing system will minimize delays at the distribution center.",
+    "translation": "新しい配送経路システムは物流センターでの遅延を最小限にする。",
+    "level": 730
+  },
+  {
+    "word": "monitor",
+    "pos": "verb",
+    "meaning": "監視する・確認する",
+    "definition": "To watch, measure, or check something regularly, especially to detect changes or problems.",
+    "example": "The finance team monitors cash flow throughout the quarter.",
+    "translation": "財務チームは四半期を通じてキャッシュフローを監視する。",
+    "level": 730
+  },
+  {
+    "word": "mutual",
+    "pos": "adjective",
+    "meaning": "相互の・共通の",
+    "definition": "Shared by two or more people, groups, or organizations.",
+    "example": "The partners agreed to protect their mutual interests in the agreement.",
+    "translation": "提携先は契約で相互の利益を守ることに合意した。",
+    "level": 730
+  },
+  {
+    "word": "negotiate",
+    "pos": "verb",
+    "meaning": "交渉する",
+    "definition": "To discuss terms with another party in order to reach an agreement.",
+    "example": "Our purchasing director is negotiating a longer payment period with the vendor.",
+    "translation": "購買部長は業者とより長い支払期間を交渉している。",
+    "level": 730
+  },
+  {
+    "word": "notify",
+    "pos": "verb",
+    "meaning": "通知する",
+    "definition": "To formally tell someone about an event, decision, or requirement.",
+    "example": "We will notify applicants of the interview schedule by Friday.",
+    "translation": "金曜日までに応募者へ面接日程を通知します。",
+    "level": 730
+  },
+  {
+    "word": "objective",
+    "pos": "adjective",
+    "meaning": "目標の・客観的な",
+    "definition": "Relating to a goal or purpose that a person or organization intends to achieve.",
+    "example": "The department set an objective target for reducing processing time.",
+    "translation": "その部門は処理時間を短縮する目標値を設定した。",
+    "level": 730
+  },
+  {
+    "word": "obligation",
+    "pos": "noun",
+    "meaning": "義務・責務",
+    "definition": "A duty or commitment that requires someone to do something.",
+    "example": "The supplier has an obligation to replace defective units promptly.",
+    "translation": "供給業者には不良品を速やかに交換する義務がある。",
+    "level": 730
+  },
+  {
+    "word": "obtain",
+    "pos": "verb",
+    "meaning": "入手する・獲得する",
+    "definition": "To get or secure something, usually through effort, purchase, or a formal process.",
+    "example": "The startup obtained a license to operate in the European market.",
+    "translation": "その新興企業は欧州市場で営業する許可を取得した。",
+    "level": 730
+  },
+  {
+    "word": "occur",
+    "pos": "verb",
+    "meaning": "起こる・発生する",
+    "definition": "To happen, especially unexpectedly or at a particular time.",
+    "example": "The system outage occurred shortly after the scheduled maintenance.",
+    "translation": "システム障害は予定された保守の直後に発生した。",
+    "level": 730
+  },
+  {
+    "word": "offset",
+    "pos": "verb",
+    "meaning": "相殺する",
+    "definition": "To reduce or balance the effect of something by applying an opposing amount or influence.",
+    "example": "The tax credit will offset part of the cost of the equipment.",
+    "translation": "税額控除によって機器費用の一部が相殺される。",
+    "level": 730
+  },
+  {
+    "word": "outcome",
+    "pos": "noun",
+    "meaning": "結果・成果",
+    "definition": "The final result of an action, process, or event.",
+    "example": "The survey measured the outcome of the new onboarding program.",
+    "translation": "その調査は新しい新人研修プログラムの成果を測定した。",
+    "level": 730
+  },
+  {
+    "word": "oversee",
+    "pos": "verb",
+    "meaning": "監督する",
+    "definition": "To watch and direct work or an activity to ensure that it is done properly.",
+    "example": "A senior engineer will oversee the installation at the client’s site.",
+    "translation": "上級技術者が顧客先での設置作業を監督する。",
+    "level": 730
+  },
+  {
+    "word": "participate",
+    "pos": "verb",
+    "meaning": "参加する",
+    "definition": "To take part in an activity, meeting, or organization.",
+    "example": "More than 200 investors participated in the online briefing.",
+    "translation": "200人を超える投資家がオンライン説明会に参加した。",
+    "level": 730
+  },
+  {
+    "word": "partnership",
+    "pos": "noun",
+    "meaning": "提携・協力関係",
+    "definition": "A cooperative relationship between two or more people, organizations, or businesses.",
+    "example": "The partnership gives both firms access to new distribution channels.",
+    "translation": "その提携により、両社は新しい流通経路を利用できる。",
+    "level": 730
+  },
+  {
+    "word": "patent",
+    "pos": "verb",
+    "meaning": "特許を取得する",
+    "definition": "To obtain legal protection for an invention that prevents others from using it without permission.",
+    "example": "The technology company patented its energy-saving cooling system.",
+    "translation": "そのテクノロジー企業は省エネ型冷却システムの特許を取得した。",
+    "level": 730
+  },
+  {
+    "word": "perception",
+    "pos": "noun",
+    "meaning": "認識・印象",
+    "definition": "The way someone understands, interprets, or views a person, situation, or product.",
+    "example": "The campaign improved public perception of the brand’s environmental efforts.",
+    "translation": "そのキャンペーンはブランドの環境への取り組みに対する世間の認識を高めた。",
+    "level": 730
+  },
+  {
+    "word": "permit",
+    "pos": "verb",
+    "meaning": "許可する",
+    "definition": "To officially allow something, or a document that gives such permission.",
+    "example": "The city permitted the contractor to extend the construction deadline.",
+    "translation": "市は請負業者に工期の延長を許可した。",
+    "level": 730
+  },
+  {
+    "word": "persuade",
+    "pos": "verb",
+    "meaning": "説得する",
+    "definition": "To convince someone to do or believe something through reasoning or argument.",
+    "example": "The sales representative persuaded the client to renew the service contract.",
+    "translation": "営業担当者は顧客を説得してサービス契約を更新してもらった。",
+    "level": 730
+  },
+  {
+    "word": "personnel",
+    "pos": "noun",
+    "meaning": "職員・人員",
+    "definition": "The people employed by an organization, considered as a group.",
+    "example": "The hospital is recruiting additional personnel for its night shift.",
+    "translation": "その病院は夜勤の追加要員を募集している。",
+    "level": 730
+  },
+  {
+    "word": "prospective",
+    "pos": "adjective",
+    "meaning": "見込みのある・将来の",
+    "definition": "Likely to become or develop into a particular thing in the future.",
+    "example": "The recruiter invited several prospective employees to a second interview.",
+    "translation": "採用担当者は数人の入社見込み者を2次面接に招いた。",
+    "level": 730
+  },
+  {
+    "word": "purchase",
+    "pos": "verb",
+    "meaning": "購入する",
+    "definition": "To buy something, especially for personal, business, or organizational use.",
+    "example": "The procurement team will purchase new laptops for the sales staff.",
+    "translation": "調達チームは営業スタッフ用に新しいノートパソコンを購入する。",
+    "level": 730
+  },
+  {
+    "word": "punctual",
+    "pos": "adjective",
+    "meaning": "時間を守る",
+    "definition": "Arriving or happening at the expected or agreed time.",
+    "example": "Because she is punctual, clients can rely on her for early-morning calls.",
+    "translation": "彼女は時間を守るので、顧客は早朝の電話を任せられる。",
+    "level": 730
+  },
+  {
+    "word": "quota",
+    "pos": "noun",
+    "meaning": "割当量・ノルマ",
+    "definition": "A fixed amount or target assigned to a person or organization, often for sales or production.",
+    "example": "Each sales representative must meet a quarterly quota.",
+    "translation": "各営業担当者は四半期のノルマを達成しなければならない。",
+    "level": 730
+  },
+  {
+    "word": "receipt",
+    "pos": "verb",
+    "meaning": "受領を記録する",
+    "definition": "To officially acknowledge that goods, documents, or money have been received.",
+    "example": "The warehouse clerk receipted the shipment as soon as it arrived.",
+    "translation": "倉庫係は荷物が到着するとすぐに受領を記録した。",
+    "level": 730
+  },
+  {
+    "word": "recover",
+    "pos": "verb",
+    "meaning": "回復する・取り戻す",
+    "definition": "To return to a normal condition or regain something that was lost.",
+    "example": "The company expects to recover its investment within three years.",
+    "translation": "その会社は3年以内に投資を回収できると見込んでいる。",
+    "level": 730
+  },
+  {
+    "word": "recruit",
+    "pos": "verb",
+    "meaning": "採用する",
+    "definition": "To find and hire people for a job or organization.",
+    "example": "The technology firm is recruiting software engineers for its new office.",
+    "translation": "そのIT企業は新オフィス向けにソフトウェア技術者を採用している。",
+    "level": 730
+  },
+  {
+    "word": "redundant",
+    "pos": "adjective",
+    "meaning": "余分な・冗長な",
+    "definition": "No longer needed because it is duplicated or has been replaced.",
+    "example": "The update removed several redundant steps from the approval process.",
+    "translation": "その更新によって承認手続きから余分な手順がいくつか削除された。",
+    "level": 730
+  },
+  {
+    "word": "refund",
+    "pos": "verb",
+    "meaning": "返金する",
+    "definition": "To return money to someone, usually because a purchase was canceled or unsatisfactory.",
+    "example": "The retailer agreed to refund the customer for the defective equipment.",
+    "translation": "その小売業者は欠陥のある機器について顧客に返金することに同意した。",
+    "level": 730
+  },
+  {
+    "word": "regulation",
+    "pos": "noun",
+    "meaning": "規則・規制",
+    "definition": "An official rule made by an authority to control how something is done.",
+    "example": "The factory revised its procedures to comply with the new safety regulations.",
+    "translation": "その工場は新しい安全規制に従うため手順を改訂した。",
+    "level": 730
+  },
+  {
+    "word": "reimburse",
+    "pos": "verb",
+    "meaning": "払い戻す・弁償する",
+    "definition": "To repay someone for money they have spent, especially on business expenses.",
+    "example": "Employees are reimbursed for approved travel expenses within two weeks.",
+    "translation": "承認された出張費は2週間以内に従業員へ払い戻される。",
+    "level": 730
+  },
+  {
+    "word": "reinforce",
+    "pos": "verb",
+    "meaning": "強化する",
+    "definition": "To make an idea, system, or structure stronger or more effective.",
+    "example": "The training program reinforces the company’s commitment to data security.",
+    "translation": "その研修プログラムは会社のデータセキュリティへの取り組みを強化する。",
+    "level": 730
+  },
+  {
+    "word": "reject",
+    "pos": "verb",
+    "meaning": "拒否する・不採用にする",
+    "definition": "To refuse to accept, approve, or consider something or someone.",
+    "example": "The committee rejected the proposal because its cost estimates were incomplete.",
+    "translation": "委員会は費用見積もりが不完全だったためその提案を拒否した。",
+    "level": 730
+  },
+  {
+    "word": "reliable",
+    "pos": "adjective",
+    "meaning": "信頼できる",
+    "definition": "Consistently dependable and likely to perform well or be accurate.",
+    "example": "We need a reliable supplier that can meet the quarterly delivery schedule.",
+    "translation": "四半期の納品予定を守れる信頼できる供給業者が必要だ。",
+    "level": 730
+  },
+  {
+    "word": "renewal",
+    "pos": "noun",
+    "meaning": "更新・更新手続き",
+    "definition": "The act of extending an agreement, license, subscription, or contract for another period.",
+    "example": "The insurance company sent a renewal notice before the policy expired.",
+    "translation": "その保険会社は契約が切れる前に更新通知を送った。",
+    "level": 730
+  },
+  {
+    "word": "renovate",
+    "pos": "verb",
+    "meaning": "改装する・修繕する",
+    "definition": "To repair and improve an old building, room, or facility.",
+    "example": "The hotel will renovate its conference rooms during the off-season.",
+    "translation": "そのホテルは閑散期に会議室を改装する予定だ。",
+    "level": 730
+  },
+  {
+    "word": "requirement",
+    "pos": "noun",
+    "meaning": "要件・必要条件",
+    "definition": "Something that is necessary or demanded for a particular purpose.",
+    "example": "Fluency in English is a key requirement for the customer-service role.",
+    "translation": "英語が流暢であることは顧客サービス職の重要な要件だ。",
+    "level": 730
+  },
+  {
+    "word": "reside",
+    "pos": "verb",
+    "meaning": "居住する",
+    "definition": "To live in a particular place, especially for a relatively long period.",
+    "example": "The consultant currently resides in Osaka but travels nationwide.",
+    "translation": "そのコンサルタントは現在大阪に住んでいるが、全国を出張している。",
+    "level": 730
+  },
+  {
+    "word": "resolve",
+    "pos": "verb",
+    "meaning": "解決する",
+    "definition": "To solve a problem, disagreement, or difficult situation.",
+    "example": "Our support team resolved the billing error before the client’s deadline.",
+    "translation": "当社のサポートチームは顧客の期限前に請求ミスを解決した。",
+    "level": 730
+  },
+  {
+    "word": "retain",
+    "pos": "verb",
+    "meaning": "保持する・引き留める",
+    "definition": "To continue to have something or keep someone as a customer or employee.",
+    "example": "Flexible hours have helped the firm retain experienced staff.",
+    "translation": "柔軟な勤務時間はその会社が経験豊富な社員を引き留めるのに役立っている。",
+    "level": 730
+  },
+  {
+    "word": "revenue",
+    "pos": "noun",
+    "meaning": "収益・売上高",
+    "definition": "The income a company receives from selling goods or services before expenses are deducted.",
+    "example": "Online sales now account for nearly half of the retailer’s revenue.",
+    "translation": "オンライン販売は現在、その小売業者の収益のほぼ半分を占めている。",
+    "level": 730
+  },
+  {
+    "word": "revise",
+    "pos": "verb",
+    "meaning": "改訂する",
+    "definition": "To change a document, plan, or estimate in order to improve or correct it.",
+    "example": "The finance team revised its forecast after reviewing the latest figures.",
+    "translation": "財務チームは最新の数値を検討した後、予測を改訂した。",
+    "level": 730
+  },
+  {
+    "word": "schedule",
+    "pos": "verb",
+    "meaning": "予定を組む",
+    "definition": "To arrange for an event or activity to happen at a particular time.",
+    "example": "The coordinator scheduled a follow-up meeting for next Tuesday.",
+    "translation": "調整役は来週火曜日にフォローアップ会議を予定した。",
+    "level": 730
+  },
+  {
+    "word": "shareholder",
+    "pos": "noun",
+    "meaning": "株主",
+    "definition": "A person or organization that owns shares in a company.",
+    "example": "Each shareholder received the annual report before the general meeting.",
+    "translation": "各株主は年次総会の前に年次報告書を受け取った。",
+    "level": 730
+  },
+  {
+    "word": "shortage",
+    "pos": "noun",
+    "meaning": "不足・欠乏",
+    "definition": "A situation in which there is less of something than is needed or expected.",
+    "example": "A shortage of drivers delayed deliveries across the region.",
+    "translation": "運転手不足により地域全体で配送が遅れた。",
+    "level": 730
+  },
+  {
+    "word": "signature",
+    "pos": "noun",
+    "meaning": "署名",
+    "definition": "A person’s or authorized representative’s name written to show agreement or approval.",
+    "example": "The contract becomes effective when we receive the director’s signature.",
+    "translation": "その契約は取締役の署名を受け取った時点で発効する。",
+    "level": 730
+  },
+  {
+    "word": "simultaneous",
+    "pos": "adjective",
+    "meaning": "同時の",
+    "definition": "Happening or being done at the same time as another event.",
+    "example": "The product launch and press briefing will be simultaneous.",
+    "translation": "製品発表と記者説明会は同時に行われる。",
+    "level": 730
+  },
+  {
+    "word": "sufficient",
+    "pos": "adjective",
+    "meaning": "十分な",
+    "definition": "As much as is needed for a particular purpose or requirement.",
+    "example": "The budget provides sufficient funds to cover the first phase.",
+    "translation": "その予算には第1段階を賄うのに十分な資金がある。",
+    "level": 730
+  },
+  {
+    "word": "supervise",
+    "pos": "verb",
+    "meaning": "監督する",
+    "definition": "To manage or oversee people and their work to ensure that it is done properly.",
+    "example": "A senior engineer will supervise the installation of the new equipment.",
+    "translation": "上級技術者が新しい設備の設置を監督する。",
+    "level": 730
+  },
+  {
+    "word": "supplement",
+    "pos": "verb",
+    "meaning": "補足する・補う",
+    "definition": "To add something that completes or improves what is already available.",
+    "example": "The appendix supplements the report with detailed cost information.",
+    "translation": "付録は詳細な費用情報を加えて報告書を補足している。",
+    "level": 730
+  },
+  {
+    "word": "survey",
+    "pos": "verb",
+    "meaning": "調査する",
+    "definition": "To collect information from people about their opinions, experiences, or preferences.",
+    "example": "We surveyed current users before redesigning the mobile application.",
+    "translation": "当社はモバイルアプリを再設計する前に現行ユーザーを調査した。",
+    "level": 730
+  },
+  {
+    "word": "suspend",
+    "pos": "verb",
+    "meaning": "一時停止する・停職にする",
+    "definition": "To temporarily stop an activity or prevent someone from continuing in a role.",
+    "example": "The airline suspended the route until demand recovered.",
+    "translation": "その航空会社は需要が回復するまでその路線を一時停止した。",
+    "level": 730
+  },
+  {
+    "word": "tentative",
+    "pos": "adjective",
+    "meaning": "暫定的な",
+    "definition": "Not final or certain, but arranged or suggested for the present.",
+    "example": "The two sides agreed on a tentative delivery date.",
+    "translation": "双方は暫定的な納品日に合意した。",
+    "level": 730
+  },
+  {
+    "word": "terminate",
+    "pos": "verb",
+    "meaning": "終了させる・打ち切る",
+    "definition": "To formally bring an agreement, service, or activity to an end.",
+    "example": "Either party may terminate the contract with thirty days’ notice.",
+    "translation": "いずれの当事者も30日前に通知すれば契約を終了できる。",
+    "level": 730
+  },
+  {
+    "word": "transaction",
+    "pos": "noun",
+    "meaning": "取引",
+    "definition": "A business exchange involving the purchase, sale, or transfer of goods, services, or money.",
+    "example": "The bank flagged the overseas transaction for additional verification.",
+    "translation": "その銀行は追加確認のため海外取引にフラグを立てた。",
+    "level": 730
+  },
+  {
+    "word": "transfer",
+    "pos": "verb",
+    "meaning": "移す・譲渡する",
+    "definition": "To move someone or something from one place, account, or person to another.",
+    "example": "Please transfer the payment to the account listed on the invoice.",
+    "translation": "請求書に記載された口座へ支払いを振り込んでください。",
+    "level": 730
+  },
+  {
+    "word": "transparent",
+    "pos": "adjective",
+    "meaning": "透明な・明白な",
+    "definition": "Open and easy to understand, with no hidden conditions or motives.",
+    "example": "The procurement team used a transparent bidding process.",
+    "translation": "調達チームは透明性の高い入札手続きを採用した。",
+    "level": 730
+  },
+  {
+    "word": "undertake",
+    "pos": "verb",
+    "meaning": "引き受ける・着手する",
+    "definition": "To agree to do a task or project and accept responsibility for it.",
+    "example": "The contractor undertook a complete safety inspection of the plant.",
+    "translation": "請負業者は工場の全面的な安全点検を引き受けた。",
+    "level": 730
+  },
+  {
+    "word": "unique",
+    "pos": "adjective",
+    "meaning": "独自の・唯一の",
+    "definition": "Unlike anything else and therefore especially distinctive or valuable.",
+    "example": "The startup offers a unique payment solution for small retailers.",
+    "translation": "その新興企業は小規模小売業者向けに独自の決済ソリューションを提供している。",
+    "level": 730
+  },
+  {
+    "word": "vacancy",
+    "pos": "noun",
+    "meaning": "空き・欠員",
+    "definition": "An unoccupied position, room, or place that is available to be filled.",
+    "example": "The company posted a vacancy for an experienced project manager.",
+    "translation": "その会社は経験豊富なプロジェクトマネージャーの欠員を掲載した。",
+    "level": 730
+  },
+  {
+    "word": "valid",
+    "pos": "adjective",
+    "meaning": "有効な・妥当な",
+    "definition": "Legally or officially acceptable, or logically well-founded.",
+    "example": "The discount is valid only for orders placed by the end of the month.",
+    "translation": "その割引は月末までに行われた注文に限り有効だ。",
+    "level": 730
+  },
+  {
+    "word": "verify",
+    "pos": "verb",
+    "meaning": "確認する・検証する",
+    "definition": "To check that something is accurate, true, or valid.",
+    "example": "Please verify the account number before authorizing the transfer.",
+    "translation": "振り込みを承認する前に口座番号を確認してください。",
+    "level": 730
+  },
+  {
+    "word": "viable",
+    "pos": "adjective",
+    "meaning": "実行可能な・存続可能な",
+    "definition": "Capable of working successfully or continuing to exist.",
+    "example": "The consultants presented a viable plan for reducing operating costs.",
+    "translation": "コンサルタントたちは営業費を削減する実行可能な計画を示した。",
+    "level": 730
+  },
+  {
+    "word": "volunteer",
+    "pos": "verb",
+    "meaning": "自発的に申し出る",
+    "definition": "To offer to do something without being asked or paid to do it.",
+    "example": "Mika volunteered to lead the client presentation at short notice.",
+    "translation": "ミカは急な依頼にもかかわらず顧客向けプレゼンテーションを率いると申し出た。",
+    "level": 730
+  },
+  {
+    "word": "warranty",
+    "pos": "noun",
+    "meaning": "保証・保証書",
+    "definition": "A written promise from a seller to repair or replace a product under stated conditions.",
+    "example": "The extended warranty covers repairs for an additional two years.",
+    "translation": "延長保証はさらに2年間、修理を補償する。",
+    "level": 730
+  },
+  {
+    "word": "withdraw",
+    "pos": "verb",
+    "meaning": "撤回する・引き出す",
+    "definition": "To remove an offer, application, or money from a particular process or place.",
+    "example": "The bidder withdrew its offer after the inspection revealed serious defects.",
+    "translation": "入札者は検査で重大な欠陥が判明した後、提示を撤回した。",
+    "level": 730
+  },
+  {
+    "word": "annual",
+    "pos": "noun",
+    "meaning": "年次刊行物",
+    "definition": "A publication issued once every year, often containing records or reports.",
+    "example": "The association’s annual includes a directory of member companies.",
+    "translation": "その協会の年鑑には会員企業の名簿が掲載されている。",
+    "level": 730
+  },
+  {
+    "word": "audit",
+    "pos": "noun",
+    "meaning": "監査",
+    "definition": "An official examination of financial records and business procedures.",
+    "example": "The external audit identified several weaknesses in internal controls.",
+    "translation": "外部監査によって内部統制の弱点がいくつか明らかになった。",
+    "level": 730
+  },
+  {
+    "word": "branch",
+    "pos": "noun",
+    "meaning": "支店・部門",
+    "definition": "A local office or separate division of a larger organization.",
+    "example": "The bank opened a branch near the city’s main business district.",
+    "translation": "その銀行は市内の主要なビジネス街の近くに支店を開設した。",
+    "level": 730
+  },
+  {
+    "word": "candidate",
+    "pos": "noun",
+    "meaning": "候補者",
+    "definition": "A person being considered for a job, position, award, or election.",
+    "example": "The hiring panel invited three candidates to a second interview.",
+    "translation": "採用委員会は3人の候補者を2次面接に招いた。",
+    "level": 730
+  },
+  {
+    "word": "client",
+    "pos": "noun",
+    "meaning": "顧客・依頼人",
+    "definition": "A person or organization that receives professional services from another business.",
+    "example": "Our client requested a progress report before approving the next phase.",
+    "translation": "顧客は次の段階を承認する前に進捗報告書を求めた。",
+    "level": 730
+  },
+  {
+    "word": "collateral",
+    "pos": "noun",
+    "meaning": "担保",
+    "definition": "Property or other assets pledged to secure repayment of a loan.",
+    "example": "The bank required commercial property as collateral for the expansion loan.",
+    "translation": "銀行は拡張資金の融資の担保として商業用不動産を求めた。",
+    "level": 730
+  },
+  {
+    "word": "commodity",
+    "pos": "noun",
+    "meaning": "商品・原材料",
+    "definition": "A raw material or basic product that can be bought and sold, often in large quantities.",
+    "example": "The manufacturer hedged against rising commodity prices.",
+    "translation": "そのメーカーは商品価格の上昇に備えてヘッジ取引を行った。",
+    "level": 730
+  },
+  {
+    "word": "competitor",
+    "pos": "noun",
+    "meaning": "競合他社・競争相手",
+    "definition": "A person or company competing with another for customers, business, or market share.",
+    "example": "Our main competitor launched a less expensive version of the product.",
+    "translation": "主な競合他社がその製品のより安価な版を発売した。",
+    "level": 730
+  },
+  {
+    "word": "compliance",
+    "pos": "noun",
+    "meaning": "法令遵守",
+    "definition": "Following laws, regulations, and required standards in business operations.",
+    "example": "The compliance team reviewed the supplier records before the annual audit.",
+    "translation": "コンプライアンス部門は年次監査の前に、仕入先の記録を確認した。",
+    "level": 730
+  },
+  {
+    "word": "contract",
+    "pos": "noun",
+    "meaning": "契約",
+    "definition": "A legally binding agreement between two or more parties.",
+    "example": "Our legal department revised the contract to clarify the payment schedule.",
+    "translation": "当社の法務部門は、支払日程を明確にするため契約書を改訂した。",
+    "level": 730
+  },
+  {
+    "word": "depreciation",
+    "pos": "noun",
+    "meaning": "減価償却",
+    "definition": "The gradual reduction in an asset’s recorded value over its useful life.",
+    "example": "The accountant included depreciation of the new equipment in the quarterly report.",
+    "translation": "会計担当者は、新しい設備の減価償却費を四半期報告書に計上した。",
+    "level": 730
+  },
+  {
+    "word": "dividend",
+    "pos": "noun",
+    "meaning": "配当",
+    "definition": "A portion of a company’s profits distributed to its shareholders.",
+    "example": "The board approved a higher dividend after reviewing the company’s strong earnings.",
+    "translation": "取締役会は、好調な業績を検討した後、増額された配当を承認した。",
+    "level": 730
+  },
+  {
+    "word": "durable",
+    "pos": "adjective",
+    "meaning": "耐久性のある",
+    "definition": "Able to remain in good condition despite frequent use or difficult conditions.",
+    "example": "We selected durable packaging to protect the instruments during overseas shipping.",
+    "translation": "海外輸送中に機器を守るため、耐久性のある梱包材を選んだ。",
+    "level": 730
+  },
+  {
+    "word": "economy",
+    "pos": "noun",
+    "meaning": "経済",
+    "definition": "The system of production, trade, and consumption in a country or region.",
+    "example": "A weaker economy has reduced demand for luxury office renovations.",
+    "translation": "経済の低迷により、高級なオフィス改装の需要が減少した。",
+    "level": 730
+  },
+  {
+    "word": "portfolio",
+    "pos": "noun",
+    "meaning": "ポートフォリオ",
+    "definition": "A collection of investments, products, or professional work managed as a group.",
+    "example": "The investment adviser rebalanced the client’s portfolio to reduce risk.",
+    "translation": "投資顧問はリスクを抑えるため、顧客のポートフォリオの配分を調整した。",
+    "level": 730
+  },
+  {
+    "word": "procurement",
+    "pos": "noun",
+    "meaning": "調達",
+    "definition": "The process of obtaining goods or services for an organization.",
+    "example": "Procurement negotiated lower prices with the software supplier.",
+    "translation": "調達部門はソフトウェア供給業者と価格の引き下げを交渉した。",
+    "level": 730
+  },
+  {
+    "word": "profitability",
+    "pos": "noun",
+    "meaning": "収益性",
+    "definition": "The degree to which a business activity generates profit.",
+    "example": "The analysis showed that the new service could improve profitability within two years.",
+    "translation": "分析によると、その新サービスは2年以内に収益性を高める可能性がある。",
+    "level": 730
+  },
+  {
+    "word": "reimbursement",
+    "pos": "noun",
+    "meaning": "払い戻し",
+    "definition": "Money returned to a customer or employee after an eligible payment.",
+    "example": "Employees must submit receipts within thirty days to receive reimbursement.",
+    "translation": "従業員は払い戻しを受けるため、30日以内に領収書を提出しなければならない。",
+    "level": 730
+  },
+  {
+    "word": "stakeholder",
+    "pos": "noun",
+    "meaning": "利害関係者",
+    "definition": "A person or group affected by or able to influence a project or decision.",
+    "example": "The project manager invited every major stakeholder to the planning meeting.",
+    "translation": "プロジェクトマネージャーは、主要な利害関係者全員を計画会議に招いた。",
+    "level": 730
+  },
+  {
+    "word": "subscription",
+    "pos": "noun",
+    "meaning": "定期購読",
+    "definition": "An arrangement to receive a publication or service regularly for a fee.",
+    "example": "The company renewed its subscription to the industry research database.",
+    "translation": "その会社は業界調査データベースの定期購読を更新した。",
+    "level": 730
+  },
+  {
+    "word": "supplier",
+    "pos": "noun",
+    "meaning": "供給業者",
+    "definition": "A company or person that provides goods or materials to another business.",
+    "example": "We replaced the supplier after repeated delays in raw-material deliveries.",
+    "translation": "原材料の納入遅延が繰り返されたため、当社は供給業者を変更した。",
+    "level": 730
+  },
+  {
+    "word": "turnover",
+    "pos": "noun",
+    "meaning": "離職率・売上高",
+    "definition": "The rate at which employees leave, or the total sales of, a business.",
+    "example": "The human-resources director introduced mentoring to lower staff turnover.",
+    "translation": "人事部長は従業員の離職率を下げるため、指導制度を導入した。",
+    "level": 730
+  },
+  {
+    "word": "venue",
+    "pos": "noun",
+    "meaning": "会場",
+    "definition": "A place where an event, meeting, or activity is held.",
+    "example": "The conference venue is within walking distance of the central station.",
+    "translation": "その会議の会場は中央駅から徒歩圏内にある。",
+    "level": 730
+  },
+  {
+    "word": "vendor",
+    "pos": "noun",
+    "meaning": "販売業者",
+    "definition": "A person or company that sells products, especially to businesses or customers.",
+    "example": "The authorized vendor will install and maintain the office printers.",
+    "translation": "認定販売業者がオフィス用プリンターを設置し、保守を行う。",
+    "level": 730
+  },
+  {
+    "word": "wholesale",
+    "pos": "adjective",
+    "meaning": "卸売り",
+    "definition": "Relating to the sale of goods in large quantities, usually to retailers.",
+    "example": "The wholesale price is available only to customers who meet the minimum order requirement.",
+    "translation": "卸売価格は、最低注文条件を満たす顧客だけに適用される。",
+    "level": 730
+  },
+  {
+    "word": "workforce",
+    "pos": "noun",
+    "meaning": "労働力",
+    "definition": "The people available and employed to perform work in an organization or economy.",
+    "example": "The factory expanded its workforce to meet growing export demand.",
+    "translation": "その工場は輸出需要の拡大に応じるため、労働力を増強した。",
+    "level": 730
+  },
+  {
+    "word": "yield",
+    "pos": "verb",
+    "meaning": "生み出す・利回り",
+    "definition": "To produce a result or return, especially income or profit.",
+    "example": "The new advertising campaign is expected to yield measurable sales growth.",
+    "translation": "新しい広告キャンペーンは、測定可能な売上成長を生み出すと期待されている。",
+    "level": 730
+  },
+  {
+    "word": "merger",
+    "pos": "noun",
+    "meaning": "合併",
+    "definition": "The combination of two companies into a single organization.",
+    "example": "The proposed merger requires approval from both companies’ shareholders.",
+    "translation": "提案されている合併には、両社の株主の承認が必要だ。",
+    "level": 730
+  },
+  {
+    "word": "logistics",
+    "pos": "noun",
+    "meaning": "物流",
+    "definition": "The planning and movement of goods, materials, and information through a supply chain.",
+    "example": "Better logistics helped the retailer shorten delivery times across the region.",
+    "translation": "物流を改善したことで、その小売業者は地域全体の配送時間を短縮できた。",
+    "level": 730
+  },
+  {
+    "word": "premises",
+    "pos": "noun",
+    "meaning": "敷地・構内",
+    "definition": "A building and the land belonging to it, especially where a business operates.",
+    "example": "Visitors must wear identification badges while they are on the company premises.",
+    "translation": "来訪者は会社の敷地内にいる間、身分証を着用しなければならない。",
+    "level": 730
+  },
+  {
+    "word": "strategy",
+    "pos": "noun",
+    "meaning": "戦略",
+    "definition": "A carefully planned approach for achieving a long-term business objective.",
+    "example": "The marketing strategy focuses on retaining existing customers rather than cutting prices.",
+    "translation": "そのマーケティング戦略は、値下げではなく既存顧客の維持に重点を置いている。",
+    "level": 730
+  },
+  {
+    "word": "shipment",
+    "pos": "noun",
+    "meaning": "発送品",
+    "definition": "A package or group of goods sent from one place to another.",
+    "example": "The carrier confirmed that the shipment would arrive at the regional hub on Friday.",
+    "translation": "運送業者は、発送品が金曜日に地域拠点へ到着すると確認した。",
+    "level": 730
+  },
+  {
+    "word": "framework",
+    "pos": "noun",
+    "meaning": "枠組み",
+    "definition": "A basic structure or system used to organize ideas, policies, or activities.",
+    "example": "The committee established a framework for evaluating future investment proposals.",
+    "translation": "委員会は、今後の投資提案を評価するための枠組みを定めた。",
+    "level": 730
+  },
+  {
+    "word": "leverage",
+    "pos": "noun",
+    "meaning": "活用する・影響力",
+    "definition": "The use of an advantage or resource to achieve a desired result.",
+    "example": "The startup used its technical expertise as leverage in negotiations with the bank.",
+    "translation": "その新興企業は銀行との交渉で、技術的専門知識を優位性として活用した。",
+    "level": 730
+  },
+  {
+    "word": "milestone",
+    "pos": "noun",
+    "meaning": "節目",
+    "definition": "An important stage or event marking progress in a project or process.",
+    "example": "Completing the prototype was a major milestone for the engineering team.",
+    "translation": "試作品の完成は、技術チームにとって大きな節目となった。",
+    "level": 730
+  },
+  {
+    "word": "marketing",
+    "pos": "noun",
+    "meaning": "マーケティング",
+    "definition": "The activities involved in promoting, selling, and distributing a product or service.",
+    "example": "The marketing campaign increased website traffic among small-business owners.",
+    "translation": "そのマーケティングキャンペーンは、小規模事業主からのウェブサイト訪問を増やした。",
+    "level": 730
+  },
+  {
+    "word": "payroll",
+    "pos": "noun",
+    "meaning": "給与台帳",
+    "definition": "A record of employees and the wages or salaries paid to them.",
+    "example": "The payroll system automatically calculates taxes and transfers each employee’s salary.",
+    "translation": "給与システムは税金を自動計算し、各従業員の給与を振り込む。",
+    "level": 730
+  },
+  {
+    "word": "tender",
+    "pos": "verb",
+    "meaning": "入札",
+    "definition": "To offer a price or formal proposal for a contract or project.",
+    "example": "Several construction firms will tender for the airport expansion contract.",
+    "translation": "複数の建設会社が空港拡張契約の入札に参加する予定だ。",
+    "level": 730
+  },
+  {
+    "word": "delegation",
+    "pos": "noun",
+    "meaning": "代表団・委任",
+    "definition": "A group of people appointed to represent an organization or country.",
+    "example": "The trade delegation met with local manufacturers during its three-day visit.",
+    "translation": "貿易代表団は3日間の訪問中に、地元の製造業者と会談した。",
+    "level": 730
+  },
+  {
+    "word": "promotion",
+    "pos": "verb",
+    "meaning": "昇進・販売促進",
+    "definition": "The act of raising someone to a higher position or encouraging sales of a product.",
+    "example": "The company promoted its regional manager after she exceeded her targets.",
+    "translation": "その会社は、地域マネージャーが目標を上回ったため昇進させた。",
+    "level": 730
+  },
+  {
+    "word": "retail",
+    "pos": "adjective",
+    "meaning": "小売り",
+    "definition": "Relating to the sale of goods directly to consumers in small quantities.",
+    "example": "The retailer is testing a new retail layout to improve the customer experience.",
+    "translation": "その小売業者は顧客体験を向上させるため、新しい店舗レイアウトを試している。",
+    "level": 730
+  },
+  {
+    "word": "maintenance",
+    "pos": "verb",
+    "meaning": "保守",
+    "definition": "The work of keeping equipment, systems, or facilities in good working order.",
+    "example": "The manufacturer recommends regular maintenance for the cooling system.",
+    "translation": "メーカーは冷却システムの定期的な保守を推奨している。",
+    "level": 730
+  },
+  {
+    "word": "prospect",
+    "pos": "verb",
+    "meaning": "見込み",
+    "definition": "A likely possibility, especially a potential customer, opportunity, or outcome.",
+    "example": "The sales representative contacted a promising prospect after the trade show.",
+    "translation": "営業担当者は展示会の後、有望な見込み客に連絡を取った。",
+    "level": 730
+  },
+  {
+    "word": "deploy",
+    "pos": "verb",
+    "meaning": "配備する",
+    "definition": "To put people, equipment, or resources into a particular position or use.",
+    "example": "The IT department will deploy the security update across all company laptops tonight.",
+    "translation": "IT部門は今夜、全社のノートパソコンにセキュリティ更新を配備する。",
+    "level": 730
+  },
+  {
+    "word": "benchmark",
+    "pos": "verb",
+    "meaning": "基準",
+    "definition": "A standard used for comparison or evaluation.",
+    "example": "The analyst used last year’s margin as a benchmark for the new division.",
+    "translation": "アナリストは新部門の基準として、昨年の利益率を用いた。",
+    "level": 730
+  },
+  {
+    "word": "innovation",
+    "pos": "noun",
+    "meaning": "革新",
+    "definition": "A new idea, method, or product that significantly improves existing practice.",
+    "example": "The company invests in innovation to remain competitive in the medical-device market.",
+    "translation": "その会社は医療機器市場で競争力を保つため、革新に投資している。",
+    "level": 730
+  },
+  {
+    "word": "surplus",
+    "pos": "noun",
+    "meaning": "余剰",
+    "definition": "An amount that remains after a need has been satisfied.",
+    "example": "The distributor sold its surplus inventory to a regional discount chain.",
+    "translation": "販売業者は余剰在庫を地域のディスカウントチェーンに売却した。",
+    "level": 730
+  },
+  {
+    "word": "subsidy",
+    "pos": "noun",
+    "meaning": "補助金",
+    "definition": "Money provided by a government or organization to support a particular activity.",
+    "example": "The manufacturer received a subsidy to install energy-efficient equipment.",
+    "translation": "その製造業者は省エネ設備を導入するための補助金を受け取った。",
+    "level": 730
+  },
+  {
+    "word": "utility",
+    "pos": "adjective",
+    "meaning": "公共料金・実用性",
+    "definition": "Relating to essential public services or designed for practical use.",
+    "example": "The office lease excludes utility costs such as electricity and water.",
+    "translation": "そのオフィスの賃貸契約には、電気や水道などの公共料金が含まれていない。",
+    "level": 730
+  },
+  {
+    "word": "feasibility",
+    "pos": "noun",
+    "meaning": "実現可能性",
+    "definition": "The extent to which a plan or project can be successfully carried out.",
+    "example": "The consultant prepared a feasibility study for the proposed distribution center.",
+    "translation": "コンサルタントは、提案された配送センターの実現可能性調査を作成した。",
+    "level": 730
+  },
+  {
+    "word": "quarterly",
+    "pos": "adjective",
+    "meaning": "四半期ごとの",
+    "definition": "Occurring or being published once every three months.",
+    "example": "The chief executive reviews the quarterly sales figures with the board.",
+    "translation": "最高経営責任者は四半期ごとの売上高を取締役会と検討する。",
+    "level": 730
+  },
+  {
+    "word": "discrepancy",
+    "pos": "noun",
+    "meaning": "食い違い",
+    "definition": "A difference between two facts, figures, or records that should agree.",
+    "example": "The auditor found a discrepancy between the invoice and the amount paid.",
+    "translation": "監査担当者は請求書と支払額の間に食い違いを見つけた。",
+    "level": 730
+  },
+  {
+    "word": "contractor",
+    "pos": "noun",
+    "meaning": "請負業者",
+    "definition": "A person or company hired to perform specific work under a contract.",
+    "example": "The contractor completed the office renovation two weeks ahead of schedule.",
+    "translation": "請負業者は予定より2週間早くオフィスの改装を終えた。",
+    "level": 730
+  },
+  {
+    "word": "facility",
+    "pos": "noun",
+    "meaning": "施設",
+    "definition": "A building, service, or piece of equipment provided for a particular purpose.",
+    "example": "The research facility follows strict procedures for handling confidential samples.",
+    "translation": "その研究施設は機密サンプルの取り扱いに関する厳格な手順を守っている。",
+    "level": 730
+  },
+  {
+    "word": "transition",
+    "pos": "noun",
+    "meaning": "移行",
+    "definition": "The process of changing from one system, condition, or stage to another.",
+    "example": "The software transition was completed without interrupting customer support.",
+    "translation": "ソフトウェアの移行は顧客サポートを中断せずに完了した。",
+    "level": 730
+  },
+  {
+    "word": "commitment",
+    "pos": "noun",
+    "meaning": "約束・取り組み",
+    "definition": "A firm promise or dedication to a person, activity, or course of action.",
+    "example": "The director reaffirmed the company’s commitment to reducing emissions.",
+    "translation": "部長は排出量削減に対する会社の取り組みを改めて確認した。",
+    "level": 730
+  },
+  {
+    "word": "equity",
+    "pos": "noun",
+    "meaning": "株主資本・公平",
+    "definition": "The value of shareholders’ ownership in a company, or fairness in treatment.",
+    "example": "The firm raised equity by issuing new shares to institutional investors.",
+    "translation": "その会社は機関投資家に新株を発行して株主資本を増やした。",
+    "level": 730
+  },
+  {
+    "word": "quotation",
+    "pos": "noun",
+    "meaning": "見積書・引用",
+    "definition": "A written statement of the price charged for a job or goods, or words repeated from another source.",
+    "example": "Please compare the supplier’s quotation with the specifications before placing the order.",
+    "translation": "注文する前に、供給業者の見積書を仕様書と比較してください。",
+    "level": 730
+  },
+  {
+    "word": "mortgage",
+    "pos": "noun",
+    "meaning": "住宅ローン",
+    "definition": "A loan secured by property and repaid over an agreed period, usually to buy a home or building.",
+    "example": "The bank approved a mortgage after reviewing the applicant’s income and credit history.",
+    "translation": "銀行は申請者の収入と信用履歴を確認した後、住宅ローンを承認した。",
+    "level": 730
+  },
+  {
+    "word": "tariff",
+    "pos": "noun",
+    "meaning": "関税",
+    "definition": "A tax imposed by a government on goods brought into a country.",
+    "example": "The new tariff increased the landed cost of imported steel.",
+    "translation": "新しい関税により、輸入鋼材の着地原価が上昇した。",
+    "level": 730
+  },
+  {
+    "word": "consignment",
+    "pos": "noun",
+    "meaning": "委託貨物",
+    "definition": "Goods sent to an agent or seller who is paid when the goods are sold.",
+    "example": "The retailer accepted the consignment on the condition that unsold items could be returned.",
+    "translation": "その小売業者は、売れ残りを返品できることを条件に委託貨物を受け入れた。",
+    "level": 730
+  },
+  {
+    "word": "customs",
+    "pos": "noun",
+    "meaning": "税関",
+    "definition": "The government department that checks goods entering or leaving a country and collects duties.",
+    "example": "Customs held the shipment until the importer submitted the missing invoice.",
+    "translation": "輸入業者が不足していたインボイスを提出するまで、税関はその貨物を留め置いた。",
+    "level": 730
+  },
+  {
+    "word": "freight",
+    "pos": "noun",
+    "meaning": "貨物輸送・運賃",
+    "definition": "Goods transported in bulk, or the charge for transporting them.",
+    "example": "The supplier offered to pay the freight on orders exceeding $10,000.",
+    "translation": "その供給業者は、1万ドルを超える注文の貨物運賃を負担すると申し出た。",
+    "level": 730
+  },
+  {
+    "word": "warehouse",
+    "pos": "noun",
+    "meaning": "倉庫",
+    "definition": "A large building where goods are stored before they are distributed or sold.",
+    "example": "The company leased a warehouse near the port to shorten delivery times.",
+    "translation": "その会社は配送時間を短縮するため、港の近くに倉庫を借りた。",
+    "level": 730
+  },
+  {
+    "word": "dispatch",
+    "pos": "noun",
+    "meaning": "発送・派遣",
+    "definition": "The sending of goods, documents, or people to a particular destination.",
+    "example": "The dispatch of replacement parts was delayed by a documentation error.",
+    "translation": "交換部品の発送は書類上のミスによって遅れた。",
+    "level": 730
+  },
+  {
+    "word": "carrier",
+    "pos": "noun",
+    "meaning": "運送業者",
+    "definition": "A company or vehicle that carries people or goods from one place to another.",
+    "example": "We changed the carrier after repeated damage to temperature-sensitive shipments.",
+    "translation": "温度管理が必要な貨物の破損が繰り返されたため、当社は運送業者を変更した。",
+    "level": 730
+  },
+  {
+    "word": "reservation",
+    "pos": "verb",
+    "meaning": "予約",
+    "definition": "An arrangement to have a seat, room, service, or place kept for a particular person.",
+    "example": "The assistant made a reservation for six at a restaurant near the client’s office.",
+    "translation": "アシスタントは顧客のオフィス近くのレストランに6名分の予約を入れた。",
+    "level": 730
+  },
+  {
+    "word": "hospitality",
+    "pos": "noun",
+    "meaning": "接客・もてなし",
+    "definition": "The friendly and generous treatment of guests or customers.",
+    "example": "The hotel is known for its hospitality toward international business travelers.",
+    "translation": "そのホテルは海外からの出張者に対する手厚いもてなしで知られている。",
+    "level": 730
+  },
+  {
+    "word": "accommodation",
+    "pos": "noun",
+    "meaning": "宿泊施設",
+    "definition": "A place where someone can stay, especially a hotel or other lodging arranged for a traveler.",
+    "example": "The conference organizer arranged accommodation for speakers arriving from overseas.",
+    "translation": "会議の主催者は、海外から到着する講演者の宿泊施設を手配した。",
+    "level": 730
+  },
+  {
+    "word": "amenities",
+    "pos": "noun",
+    "meaning": "設備・アメニティ",
+    "definition": "Features or services provided for comfort or convenience, especially in a building or hotel.",
+    "example": "The office amenities include a cafeteria, showers, and secure bicycle storage.",
+    "translation": "そのオフィスの設備には、食堂、シャワー、そして安全な自転車保管場所が含まれる。",
+    "level": 730
+  },
+  {
+    "word": "cancellation",
+    "pos": "noun",
+    "meaning": "取り消し・キャンセル",
+    "definition": "The act of stopping an arrangement, order, event, or booking from happening.",
+    "example": "The airline waived the cancellation fee because the flight was rescheduled.",
+    "translation": "航空会社は便の予定変更を理由に、キャンセル料を免除した。",
+    "level": 730
+  },
+  {
+    "word": "boarding",
+    "pos": "verb",
+    "meaning": "搭乗",
+    "definition": "The act of getting onto a ship, aircraft, train, or bus.",
+    "example": "Boarding will begin at 7:40, so please remain near Gate 12.",
+    "translation": "搭乗は7時40分に始まるため、12番ゲート付近でお待ちください。",
+    "level": 730
+  },
+  {
+    "word": "luggage",
+    "pos": "noun",
+    "meaning": "手荷物",
+    "definition": "Bags and personal belongings that a traveler takes on a journey.",
+    "example": "Passengers should label their luggage before checking in for the international flight.",
+    "translation": "乗客は国際線のチェックイン前に手荷物へ名前を付けるべきだ。",
+    "level": 730
+  },
+  {
+    "word": "passport",
+    "pos": "noun",
+    "meaning": "パスポート・旅券",
+    "definition": "An official document that proves a person’s identity and nationality when traveling abroad.",
+    "example": "Please send a scanned copy of your passport before we arrange the visa appointment.",
+    "translation": "ビザの面談を手配する前に、パスポートのスキャンコピーを送ってください。",
+    "level": 730
+  },
+  {
+    "word": "destination",
+    "pos": "noun",
+    "meaning": "目的地",
+    "definition": "The place to which a person or shipment is going.",
+    "example": "The logistics team confirmed that the destination warehouse could receive the containers.",
+    "translation": "物流チームは、目的地の倉庫がコンテナを受け入れられることを確認した。",
+    "level": 730
+  },
+  {
+    "word": "departure",
+    "pos": "verb",
+    "meaning": "出発",
+    "definition": "The act of leaving a place, especially to begin a journey.",
+    "example": "The director’s departure for Singapore was moved forward by two days.",
+    "translation": "部長のシンガポールへの出発は2日早められた。",
+    "level": 730
+  },
+  {
+    "word": "arrival",
+    "pos": "verb",
+    "meaning": "到着",
+    "definition": "The act of reaching a place, or the time when someone or something reaches it.",
+    "example": "Upon arrival, the consultant checked in with the project manager.",
+    "translation": "到着すると、コンサルタントはプロジェクトマネージャーに連絡した。",
+    "level": 730
+  },
+  {
+    "word": "delay",
+    "pos": "verb",
+    "meaning": "遅延",
+    "definition": "A period of time when something happens later than planned or expected.",
+    "example": "A two-hour delay in production pushed the client demonstration into the afternoon.",
+    "translation": "生産の2時間の遅延により、顧客向けの実演は午後にずれ込んだ。",
+    "level": 730
+  },
+  {
+    "word": "terminal",
+    "pos": "adjective",
+    "meaning": "ターミナル・終端装置",
+    "definition": "A building or area at an airport, station, or port where passengers or goods arrive and depart.",
+    "example": "The cargo terminal requires all drivers to present a valid access badge.",
+    "translation": "貨物ターミナルでは、すべての運転手に有効な入構証の提示を求めている。",
+    "level": 730
+  },
+  {
+    "word": "runway",
+    "pos": "noun",
+    "meaning": "滑走路",
+    "definition": "A long strip of ground on which aircraft take off and land.",
+    "example": "The airport closed one runway while engineers inspected the surface.",
+    "translation": "空港は技術者が路面を点検している間、1本の滑走路を閉鎖した。",
+    "level": 730
+  },
+  {
+    "word": "turbulence",
+    "pos": "noun",
+    "meaning": "乱気流",
+    "definition": "Irregular movement of air that can cause an aircraft to move suddenly during flight.",
+    "example": "The captain asked the cabin crew to take their seats because of severe turbulence.",
+    "translation": "機長は激しい乱気流のため、客室乗務員に着席するよう指示した。",
+    "level": 730
+  },
+  {
+    "word": "fare",
+    "pos": "verb",
+    "meaning": "運賃",
+    "definition": "The amount of money charged for a journey on public transportation.",
+    "example": "The promotional fare applies only to tickets booked before the end of the month.",
+    "translation": "キャンペーン運賃は月末までに予約したチケットにのみ適用される。",
+    "level": 730
+  },
+  {
+    "word": "agency",
+    "pos": "noun",
+    "meaning": "代理店・機関",
+    "definition": "A business or organization that provides a particular service or represents another company.",
+    "example": "We hired a recruitment agency to find candidates with semiconductor experience.",
+    "translation": "当社は半導体の経験を持つ候補者を探すため、人材紹介会社を雇った。",
+    "level": 730
+  },
+  {
+    "word": "excursion",
+    "pos": "noun",
+    "meaning": "小旅行・遠足",
+    "definition": "A short journey or trip made for pleasure, education, or a particular purpose.",
+    "example": "The sales team scheduled a client excursion after the annual conference.",
+    "translation": "営業チームは年次会議の後に顧客との小旅行を予定した。",
+    "level": 730
+  },
+  {
+    "word": "conference",
+    "pos": "noun",
+    "meaning": "会議・大会",
+    "definition": "A large formal meeting where people discuss ideas, information, or developments in a field.",
+    "example": "Our chief engineer will speak at an international technology conference in June.",
+    "translation": "当社の主任技術者は6月に国際技術会議で講演する。",
+    "level": 730
+  },
+  {
+    "word": "exhibition",
+    "pos": "noun",
+    "meaning": "展示会",
+    "definition": "A public event at which products, works of art, or information are displayed.",
+    "example": "The manufacturer unveiled its energy-efficient equipment at the trade exhibition.",
+    "translation": "そのメーカーは展示会で省エネ機器を初公開した。",
+    "level": 730
+  },
+  {
+    "word": "seminar",
+    "pos": "noun",
+    "meaning": "セミナー",
+    "definition": "A meeting or class in which a specialist gives information and participants discuss a subject.",
+    "example": "The compliance officer is leading a seminar on revised data-protection rules.",
+    "translation": "コンプライアンス担当者は改訂されたデータ保護規則に関するセミナーを主導している。",
+    "level": 730
+  },
+  {
+    "word": "workshop",
+    "pos": "noun",
+    "meaning": "研修会・ワークショップ",
+    "definition": "A structured meeting where people learn or develop skills through practical activities.",
+    "example": "The workshop helped regional managers improve their negotiation skills.",
+    "translation": "その研修会は地域マネージャーが交渉力を高めるのに役立った。",
+    "level": 730
+  },
+  {
+    "word": "appointment",
+    "pos": "verb",
+    "meaning": "面会の約束・予約",
+    "definition": "An arrangement to meet someone at a particular time and place.",
+    "example": "I have an appointment with the auditor at three to review the quarterly figures.",
+    "translation": "私は3時に監査人と会い、四半期の数値を確認する予定だ。",
+    "level": 730
+  },
+  {
+    "word": "negotiation",
+    "pos": "verb",
+    "meaning": "交渉",
+    "definition": "A formal discussion in which people or organizations try to reach an agreement.",
+    "example": "The two companies resumed negotiations after resolving the warranty issue.",
+    "translation": "両社は保証問題を解決した後、交渉を再開した。",
+    "level": 730
+  },
+  {
+    "word": "presentation",
+    "pos": "verb",
+    "meaning": "発表・プレゼンテーション",
+    "definition": "A formal talk in which information, ideas, or a proposal is presented to an audience.",
+    "example": "Her presentation clearly explained how the merger would affect employees.",
+    "translation": "彼女の発表は、合併が従業員にどのような影響を与えるかを明確に説明した。",
+    "level": 730
+  },
+  {
+    "word": "proposal",
+    "pos": "verb",
+    "meaning": "提案",
+    "definition": "A plan or suggestion put forward for consideration or discussion.",
+    "example": "The procurement committee rejected the proposal because it exceeded the budget.",
+    "translation": "調達委員会は予算を超えていたため、その提案を退けた。",
+    "level": 730
+  },
+  {
+    "word": "minutes",
+    "pos": "verb",
+    "meaning": "議事録",
+    "definition": "The official written record of what was discussed and decided at a meeting.",
+    "example": "The secretary circulated the meeting minutes before the next board session.",
+    "translation": "秘書は次回の取締役会の前に会議の議事録を回覧した。",
+    "level": 730
+  },
+  {
+    "word": "memorandum",
+    "pos": "noun",
+    "meaning": "覚書",
+    "definition": "A written record or informal agreement that summarizes the terms or understanding between parties.",
+    "example": "Both parties signed a memorandum outlining their joint research responsibilities.",
+    "translation": "両当事者は共同研究の責任範囲をまとめた覚書に署名した。",
+    "level": 730
+  },
+  {
+    "word": "catalog",
+    "pos": "verb",
+    "meaning": "カタログ・目録",
+    "definition": "A list or publication that describes products, services, or items available from a company or collection.",
+    "example": "The distributor added the new product line to its online catalog.",
+    "translation": "その販売代理店は新しい製品ラインをオンラインカタログに追加した。",
+    "level": 730
+  },
+  {
+    "word": "manual",
+    "pos": "adjective",
+    "meaning": "手引書・マニュアル",
+    "definition": "A book or document that gives instructions for using or operating something.",
+    "example": "The technician consulted the equipment manual before replacing the control panel.",
+    "translation": "技術者は制御盤を交換する前に機器のマニュアルを参照した。",
+    "level": 730
+  },
+  {
+    "word": "policy",
+    "pos": "adjective",
+    "meaning": "方針・政策",
+    "definition": "An officially adopted plan or set of principles that guides decisions and actions.",
+    "example": "The company introduced a remote-work policy for employees with caregiving responsibilities.",
+    "translation": "その会社は介護の責任を担う従業員向けに在宅勤務方針を導入した。",
+    "level": 730
+  },
+  {
+    "word": "procedure",
+    "pos": "noun",
+    "meaning": "手順",
+    "definition": "An established series of actions followed to accomplish a task or handle a situation.",
+    "example": "The laboratory updated its procedure for reporting safety incidents.",
+    "translation": "その研究所は安全上の事故を報告する手順を改訂した。",
+    "level": 730
+  },
+  {
+    "word": "guideline",
+    "pos": "noun",
+    "meaning": "指針・ガイドライン",
+    "definition": "A recommendation or rule that indicates how something should be done.",
+    "example": "The new guidelines require vendors to disclose their data-retention practices.",
+    "translation": "新しい指針は、ベンダーにデータ保持の慣行を開示するよう求めている。",
+    "level": 730
+  },
+  {
+    "word": "agreement",
+    "pos": "verb",
+    "meaning": "合意・契約",
+    "definition": "A mutual understanding or arrangement reached by two or more parties.",
+    "example": "The partners reached an agreement on pricing and delivery schedules.",
+    "translation": "提携企業は価格と納期について合意に達した。",
+    "level": 730
+  },
+  {
+    "word": "clause",
+    "pos": "noun",
+    "meaning": "条項",
+    "definition": "A specific provision or condition contained in a contract or other formal document.",
+    "example": "The renewal clause allows either party to terminate the contract with 60 days’ notice.",
+    "translation": "更新条項により、どちらの当事者も60日前に通知すれば契約を解除できる。",
+    "level": 730
+  },
+  {
+    "word": "provision",
+    "pos": "noun",
+    "meaning": "規定・供給・備え",
+    "definition": "A condition or term in an agreement, or something supplied or arranged for a particular purpose.",
+    "example": "The contract includes a provision for additional support during the transition period.",
+    "translation": "その契約には、移行期間中の追加支援に関する規定が含まれている。",
+    "level": 730
+  },
+  {
+    "word": "amendment",
+    "pos": "noun",
+    "meaning": "修正・改正",
+    "definition": "A change made to a document, law, agreement, or proposal in order to improve or correct it.",
+    "example": "The board approved an amendment to the company’s travel policy.",
+    "translation": "取締役会は会社の出張方針の修正を承認した。",
+    "level": 730
+  },
+  {
+    "word": "authorization",
+    "pos": "noun",
+    "meaning": "認可・許可",
+    "definition": "Official permission to do something, especially given by an authority or organization.",
+    "example": "The project cannot begin until the city grants authorization for the construction work.",
+    "translation": "市が建設工事を認可するまで、そのプロジェクトは開始できない。",
+    "level": 730
+  },
+  {
+    "word": "license",
+    "pos": "verb",
+    "meaning": "免許・許可証",
+    "definition": "An official document or permission that allows a person or business to do something legally.",
+    "example": "The restaurant must renew its operating license before the inspection date.",
+    "translation": "そのレストランは検査日までに営業許可を更新しなければならない。",
+    "level": 730
+  },
+  {
+    "word": "certificate",
+    "pos": "noun",
+    "meaning": "証明書・証明",
+    "definition": "An official document that proves a fact, qualification, or successful completion of a course or requirement.",
+    "example": "The supplier provided a certificate confirming that the materials met safety standards.",
+    "translation": "その供給業者は、材料が安全基準を満たしていることを証明する書類を提出した。",
+    "level": 730
+  },
+  {
+    "word": "credential",
+    "pos": "verb",
+    "meaning": "資格・経歴証明",
+    "definition": "A qualification, achievement, or document that proves a person’s identity, authority, or ability.",
+    "example": "The consultant submitted her professional credentials with the tender documents.",
+    "translation": "そのコンサルタントは入札書類とともに自身の専門資格を提出した。",
+    "level": 730
+  },
+  {
+    "word": "qualification",
+    "pos": "noun",
+    "meaning": "資格・適性",
+    "definition": "An official qualification or the qualities and experience needed for a particular job or activity.",
+    "example": "The applicant’s qualifications closely match the requirements for the regional sales role.",
+    "translation": "その応募者の資格は、地域営業職の要件に非常によく合っている。",
+    "level": 730
+  },
+  {
+    "word": "accrual",
+    "pos": "noun",
+    "meaning": "未払計上",
+    "definition": "An accounting entry recording revenue or expenses when earned or incurred, not when cash moves.",
+    "example": "The accountant recorded an accrual for services received in December.",
+    "translation": "会計担当者は12月に受けたサービスを未払計上した。",
+    "level": 730
+  },
+  {
+    "word": "arbitrage",
+    "pos": "noun",
+    "meaning": "裁定取引",
+    "definition": "Profit made by buying an asset in one market and selling it at a higher price in another.",
+    "example": "The fund used arbitrage to benefit from the price difference between the exchanges.",
+    "translation": "そのファンドは取引所間の価格差を利用して裁定取引を行った。",
+    "level": 730
+  },
+  {
+    "word": "backorder",
+    "pos": "noun",
+    "meaning": "入荷待ち注文",
+    "definition": "An order for an unavailable item that will ship when new stock arrives.",
+    "example": "The supplier placed 200 units on backorder after the factory ran out of components.",
+    "translation": "工場で部品が不足し、供給業者は200個を入荷待ちにした。",
+    "level": 730
+  },
+  {
+    "word": "bidder",
+    "pos": "noun",
+    "meaning": "入札者",
+    "definition": "A person or company offering a price to buy something in an auction or tender.",
+    "example": "The highest bidder will receive the office renovation contract.",
+    "translation": "最高額の入札者がオフィス改修契約を獲得する。",
+    "level": 730
+  },
+  {
+    "word": "billable",
+    "pos": "adjective",
+    "meaning": "請求対象となる",
+    "definition": "Able to be charged to a client as part of a professional service or project.",
+    "example": "The consultant tracked all billable hours in the time sheet.",
+    "translation": "コンサルタントは請求対象の時間を勤務表に記録した。",
+    "level": 730
+  },
+  {
+    "word": "bottleneck",
+    "pos": "noun",
+    "meaning": "ボトルネック",
+    "definition": "A point in a process where limited capacity slows the entire operation.",
+    "example": "The packaging line has become a bottleneck because orders doubled this month.",
+    "translation": "注文が倍増し、梱包ラインがボトルネックになった。",
+    "level": 730
+  },
+  {
+    "word": "breakeven",
+    "pos": "noun",
+    "meaning": "損益分岐点",
+    "definition": "The point at which total revenue equals total costs.",
+    "example": "The new store is expected to reach breakeven within its first year.",
+    "translation": "新店舗は初年度中に損益分岐点に達する見込みだ。",
+    "level": 730
+  },
+  {
+    "word": "brokerage",
+    "pos": "noun",
+    "meaning": "仲介業・仲介手数料",
+    "definition": "The business of arranging transactions, or the fee charged for that service.",
+    "example": "The brokerage charges a lower fee for online stock trades.",
+    "translation": "その仲介会社はオンライン株式取引の手数料を低くしている。",
+    "level": 730
+  },
+  {
+    "word": "buyout",
+    "pos": "noun",
+    "meaning": "買収",
+    "definition": "The purchase of a company or a controlling share of it.",
+    "example": "The board approved a management buyout of the regional subsidiary.",
+    "translation": "取締役会は地域子会社の経営陣による買収を承認した。",
+    "level": 730
+  },
+  {
+    "word": "cash flow",
+    "pos": "noun",
+    "meaning": "キャッシュフロー",
+    "definition": "The movement of money into and out of a business during a period.",
+    "example": "The finance team monitors cash flow before approving equipment purchases.",
+    "translation": "財務チームは設備購入を承認する前にキャッシュフローを監視する。",
+    "level": 730
+  },
+  {
+    "word": "chain of command",
+    "pos": "noun",
+    "meaning": "指揮命令系統",
+    "definition": "The formal order of authority through which instructions pass in an organization.",
+    "example": "Employees should follow the chain of command when reporting a safety issue.",
+    "translation": "従業員は安全問題を報告する際、指揮命令系統に従うべきだ。",
+    "level": 730
+  },
+  {
+    "word": "chargeback",
+    "pos": "noun",
+    "meaning": "支払い取り消し",
+    "definition": "A reversal of a payment initiated through a bank or card issuer.",
+    "example": "The retailer investigated each chargeback for possible fraud.",
+    "translation": "小売業者は不正の可能性について各支払い取り消しを調査した。",
+    "level": 730
+  },
+  {
+    "word": "checklist",
+    "pos": "noun",
+    "meaning": "チェックリスト",
+    "definition": "A list of items or tasks to be checked or completed.",
+    "example": "The supervisor used a checklist to verify the shipment met export requirements.",
+    "translation": "監督者はチェックリストで出荷品の輸出要件を確認した。",
+    "level": 730
+  },
+  {
+    "word": "co-brand",
+    "pos": "verb",
+    "meaning": "共同ブランド化する",
+    "definition": "To market a product under the names of two or more companies.",
+    "example": "The bank plans to co-brand a travel card with a major airline.",
+    "translation": "銀行は大手航空会社と旅行カードを共同ブランド化する予定だ。",
+    "level": 730
+  },
+  {
+    "word": "cofounder",
+    "pos": "noun",
+    "meaning": "共同創業者",
+    "definition": "A person who establishes a company with one or more other people.",
+    "example": "The cofounder will speak about the company growth at the conference.",
+    "translation": "共同創業者は会議で会社の成長について講演する。",
+    "level": 730
+  },
+  {
+    "word": "consolidation",
+    "pos": "noun",
+    "meaning": "統合",
+    "definition": "The act of combining separate businesses, operations, or accounts into one.",
+    "example": "The consolidation of the two warehouses reduced storage costs.",
+    "translation": "2つの倉庫の統合で保管費が削減された。",
+    "level": 730
+  },
+  {
+    "word": "contingency plan",
+    "pos": "noun",
+    "meaning": "緊急時対応計画",
+    "definition": "A plan prepared for an unexpected event that could disrupt operations.",
+    "example": "The manager activated the contingency plan when the server failed.",
+    "translation": "サーバーが故障したとき、部長は緊急時対応計画を実行した。",
+    "level": 730
+  },
+  {
+    "word": "counteroffer",
+    "pos": "noun",
+    "meaning": "対案",
+    "definition": "A new offer made in response to an earlier offer, usually with different terms.",
+    "example": "The supplier rejected our proposal but sent a counteroffer the next day.",
+    "translation": "供給業者は提案を断ったが、翌日に対案を送った。",
+    "level": 730
+  },
+  {
+    "word": "cross-sell",
+    "pos": "verb",
+    "meaning": "関連商品を併売する",
+    "definition": "To sell an additional product related to one a customer is buying.",
+    "example": "The representative tried to cross-sell an extended warranty with the laptop.",
+    "translation": "担当者はノートパソコンと延長保証を併売しようとした。",
+    "level": 730
+  },
+  {
+    "word": "debit",
+    "pos": "noun",
+    "meaning": "借方記入・引き落とし",
+    "definition": "An entry recording money taken from an account or charged against it.",
+    "example": "The bank issued a debit for the monthly service fee.",
+    "translation": "銀行は月額サービス料を口座から引き落とした。",
+    "level": 730
+  },
+  {
+    "word": "deferral",
+    "pos": "noun",
+    "meaning": "延期・繰り延べ",
+    "definition": "The act of delaying a payment, obligation, or decision.",
+    "example": "The client requested a deferral of the final payment.",
+    "translation": "顧客は最終支払いの延期を求めた。",
+    "level": 730
+  },
+  {
+    "word": "disbursement",
+    "pos": "noun",
+    "meaning": "支出・支払い",
+    "definition": "The payment of money from a fund or account for a specific purpose.",
+    "example": "The loan disbursement will follow submission of the signed agreement.",
+    "translation": "署名済み契約書の提出後に融資金が支払われる。",
+    "level": 730
+  },
+  {
+    "word": "discounted",
+    "pos": "adjective",
+    "meaning": "割引された",
+    "definition": "Sold or offered below the usual or original price.",
+    "example": "Customers can purchase discounted tickets on the company website.",
+    "translation": "顧客は会社のウェブサイトで割引チケットを購入できる。",
+    "level": 730
+  },
+  {
+    "word": "distributor",
+    "pos": "noun",
+    "meaning": "販売代理店・流通業者",
+    "definition": "A company that supplies manufacturers products to retailers or customers.",
+    "example": "The distributor will deliver the equipment to hospitals across the region.",
+    "translation": "販売代理店は地域の病院に機器を納入する。",
+    "level": 730
+  },
+  {
+    "word": "downturn",
+    "pos": "noun",
+    "meaning": "景気後退・業績悪化",
+    "definition": "A period when economic activity, sales, or performance declines.",
+    "example": "The company postponed expansion because of the industry downturn.",
+    "translation": "その会社は業界の業績悪化を受けて拡大を延期した。",
+    "level": 730
+  },
+  {
+    "word": "e-commerce",
+    "pos": "noun",
+    "meaning": "電子商取引",
+    "definition": "The buying and selling of goods or services over the internet.",
+    "example": "The retailer invested in e-commerce to reach overseas customers.",
+    "translation": "小売業者は海外顧客に届くよう電子商取引に投資した。",
+    "level": 730
+  },
+  {
+    "word": "elapse",
+    "pos": "verb",
+    "meaning": "経過する",
+    "definition": "To pass, especially when referring to a period of time.",
+    "example": "Four weeks must elapse before the application is reviewed again.",
+    "translation": "申請が再審査されるまで4週間経過しなければならない。",
+    "level": 730
+  },
+  {
+    "word": "embezzle",
+    "pos": "verb",
+    "meaning": "横領する",
+    "definition": "To illegally take money entrusted to ones care, especially an employers money.",
+    "example": "The accountant was dismissed for trying to embezzle company funds.",
+    "translation": "会計担当者は会社資金を横領しようとして解雇された。",
+    "level": 730
+  },
+  {
+    "word": "emission",
+    "pos": "noun",
+    "meaning": "排出・排出物",
+    "definition": "The release of gas or other substances into the environment.",
+    "example": "The manufacturer is reducing carbon emissions with cleaner technology.",
+    "translation": "製造業者はクリーンな技術で二酸化炭素排出を減らしている。",
+    "level": 730
+  },
+  {
+    "word": "entrepreneur",
+    "pos": "noun",
+    "meaning": "起業家",
+    "definition": "A person who starts and manages a business while taking financial risks.",
+    "example": "The entrepreneur secured funding to expand her software company.",
+    "translation": "起業家はソフトウェア会社を拡大する資金を確保した。",
+    "level": 730
+  },
+  {
+    "word": "enterprise",
+    "pos": "noun",
+    "meaning": "企業・事業",
+    "definition": "A business organization, especially a large or complex one.",
+    "example": "The enterprise introduced a system to manage data across all divisions.",
+    "translation": "その企業は全部門のデータ管理システムを導入した。",
+    "level": 730
+  },
+  {
+    "word": "exclusivity",
+    "pos": "noun",
+    "meaning": "独占権・排他性",
+    "definition": "The condition of being limited to one person, company, or group.",
+    "example": "The retailer negotiated exclusivity for the product in the local market.",
+    "translation": "小売業者は地域市場での製品独占権を交渉した。",
+    "level": 730
+  },
+  {
+    "word": "fee-based",
+    "pos": "adjective",
+    "meaning": "手数料制の",
+    "definition": "Provided in return for a fee rather than commissions or product sales.",
+    "example": "The advisory firm offers fee-based investment planning.",
+    "translation": "その顧問会社は手数料制の投資計画を提供している。",
+    "level": 730
+  },
+  {
+    "word": "financially",
+    "pos": "adverb",
+    "meaning": "財政的に・金銭面で",
+    "definition": "In a way relating to money, finances, or financial results.",
+    "example": "The merger would financially benefit both companies.",
+    "translation": "その合併は両社に金銭面で利益をもたらすだろう。",
+    "level": 730
+  },
+  {
+    "word": "franchisee",
+    "pos": "noun",
+    "meaning": "フランチャイズ加盟者",
+    "definition": "A person or company authorized to operate a business using another companys model.",
+    "example": "Each franchisee must follow the brand standards for customer service.",
+    "translation": "各加盟者は顧客サービスのブランド基準に従わなければならない。",
+    "level": 730
+  },
+  {
+    "word": "freelancer",
+    "pos": "noun",
+    "meaning": "フリーランサー",
+    "definition": "A self-employed worker who provides services without a long-term employment contract.",
+    "example": "The agency hired a freelancer to design the product brochure.",
+    "translation": "代理店は製品パンフレットのデザインにフリーランサーを雇った。",
+    "level": 730
+  },
+  {
+    "word": "gross margin",
+    "pos": "noun",
+    "meaning": "売上総利益率",
+    "definition": "The percentage of sales left after direct production costs are deducted.",
+    "example": "The finance director wants to improve the gross margin.",
+    "translation": "財務部長は売上総利益率を改善したいと考えている。",
+    "level": 730
+  },
+  {
+    "word": "governance",
+    "pos": "noun",
+    "meaning": "企業統治",
+    "definition": "The systems and processes by which an organization is directed and controlled.",
+    "example": "Strong corporate governance protects investors and improves decision making.",
+    "translation": "強固な企業統治は投資家を守り意思決定を改善する。",
+    "level": 730
+  },
+  {
+    "word": "handover",
+    "pos": "noun",
+    "meaning": "引き継ぎ・引き渡し",
+    "definition": "The transfer of responsibility, control, or information to another person or group.",
+    "example": "The manager scheduled a handover meeting before taking leave.",
+    "translation": "部長は休暇に入る前に引き継ぎ会議を予定した。",
+    "level": 730
+  },
+  {
+    "word": "incubator",
+    "pos": "noun",
+    "meaning": "起業支援施設",
+    "definition": "An organization or program that helps new businesses develop through funding and advice.",
+    "example": "The start-up joined a business incubator to receive mentoring.",
+    "translation": "新興企業は助言を得るため起業支援施設に参加した。",
+    "level": 730
+  },
+  {
+    "word": "indemnity",
+    "pos": "noun",
+    "meaning": "補償・賠償",
+    "definition": "Protection against financial loss or liability under a contract or insurance.",
+    "example": "The contract includes an indemnity clause for third-party claims.",
+    "translation": "契約には第三者請求への補償条項がある。",
+    "level": 730
+  },
+  {
+    "word": "insolvent",
+    "pos": "adjective",
+    "meaning": "支払不能の",
+    "definition": "Unable to pay debts when they become due.",
+    "example": "The supplier was declared insolvent after missing several loan payments.",
+    "translation": "供給業者はローン返済ができず支払不能と宣告された。",
+    "level": 730
+  },
+  {
+    "word": "intermediary",
+    "pos": "noun",
+    "meaning": "仲介者・仲介機関",
+    "definition": "A person or organization connecting parties in a transaction or relationship.",
+    "example": "The intermediary negotiated terms between the manufacturer and buyer.",
+    "translation": "仲介業者は製造業者と買い手の条件を交渉した。",
+    "level": 730
+  },
+  {
+    "word": "invoiceable",
+    "pos": "adjective",
+    "meaning": "請求対象の",
+    "definition": "Able to be included on an invoice and charged to a client.",
+    "example": "Travel expenses are invoiceable only with prior client approval.",
+    "translation": "出張費は顧客の事前承認がある場合だけ請求対象となる。",
+    "level": 730
+  },
+  {
+    "word": "job fair",
+    "pos": "noun",
+    "meaning": "就職説明会",
+    "definition": "An event where employers and job seekers discuss employment opportunities.",
+    "example": "The human resources team will attend a job fair at the university.",
+    "translation": "人事チームは大学の就職説明会に参加する。",
+    "level": 730
+  },
+  {
+    "word": "kickback",
+    "pos": "noun",
+    "meaning": "リベート・賄賂",
+    "definition": "An illegal payment made for favorable treatment in a business deal.",
+    "example": "The manager was investigated for accepting a kickback from a supplier.",
+    "translation": "部長は供給業者からリベートを受け取ったとして調査された。",
+    "level": 730
+  },
+  {
+    "word": "know-how",
+    "pos": "noun",
+    "meaning": "ノウハウ・実務知識",
+    "definition": "Practical knowledge and skill needed to perform a task effectively.",
+    "example": "The agreement allows the partner to use the company know-how.",
+    "translation": "契約により提携先は会社のノウハウを利用できる。",
+    "level": 730
+  },
+  {
+    "word": "lead time",
+    "pos": "noun",
+    "meaning": "リードタイム",
+    "definition": "The time between placing an order and receiving goods or completing a process.",
+    "example": "We need to reduce lead time to meet the delivery schedule.",
+    "translation": "納入予定に間に合わせるためリードタイムを短縮する必要がある。",
+    "level": 730
+  },
+  {
+    "word": "line item",
+    "pos": "noun",
+    "meaning": "明細項目",
+    "definition": "A separate item listed in a budget, invoice, or financial statement.",
+    "example": "The auditor asked about an unusual line item in the travel budget.",
+    "translation": "監査担当者は出張予算の異常な明細項目について尋ねた。",
+    "level": 730
+  },
+  {
+    "word": "lock in",
+    "pos": "phrasal verb",
+    "meaning": "固定する・確定する",
+    "definition": "To secure a price, rate, or agreement so it cannot easily change.",
+    "example": "The company locked in the exchange rate before paying the supplier.",
+    "translation": "会社は供給業者に支払う前に為替レートを固定した。",
+    "level": 730
+  },
+  {
+    "word": "loss leader",
+    "pos": "noun",
+    "meaning": "客寄せ商品",
+    "definition": "A product sold at little or no profit to attract customers.",
+    "example": "The supermarket priced coffee as a loss leader to increase traffic.",
+    "translation": "スーパーは来店客を増やすためコーヒーを客寄せ商品にした。",
+    "level": 730
+  },
+  {
+    "word": "loyalty program",
+    "pos": "noun",
+    "meaning": "顧客ロイヤルティプログラム",
+    "definition": "A marketing scheme that rewards customers for repeat purchases.",
+    "example": "The airline expanded its loyalty program to include hotels.",
+    "translation": "航空会社はホテルも対象となるようロイヤルティプログラムを拡充した。",
+    "level": 730
+  },
+  {
+    "word": "markup",
+    "pos": "noun",
+    "meaning": "上乗せ価格",
+    "definition": "The amount added to product cost to determine its selling price.",
+    "example": "The retailer reduced its markup on winter clothing.",
+    "translation": "小売業者は冬服の上乗せ価格を引き下げた。",
+    "level": 730
+  },
+  {
+    "word": "meet with",
+    "pos": "phrasal verb",
+    "meaning": "会う・面談する",
+    "definition": "To have a meeting or discussion with a person or group.",
+    "example": "The sales director will meet with the client tomorrow.",
+    "translation": "営業部長は明日顧客と面談する。",
+    "level": 730
+  },
+  {
+    "word": "merchandiser",
+    "pos": "noun",
+    "meaning": "商品担当者",
+    "definition": "A person who selects, prices, promotes, or presents products for sale.",
+    "example": "The merchandiser selected a new collection for the autumn catalog.",
+    "translation": "商品担当者は秋のカタログ用商品を選んだ。",
+    "level": 730
+  },
+  {
+    "word": "net income",
+    "pos": "noun",
+    "meaning": "純利益",
+    "definition": "The amount remaining after expenses and taxes are deducted from revenue.",
+    "example": "Net income rose after the company renegotiated supplier contracts.",
+    "translation": "供給業者との契約を再交渉した後、純利益が増加した。",
+    "level": 730
+  },
+  {
+    "word": "nonprofit",
+    "pos": "noun",
+    "meaning": "非営利団体",
+    "definition": "An organization that uses income for social, educational, or charitable purposes.",
+    "example": "The nonprofit received a grant for job training.",
+    "translation": "非営利団体は職業訓練の助成金を受け取った。",
+    "level": 730
+  },
+  {
+    "word": "offsite",
+    "pos": "adjective",
+    "meaning": "社外の・社外で行う",
+    "definition": "Located or conducted away from the usual workplace.",
+    "example": "The department will hold an offsite meeting to plan next year.",
+    "translation": "部門は来年を計画するため社外で会議を開く。",
+    "level": 730
+  },
+  {
+    "word": "onboard",
+    "pos": "verb",
+    "meaning": "受け入れて研修する",
+    "definition": "To integrate a new employee or customer into an organization or service.",
+    "example": "Human resources will onboard three new employees next Monday.",
+    "translation": "人事部は来週月曜に新入社員3人を受け入れて研修する。",
+    "level": 730
+  },
+  {
+    "word": "operationally",
+    "pos": "adverb",
+    "meaning": "運営上・業務面で",
+    "definition": "In a way relating to the practical running of an organization.",
+    "example": "The new software is operationally more efficient.",
+    "translation": "新しいソフトウェアは業務面でより効率的だ。",
+    "level": 730
+  },
+  {
+    "word": "overbook",
+    "pos": "verb",
+    "meaning": "予約を取りすぎる",
+    "definition": "To accept more reservations than can be accommodated.",
+    "example": "The hotel overbooked its rooms and arranged nearby accommodation.",
+    "translation": "ホテルは予約を取りすぎ、近隣の宿泊施設を手配した。",
+    "level": 730
+  },
+  {
+    "word": "part-time",
+    "pos": "adjective",
+    "meaning": "パートタイムの",
+    "definition": "Working fewer hours than a full-time position.",
+    "example": "The store is hiring a part-time assistant for afternoons.",
+    "translation": "店は午後勤務のパートタイム助手を募集している。",
+    "level": 730
+  },
+  {
+    "word": "payable",
+    "pos": "adjective",
+    "meaning": "支払うべき",
+    "definition": "Due to be paid to a person or organization.",
+    "example": "The invoice is payable within 30 days.",
+    "translation": "請求書は30日以内に支払うべきものだ。",
+    "level": 730
+  },
+  {
+    "word": "penalty",
+    "pos": "noun",
+    "meaning": "罰金・違約金",
+    "definition": "A punishment or charge for breaking a rule or agreement.",
+    "example": "The carrier paid a penalty for late delivery.",
+    "translation": "運送業者は納期遅延の違約金を支払った。",
+    "level": 730
+  },
+  {
+    "word": "pipeline",
+    "pos": "noun",
+    "meaning": "案件の流れ",
+    "definition": "A series of projects, products, or deals being developed.",
+    "example": "The company has several products in its development pipeline.",
+    "translation": "会社には開発中の製品がいくつかある。",
+    "level": 730
+  },
+  {
+    "word": "placement",
+    "pos": "noun",
+    "meaning": "配置・就職あっせん",
+    "definition": "The act of positioning something or helping someone obtain a job.",
+    "example": "The agency specializes in placement of bilingual staff.",
+    "translation": "代理店はバイリンガル職員の就職あっせんを専門とする。",
+    "level": 730
+  },
+  {
+    "word": "point-of-sale",
+    "pos": "noun",
+    "meaning": "販売時点・POS",
+    "definition": "The place or system where a customer pays.",
+    "example": "The retailer upgraded its point-of-sale system for mobile payments.",
+    "translation": "小売業者はモバイル決済対応のPOSシステムに更新した。",
+    "level": 730
+  },
+  {
+    "word": "prepayment",
+    "pos": "noun",
+    "meaning": "前払い",
+    "definition": "Payment made before a product or service is provided.",
+    "example": "The hotel requires a prepayment to confirm the reservation.",
+    "translation": "ホテルは予約確定のため前払いを求める。",
+    "level": 730
+  },
+  {
+    "word": "price-sensitive",
+    "pos": "adjective",
+    "meaning": "価格に敏感な",
+    "definition": "Likely to change buying behavior when prices change.",
+    "example": "Price-sensitive customers compared plans before renewing.",
+    "translation": "価格に敏感な顧客は更新前にプランを比較した。",
+    "level": 730
+  },
+  {
+    "word": "pro forma",
+    "pos": "adjective",
+    "meaning": "試算の・見積もり上の",
+    "definition": "Prepared to show expected financial results rather than actual results.",
+    "example": "The CFO presented a pro forma income statement for the acquisition.",
+    "translation": "最高財務責任者は買収案の試算損益計算書を提示した。",
+    "level": 730
+  },
+  {
+    "word": "reallocate",
+    "pos": "verb",
+    "meaning": "再配分する",
+    "definition": "To distribute resources differently.",
+    "example": "Management decided to reallocate funds to product development.",
+    "translation": "経営陣は資金を製品開発へ再配分することにした。",
+    "level": 730
+  },
+  {
+    "word": "recurring",
+    "pos": "adjective",
+    "meaning": "定期的に発生する",
+    "definition": "Happening repeatedly, especially at regular intervals.",
+    "example": "The software includes a recurring monthly support charge.",
+    "translation": "ソフトウェアには定期的な月額サポート料金が含まれる。",
+    "level": 730
+  },
+  {
+    "word": "referral",
+    "pos": "noun",
+    "meaning": "紹介・紹介客",
+    "definition": "A recommendation or direction to a person or service for help.",
+    "example": "The clinic received a patient through a referral from an employer.",
+    "translation": "診療所は雇用主からの紹介で患者を受け入れた。",
+    "level": 730
+  },
+  {
+    "word": "remittance",
+    "pos": "noun",
+    "meaning": "送金・送金額",
+    "definition": "A payment sent to settle an invoice or obligation.",
+    "example": "Please include the invoice number with your remittance.",
+    "translation": "送金時に請求書番号を記載してください。",
+    "level": 730
+  },
+  {
+    "word": "reseller",
+    "pos": "noun",
+    "meaning": "再販業者",
+    "definition": "A person or company that buys products and sells them to customers.",
+    "example": "The software reseller provides installation and support.",
+    "translation": "ソフトウェア再販業者は導入とサポートを提供する。",
+    "level": 730
+  },
+  {
+    "word": "retainer",
+    "pos": "noun",
+    "meaning": "前払報酬・顧問料",
+    "definition": "An advance payment securing ongoing professional services.",
+    "example": "The law firm requires a monthly retainer before beginning the case.",
+    "translation": "法律事務所は案件開始前に月額顧問料を求める。",
+    "level": 730
+  },
+  {
+    "word": "rollout",
+    "pos": "noun",
+    "meaning": "導入・展開",
+    "definition": "The planned introduction of a new product, service, or system.",
+    "example": "The nationwide rollout of the payment system begins in April.",
+    "translation": "決済システムの全国展開は4月に始まる。",
+    "level": 730
+  },
+  {
+    "word": "royalty",
+    "pos": "noun",
+    "meaning": "ロイヤルティ・使用料",
+    "definition": "A payment for the right to use a patent, copyright, brand, or resource.",
+    "example": "The author receives a royalty for every guide sold.",
+    "translation": "著者はガイドが1冊売れるごとにロイヤルティを受け取る。",
+    "level": 730
+  },
+  {
+    "word": "run by",
+    "pos": "phrasal verb",
+    "meaning": "運営される・運営する",
+    "definition": "To be managed or operated by a particular person or organization.",
+    "example": "The restaurant is run by a family with decades of experience.",
+    "translation": "レストランは数十年の経験を持つ家族が運営している。",
+    "level": 730
+  },
+  {
+    "word": "seasonality",
+    "pos": "noun",
+    "meaning": "季節変動",
+    "definition": "A regular variation in demand, sales, or activity according to the season.",
+    "example": "The retailer adjusts staffing for seasonality in holiday sales.",
+    "translation": "小売業者は年末商戦の季節変動に合わせ人員を調整する。",
+    "level": 730
+  },
+  {
+    "word": "seed funding",
+    "pos": "noun",
+    "meaning": "シード資金",
+    "definition": "Early investment helping a new business develop an idea or product.",
+    "example": "The founders used seed funding to build a prototype.",
+    "translation": "創業者たちはシード資金で試作品を作った。",
+    "level": 730
+  },
+  {
+    "word": "service charge",
+    "pos": "noun",
+    "meaning": "サービス料・手数料",
+    "definition": "A fee charged for providing a service or handling a transaction.",
+    "example": "The bank waived the service charge for premium account holders.",
+    "translation": "銀行は優遇口座保有者の手数料を免除した。",
+    "level": 730
+  },
+  {
+    "word": "showcase",
+    "pos": "noun",
+    "meaning": "披露の場・見本市",
+    "definition": "An event or setting that prominently displays products or achievements.",
+    "example": "The annual trade show is a showcase for new innovations.",
+    "translation": "毎年の見本市は新しい革新を披露する場だ。",
+    "level": 730
+  },
+  {
+    "word": "sole proprietor",
+    "pos": "noun",
+    "meaning": "個人事業主",
+    "definition": "A person who owns and operates a business alone and is responsible for its debts.",
+    "example": "As a sole proprietor, she reports business income on her tax return.",
+    "translation": "個人事業主である彼女は事業所得を申告する。",
+    "level": 730
+  },
+  {
+    "word": "spin-off",
+    "pos": "noun",
+    "meaning": "分離独立会社・派生事業",
+    "definition": "A new company or product created from an existing organization or activity.",
+    "example": "The technology division became a spin-off to attract investors.",
+    "translation": "技術部門は投資家を呼び込むため分離独立会社になった。",
+    "level": 730
+  },
+  {
+    "word": "spot-check",
+    "pos": "verb",
+    "meaning": "抜き打ち検査する",
+    "definition": "To inspect a sample without checking everything.",
+    "example": "The quality team will spot-check several boxes before shipment.",
+    "translation": "品質チームは出荷前に数箱を抜き打ち検査する。",
+    "level": 730
+  },
+  {
+    "word": "standstill",
+    "pos": "noun",
+    "meaning": "停止状態・行き詰まり",
+    "definition": "A complete stop in activity or progress.",
+    "example": "Negotiations came to a standstill after both sides rejected the terms.",
+    "translation": "双方が条件を拒否し、交渉は行き詰まった。",
+    "level": 730
+  },
+  {
+    "word": "start-up",
+    "pos": "noun",
+    "meaning": "新興企業",
+    "definition": "A newly established business, especially one developing an innovative product.",
+    "example": "The start-up attracted investors with renewable energy technology.",
+    "translation": "その新興企業は再生可能エネルギー技術で投資家を引きつけた。",
+    "level": 730
+  },
+  {
+    "word": "stockout",
+    "pos": "noun",
+    "meaning": "在庫切れ",
+    "definition": "A situation in which a product is temporarily unavailable because stock is gone.",
+    "example": "The store lost sales because a popular item had a stockout.",
+    "translation": "人気商品が在庫切れとなり、店は売上を失った。",
+    "level": 730
+  },
+  {
+    "word": "subcontract",
+    "pos": "verb",
+    "meaning": "下請けに出す",
+    "definition": "To hire another company or worker to perform part of a project.",
+    "example": "The builder decided to subcontract the electrical work.",
+    "translation": "建設業者は電気工事を下請けに出すことにした。",
+    "level": 730
+  },
+  {
+    "word": "subscription-based",
+    "pos": "adjective",
+    "meaning": "定額購読制の",
+    "definition": "Provided or financed through recurring subscriber payments.",
+    "example": "The company changed its software to a subscription-based model.",
+    "translation": "会社はソフトウェアを定額購読制に変更した。",
+    "level": 730
+  },
+  {
+    "word": "surcharge",
+    "pos": "noun",
+    "meaning": "追加料金・割増料金",
+    "definition": "An extra charge added to a standard price.",
+    "example": "The carrier applies a fuel surcharge when oil prices rise.",
+    "translation": "運送会社は原油価格上昇時に燃料割増料金を適用する。",
+    "level": 730
+  },
+  {
+    "word": "takeover",
+    "pos": "noun",
+    "meaning": "買収・経営権取得",
+    "definition": "The act of gaining control of a company by buying shares or assets.",
+    "example": "The board rejected the hostile takeover proposal.",
+    "translation": "取締役会は敵対的買収案を拒否した。",
+    "level": 730
+  },
+  {
+    "word": "third-party",
+    "pos": "adjective",
+    "meaning": "第三者の",
+    "definition": "Relating to a person or organization outside the main parties to a transaction.",
+    "example": "The company uses a third-party provider for online payments.",
+    "translation": "会社はオンライン決済に第三者の提供業者を使う。",
+    "level": 730
+  },
+  {
+    "word": "time sheet",
+    "pos": "noun",
+    "meaning": "勤務表",
+    "definition": "A record of hours an employee or contractor spends working.",
+    "example": "Please submit your time sheet by Friday afternoon.",
+    "translation": "金曜午後までに勤務表を提出してください。",
+    "level": 730
+  },
+  {
+    "word": "trade-off",
+    "pos": "noun",
+    "meaning": "妥協・トレードオフ",
+    "definition": "A balance in which one benefit is accepted in exchange for giving up another.",
+    "example": "The design team faced a trade-off between cost and battery life.",
+    "translation": "設計チームはコストと電池寿命のトレードオフに直面した。",
+    "level": 730
+  },
+  {
+    "word": "turnaround",
+    "pos": "noun",
+    "meaning": "業績回復・処理時間",
+    "definition": "A major improvement in business performance, or the time needed to complete a process.",
+    "example": "The new manager led a remarkable turnaround in sales.",
+    "translation": "新しい部長は売上を見事に回復させた。",
+    "level": 730
+  },
+  {
+    "word": "underwrite",
+    "pos": "verb",
+    "meaning": "保証する・引き受ける",
+    "definition": "To accept financial responsibility for a loan, insurance risk, or investment.",
+    "example": "The bank agreed to underwrite the company bond issue.",
+    "translation": "銀行は会社の社債発行を引き受けることに同意した。",
+    "level": 730
+  },
+  {
+    "word": "upsell",
+    "pos": "verb",
+    "meaning": "上位商品を勧めて販売する",
+    "definition": "To persuade a customer to buy a more expensive version or extra features.",
+    "example": "The salesperson tried to upsell a laptop with more memory.",
+    "translation": "販売員は大容量のノートパソコンを勧めて販売しようとした。",
+    "level": 730
+  },
+  {
+    "word": "value-added",
+    "pos": "adjective",
+    "meaning": "付加価値のある",
+    "definition": "Providing extra benefits or features beyond the basic product or service.",
+    "example": "The consultant offers value-added training after installation.",
+    "translation": "コンサルタントは導入後に付加価値のある研修を提供する。",
+    "level": 730
+  }
+]

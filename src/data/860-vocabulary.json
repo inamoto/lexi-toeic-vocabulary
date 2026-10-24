@@ -1,0 +1,2702 @@
+[
+  {
+    "word": "alleviate",
+    "pos": "verb",
+    "meaning": "軽減する、緩和する",
+    "definition": "to make a problem, pain, or difficulty less severe",
+    "example": "The new scheduling system alleviated pressure on the customer-service team.",
+    "translation": "新しいスケジュール管理システムは顧客サービスチームの負担を軽減した。",
+    "level": 860
+  },
+  {
+    "word": "corroborate",
+    "pos": "verb",
+    "meaning": "裏付ける、実証する",
+    "definition": "to confirm that something is true by providing additional evidence",
+    "example": "The audit documents corroborated the manager’s explanation of the missing funds.",
+    "translation": "監査書類は不足した資金についての部長の説明を裏付けた。",
+    "level": 860
+  },
+  {
+    "word": "expedite",
+    "pos": "verb",
+    "meaning": "促進する、迅速に処理する",
+    "definition": "to make a process happen more quickly",
+    "example": "Please contact the supplier to expedite delivery of the replacement parts.",
+    "translation": "交換部品の納品を早めるため、仕入先に連絡してください。",
+    "level": 860
+  },
+  {
+    "word": "amend",
+    "pos": "verb",
+    "meaning": "修正する、改正する",
+    "definition": "to make changes to a document, law, or agreement",
+    "example": "Both parties agreed to amend the delivery terms.",
+    "translation": "両当事者は納入条件を修正することに同意した。",
+    "level": 860
+  },
+  {
+    "word": "inadvertently",
+    "pos": "adverb",
+    "meaning": "不注意にも、意図せずに",
+    "definition": "in a way that is unintentional or accidental",
+    "example": "The clerk inadvertently attached the confidential file to the public report.",
+    "translation": "その事務員は誤って機密ファイルを公開用報告書に添付した。",
+    "level": 860
+  },
+  {
+    "word": "appraise",
+    "pos": "verb",
+    "meaning": "評価する、査定する",
+    "definition": "to assess the value, quality, or performance of something",
+    "example": "An independent expert appraised the property before the sale.",
+    "translation": "独立した専門家が売却前にその不動産を査定した。",
+    "level": 860
+  },
+  {
+    "word": "arbitrary",
+    "pos": "adjective",
+    "meaning": "恣意的な、任意の",
+    "definition": "based on personal choice rather than a reasonable system or rule",
+    "example": "The manager rejected the arbitrary change to the scheduling policy.",
+    "translation": "その管理者は勤務スケジュール方針への恣意的な変更を拒否した。",
+    "level": 860
+  },
+  {
+    "word": "ascertain",
+    "pos": "verb",
+    "meaning": "確かめる、究明する",
+    "definition": "to discover or establish something with certainty",
+    "example": "Please ascertain whether the supplier can meet the deadline.",
+    "translation": "供給業者が期限に間に合うかどうかを確かめてください。",
+    "level": 860
+  },
+  {
+    "word": "lucrative",
+    "pos": "adjective",
+    "meaning": "利益の大きい、もうかる",
+    "definition": "producing a large amount of profit or income",
+    "example": "The firm won a lucrative contract to supply equipment to the new airport.",
+    "translation": "その会社は新空港に機器を供給する利益の大きい契約を獲得した。",
+    "level": 860
+  },
+  {
+    "word": "avert",
+    "pos": "verb",
+    "meaning": "回避する、防ぐ",
+    "definition": "to prevent an undesirable event from happening",
+    "example": "Early negotiations helped avert a costly dispute.",
+    "translation": "早期の交渉が費用のかかる紛争を防ぐのに役立った。",
+    "level": 860
+  },
+  {
+    "word": "bolster",
+    "pos": "verb",
+    "meaning": "強化する、支える",
+    "definition": "to improve or strengthen something",
+    "example": "The campaign bolstered public confidence in the brand.",
+    "translation": "そのキャンペーンはブランドに対する世間の信頼を高めた。",
+    "level": 860
+  },
+  {
+    "word": "circumvent",
+    "pos": "verb",
+    "meaning": "回避する、迂回する",
+    "definition": "to avoid a rule or problem by finding a way around it",
+    "example": "The contractor tried to circumvent the approval process.",
+    "translation": "その請負業者は承認手続きを回避しようとした。",
+    "level": 860
+  },
+  {
+    "word": "coincide",
+    "pos": "verb",
+    "meaning": "一致する、同時に起こる",
+    "definition": "to happen at the same time or agree with something else",
+    "example": "The product launch will coincide with the company anniversary.",
+    "translation": "製品の発売は会社の創立記念日と重なる。",
+    "level": 860
+  },
+  {
+    "word": "obsolete",
+    "pos": "adjective",
+    "meaning": "廃れた、時代遅れの",
+    "definition": "no longer useful or current because it has been replaced by something newer",
+    "example": "The company replaced its obsolete accounting software before the audit.",
+    "translation": "その会社は監査前に時代遅れの会計ソフトを交換した。",
+    "level": 860
+  },
+  {
+    "word": "arbitrate",
+    "pos": "verb",
+    "meaning": "仲裁する、調停する",
+    "definition": "to settle a disagreement between people or organizations by acting as an impartial judge",
+    "example": "An independent panel will arbitrate the dispute between the contractor and the client.",
+    "translation": "独立した委員会が請負業者と顧客の間の紛争を仲裁する。",
+    "level": 860
+  },
+  {
+    "word": "concede",
+    "pos": "verb",
+    "meaning": "譲歩する、認める",
+    "definition": "to admit that something is true or give up a claim after discussion",
+    "example": "The supplier conceded that the shipment had been delayed.",
+    "translation": "供給業者は出荷が遅れたことを認めた。",
+    "level": 860
+  },
+  {
+    "word": "consecutive",
+    "pos": "adjective",
+    "meaning": "連続した",
+    "definition": "following one after another without interruption",
+    "example": "The factory operated for three consecutive shifts.",
+    "translation": "その工場は3交代を連続して稼働した。",
+    "level": 860
+  },
+  {
+    "word": "constrain",
+    "pos": "verb",
+    "meaning": "制約する、抑制する",
+    "definition": "to limit someone or something from acting freely",
+    "example": "A shortage of skilled workers constrained the project’s progress.",
+    "translation": "熟練労働者の不足がプロジェクトの進展を制約した。",
+    "level": 860
+  },
+  {
+    "word": "convene",
+    "pos": "verb",
+    "meaning": "招集する、集まる",
+    "definition": "to bring people together for a meeting or come together formally",
+    "example": "The chair will convene a committee to review the proposal.",
+    "translation": "議長は提案を検討する委員会を招集する。",
+    "level": 860
+  },
+  {
+    "word": "credible",
+    "pos": "adjective",
+    "meaning": "信頼できる、信用できる",
+    "definition": "believable and worthy of trust",
+    "example": "The witness provided a credible explanation for the discrepancy.",
+    "translation": "その証人は食い違いについて信頼できる説明をした。",
+    "level": 860
+  },
+  {
+    "word": "rectify",
+    "pos": "verb",
+    "meaning": "是正する、訂正する",
+    "definition": "to correct a problem or mistake",
+    "example": "The supplier promised to rectify the defect before the next shipment.",
+    "translation": "仕入先は次回の出荷前に欠陥を是正すると約束した。",
+    "level": 860
+  },
+  {
+    "word": "unprecedented",
+    "pos": "adjective",
+    "meaning": "前例のない",
+    "definition": "never having happened or existed before",
+    "example": "The merger created unprecedented opportunities for regional expansion.",
+    "translation": "その合併は地域拡大に前例のない機会をもたらした。",
+    "level": 860
+  },
+  {
+    "word": "deteriorate",
+    "pos": "verb",
+    "meaning": "悪化する、劣化する",
+    "definition": "to become worse in quality, condition, or effectiveness",
+    "example": "Road conditions deteriorated after the heavy snowfall.",
+    "translation": "大雪の後、道路状況が悪化した。",
+    "level": 860
+  },
+  {
+    "word": "devise",
+    "pos": "verb",
+    "meaning": "考案する、立案する",
+    "definition": "to invent or plan a method for a particular purpose",
+    "example": "The engineers devised a more efficient packing system.",
+    "translation": "技術者たちはより効率的な梱包システムを考案した。",
+    "level": 860
+  },
+  {
+    "word": "disclose",
+    "pos": "verb",
+    "meaning": "開示する、明らかにする",
+    "definition": "to make secret or private information known",
+    "example": "The report discloses the risks associated with the investment.",
+    "translation": "その報告書は投資に伴うリスクを明らかにしている。",
+    "level": 860
+  },
+  {
+    "word": "discretion",
+    "pos": "noun",
+    "meaning": "裁量、慎重さ",
+    "definition": "the freedom to decide what should be done in a particular situation",
+    "example": "Managers may use their discretion when approving minor expenses.",
+    "translation": "管理者は少額の経費を承認する際に裁量を行使してよい。",
+    "level": 860
+  },
+  {
+    "word": "volatile",
+    "pos": "adjective",
+    "meaning": "変動しやすい、不安定な",
+    "definition": "likely to change suddenly and unpredictably, especially in price or value",
+    "example": "Investors remained cautious because of the volatile currency market.",
+    "translation": "通貨市場が不安定だったため、投資家は慎重な姿勢を保った。",
+    "level": 860
+  },
+  {
+    "word": "vulnerable",
+    "pos": "adjective",
+    "meaning": "脆弱な、影響を受けやすい",
+    "definition": "easily harmed, influenced, or affected by a particular condition",
+    "example": "Small suppliers are especially vulnerable to sudden changes in demand.",
+    "translation": "小規模な仕入先は需要の急変の影響を特に受けやすい。",
+    "level": 860
+  },
+  {
+    "word": "embark on",
+    "pos": "phrasal verb",
+    "meaning": "着手する、乗り出す",
+    "definition": "to begin an important or challenging activity",
+    "example": "The firm will embark on a major digital transformation.",
+    "translation": "その会社は大規模なデジタル変革に乗り出す。",
+    "level": 860
+  },
+  {
+    "word": "encompass",
+    "pos": "verb",
+    "meaning": "含む、取り囲む",
+    "definition": "to include a wide range of things or areas",
+    "example": "The training program encompasses finance, ethics, and leadership.",
+    "translation": "その研修プログラムは財務、倫理、リーダーシップを含む。",
+    "level": 860
+  },
+  {
+    "word": "mandate",
+    "pos": "verb",
+    "meaning": "義務付ける、命令する",
+    "definition": "to officially require something or order someone to do something",
+    "example": "The new policy mandates annual security training for all employees.",
+    "translation": "新しい方針は全従業員に年1回のセキュリティ研修を義務付けている。",
+    "level": 860
+  },
+  {
+    "word": "mitigate",
+    "pos": "verb",
+    "meaning": "軽減する、和らげる",
+    "definition": "to reduce the harmful or serious effects of something",
+    "example": "The insurance policy is designed to mitigate the financial impact of equipment failure.",
+    "translation": "その保険契約は機器故障による経済的影響を軽減するよう設計されている。",
+    "level": 860
+  },
+  {
+    "word": "novel",
+    "pos": "adjective",
+    "meaning": "新しい、画期的な",
+    "definition": "new and original, especially in a way that differs from what has existed before",
+    "example": "The research team proposed a novel approach to reducing energy consumption.",
+    "translation": "研究チームはエネルギー消費を削減する新しい方法を提案した。",
+    "level": 860
+  },
+  {
+    "word": "pervasive",
+    "pos": "adjective",
+    "meaning": "広く行き渡った、蔓延した",
+    "definition": "existing or spreading widely throughout a place, group, or activity",
+    "example": "The report examined the pervasive influence of digital payments on retail.",
+    "translation": "その報告書は小売業におけるデジタル決済の広範な影響を検討した。",
+    "level": 860
+  },
+  {
+    "word": "deplete",
+    "pos": "verb",
+    "meaning": "使い果たす、枯渇させる",
+    "definition": "to use up a supply of something so that very little remains",
+    "example": "The prolonged strike depleted the company’s emergency cash reserves.",
+    "translation": "長期ストライキは会社の緊急用現金準備を使い果たした。",
+    "level": 860
+  },
+  {
+    "word": "forthcoming",
+    "pos": "adjective",
+    "meaning": "近く発表される、率直な",
+    "definition": "about to happen or willing to provide information openly",
+    "example": "The minister was forthcoming about the timetable for reform.",
+    "translation": "その大臣は改革の日程について率直に説明した。",
+    "level": 860
+  },
+  {
+    "word": "hamper",
+    "pos": "verb",
+    "meaning": "妨げる、阻害する",
+    "definition": "to make an activity or process more difficult",
+    "example": "Severe weather hampered deliveries across the region.",
+    "translation": "悪天候が地域全体の配送を妨げた。",
+    "level": 860
+  },
+  {
+    "word": "imminent",
+    "pos": "adjective",
+    "meaning": "差し迫った、目前の",
+    "definition": "about to happen very soon",
+    "example": "The airline issued a warning about the imminent storm.",
+    "translation": "航空会社は差し迫った嵐について警告を出した。",
+    "level": 860
+  },
+  {
+    "word": "embargo",
+    "pos": "noun",
+    "meaning": "禁輸、輸出入禁止",
+    "definition": "an official order that prohibits trade with a particular country or the shipment of particular goods",
+    "example": "The embargo prevented the manufacturer from exporting the equipment overseas.",
+    "translation": "禁輸措置により、その製造業者は機器を海外に輸出できなかった。",
+    "level": 860
+  },
+  {
+    "word": "indispensable",
+    "pos": "adjective",
+    "meaning": "不可欠な",
+    "definition": "absolutely necessary or too important to be replaced",
+    "example": "Accurate records are indispensable to effective financial planning.",
+    "translation": "正確な記録は効果的な財務計画に不可欠です。",
+    "level": 860
+  },
+  {
+    "word": "liaise",
+    "pos": "verb",
+    "meaning": "連絡を取り合う、連携する",
+    "definition": "to communicate and cooperate with someone in order to coordinate activities",
+    "example": "Our project manager will liaise with the contractor throughout the renovation.",
+    "translation": "当社のプロジェクトマネージャーは改装期間中、請負業者と連携する。",
+    "level": 860
+  },
+  {
+    "word": "meticulous",
+    "pos": "adjective",
+    "meaning": "細心の、綿密な",
+    "definition": "very careful and precise about every detail",
+    "example": "Her meticulous review uncovered several accounting errors.",
+    "translation": "彼女の綿密な確認によって会計上の誤りがいくつか見つかった。",
+    "level": 860
+  },
+  {
+    "word": "on behalf of",
+    "pos": "idiom",
+    "meaning": "を代表して、のために",
+    "definition": "as a representative of someone or for someone’s benefit",
+    "example": "I accepted the award on behalf of the entire research team.",
+    "translation": "私は研究チーム全体を代表して賞を受け取った。",
+    "level": 860
+  },
+  {
+    "word": "phase out",
+    "pos": "phrasal verb",
+    "meaning": "段階的に廃止する",
+    "definition": "to gradually stop producing or using something",
+    "example": "The manufacturer will phase out the older model by December.",
+    "translation": "そのメーカーは12月までに旧型モデルを段階的に廃止する。",
+    "level": 860
+  },
+  {
+    "word": "reconcile",
+    "pos": "verb",
+    "meaning": "調整する、照合する",
+    "definition": "to make two accounts or statements agree by explaining differences",
+    "example": "The accountant reconciled the bank statement with the ledger.",
+    "translation": "会計担当者は銀行取引明細書と元帳を照合して一致させた。",
+    "level": 860
+  },
+  {
+    "word": "transcend",
+    "pos": "verb",
+    "meaning": "超える、凌駕する",
+    "definition": "to go beyond the usual limits or level of something",
+    "example": "The benefits of the training transcend the immediate needs of the department.",
+    "translation": "その研修の利点は部署の当面のニーズを超えている。",
+    "level": 860
+  },
+  {
+    "word": "scrutinize",
+    "pos": "verb",
+    "meaning": "綿密に調べる",
+    "definition": "to examine something very carefully to find errors or problems",
+    "example": "The committee scrutinized the proposal before approving it.",
+    "translation": "委員会は承認する前にその提案を綿密に調べた。",
+    "level": 860
+  },
+  {
+    "word": "substantiate",
+    "pos": "verb",
+    "meaning": "裏付ける、実証する",
+    "definition": "to support a statement or claim with evidence",
+    "example": "The researcher substantiated the findings with independent data.",
+    "translation": "研究者は独立したデータで調査結果を裏付けた。",
+    "level": 860
+  },
+  {
+    "word": "take over",
+    "pos": "phrasal verb",
+    "meaning": "引き継ぐ、買収する",
+    "definition": "to assume control of a task, organization, or business",
+    "example": "A new manager will take over the department next month.",
+    "translation": "新しい管理者が来月その部門を引き継ぐ。",
+    "level": 860
+  },
+  {
+    "word": "unwarranted",
+    "pos": "adjective",
+    "meaning": "不当な、根拠のない",
+    "definition": "not justified, reasonable, or necessary in the circumstances",
+    "example": "The manager rejected the unwarranted increase in the project budget.",
+    "translation": "部長はプロジェクト予算の不当な増額を却下した。",
+    "level": 860
+  },
+  {
+    "word": "abrogate",
+    "pos": "verb",
+    "meaning": "廃止する、撤廃する",
+    "definition": "To officially end a law, agreement, or practice.",
+    "example": "The board voted to abrogate the outdated licensing rule.",
+    "translation": "取締役会は時代遅れの認可規則を廃止することを決議した。",
+    "level": 860
+  },
+  {
+    "word": "admonish",
+    "pos": "verb",
+    "meaning": "忠告する、たしなめる",
+    "definition": "To warn or criticize someone firmly because of improper behavior.",
+    "example": "The supervisor admonished the employee for ignoring the safety procedure.",
+    "translation": "上司は安全手順を無視した従業員を厳しくたしなめた。",
+    "level": 860
+  },
+  {
+    "word": "amicable",
+    "pos": "adjective",
+    "meaning": "友好的な、円満な",
+    "definition": "Characterized by friendliness and a willingness to avoid conflict.",
+    "example": "The two companies reached an amicable settlement after several meetings.",
+    "translation": "両社は数回の会議の後、円満な和解に達した。",
+    "level": 860
+  },
+  {
+    "word": "analogous",
+    "pos": "adjective",
+    "meaning": "類似した、類推できる",
+    "definition": "Similar in some significant way and therefore comparable.",
+    "example": "The director said the current shortage was analogous to the supply crisis of 2020.",
+    "translation": "部長は現在の不足が2020年の供給危機に類似していると述べた。",
+    "level": 860
+  },
+  {
+    "word": "candid",
+    "pos": "adjective",
+    "meaning": "率直な、腹蔵のない",
+    "definition": "Honest and direct, even when expressing an unfavorable opinion.",
+    "example": "The consultant gave a candid assessment of the company’s weak sales strategy.",
+    "translation": "コンサルタントは会社の弱い販売戦略について率直な評価をした。",
+    "level": 860
+  },
+  {
+    "word": "capitalize",
+    "pos": "verb",
+    "meaning": "活用する、資本化する",
+    "definition": "To take advantage of an opportunity or convert an asset into capital.",
+    "example": "The retailer capitalized on the growing demand for locally made products.",
+    "translation": "その小売業者は地元製品への高まる需要を活用した。",
+    "level": 860
+  },
+  {
+    "word": "coherent",
+    "pos": "adjective",
+    "meaning": "首尾一貫した、筋の通った",
+    "definition": "Logical, clear, and connected in a way that is easy to understand.",
+    "example": "The proposal presents a coherent plan for reducing operating costs.",
+    "translation": "その提案は営業費を削減するための首尾一貫した計画を示している。",
+    "level": 860
+  },
+  {
+    "word": "complacent",
+    "pos": "adjective",
+    "meaning": "自己満足した、油断した",
+    "definition": "Too satisfied with current conditions to recognize or address possible problems.",
+    "example": "The manager warned the team not to become complacent after one successful quarter.",
+    "translation": "部長は1四半期の成功後にチームが油断しないよう警告した。",
+    "level": 860
+  },
+  {
+    "word": "concise",
+    "pos": "adjective",
+    "meaning": "簡潔な",
+    "definition": "Expressing information clearly in few words.",
+    "example": "Please keep your summary concise so that the committee can review it quickly.",
+    "translation": "委員会がすぐに確認できるよう、要約は簡潔にしてください。",
+    "level": 860
+  },
+  {
+    "word": "conducive",
+    "pos": "adjective",
+    "meaning": "助けになる、促進する",
+    "definition": "Making a particular situation or result more likely to happen.",
+    "example": "A quiet workspace is conducive to careful analysis of financial data.",
+    "translation": "静かな作業環境は財務データを注意深く分析するのに役立つ。",
+    "level": 860
+  },
+  {
+    "word": "conclusive",
+    "pos": "adjective",
+    "meaning": "決定的な、結論を証明する",
+    "definition": "Providing a final answer or proving something beyond reasonable doubt.",
+    "example": "The inspection found no conclusive evidence of a manufacturing defect.",
+    "translation": "検査では製造上の欠陥を示す決定的な証拠は見つからなかった。",
+    "level": 860
+  },
+  {
+    "word": "confer",
+    "pos": "verb",
+    "meaning": "協議する、授与する",
+    "definition": "To discuss something with someone or officially give a title or benefit.",
+    "example": "The lawyers conferred before presenting the revised contract.",
+    "translation": "弁護士たちは修正契約を提示する前に協議した。",
+    "level": 860
+  },
+  {
+    "word": "courteous",
+    "pos": "adjective",
+    "meaning": "礼儀正しい",
+    "definition": "Polite, respectful, and considerate toward others.",
+    "example": "The receptionist remained courteous despite the visitor’s repeated complaints.",
+    "translation": "受付係は訪問者が繰り返し苦情を言っても礼儀正しく対応した。",
+    "level": 860
+  },
+  {
+    "word": "decisive",
+    "pos": "adjective",
+    "meaning": "決定的な、決断力のある",
+    "definition": "Able to make decisions quickly and effectively, or producing a clear result.",
+    "example": "Her decisive action prevented the data breach from spreading.",
+    "translation": "彼女の決断力のある行動がデータ侵害の拡大を防いだ。",
+    "level": 860
+  },
+  {
+    "word": "diligent",
+    "pos": "adjective",
+    "meaning": "勤勉な、熱心な",
+    "definition": "Working carefully and persistently to complete a task well.",
+    "example": "The diligent analyst checked every figure before submitting the report.",
+    "translation": "その勤勉なアナリストは報告書を提出する前に全ての数字を確認した。",
+    "level": 860
+  },
+  {
+    "word": "discern",
+    "pos": "verb",
+    "meaning": "見分ける、識別する",
+    "definition": "To recognize or detect something that is not immediately obvious.",
+    "example": "Auditors could discern a pattern in the irregular expense claims.",
+    "translation": "監査人たちは不規則な経費請求に一定のパターンを見いだせた。",
+    "level": 860
+  },
+  {
+    "word": "dismissive",
+    "pos": "adjective",
+    "meaning": "軽視する、そっけない",
+    "definition": "Showing that someone or something is considered unimportant or unworthy of attention.",
+    "example": "The manager’s dismissive response discouraged employees from reporting problems.",
+    "translation": "部長のそっけない対応は従業員が問題を報告する意欲をそいだ。",
+    "level": 860
+  },
+  {
+    "word": "dubious",
+    "pos": "adjective",
+    "meaning": "疑わしい、怪しい",
+    "definition": "Not certain, reliable, or likely to be true.",
+    "example": "The purchasing officer rejected the vendor’s dubious explanation for the price increase.",
+    "translation": "購買担当者は値上げについての業者の疑わしい説明を退けた。",
+    "level": 860
+  },
+  {
+    "word": "exempt",
+    "pos": "adjective",
+    "meaning": "免除された",
+    "definition": "Free from a duty, requirement, or obligation that applies to others.",
+    "example": "Small nonprofit organizations are exempt from this registration fee.",
+    "translation": "小規模な非営利団体はこの登録料を免除されている。",
+    "level": 860
+  },
+  {
+    "word": "impartial",
+    "pos": "adjective",
+    "meaning": "公平な、偏りのない",
+    "definition": "Treating all sides fairly without favoring one person or group.",
+    "example": "An impartial mediator helped the partners resolve their disagreement.",
+    "translation": "公平な調停者が共同経営者たちの意見の相違の解決を助けた。",
+    "level": 860
+  },
+  {
+    "word": "incompatible",
+    "pos": "adjective",
+    "meaning": "両立しない、互換性のない",
+    "definition": "Unable to exist, work, or be used successfully together.",
+    "example": "The new software is incompatible with the company’s older database system.",
+    "translation": "新しいソフトウェアは会社の古いデータベースシステムと互換性がない。",
+    "level": 860
+  },
+  {
+    "word": "inevitable",
+    "pos": "adjective",
+    "meaning": "避けられない、必然的な",
+    "definition": "Certain to happen and impossible to prevent or avoid.",
+    "example": "With costs rising, a revision of the service fee became inevitable.",
+    "translation": "費用が上昇したため、サービス料金の改定は避けられなくなった。",
+    "level": 860
+  },
+  {
+    "word": "jeopardize",
+    "pos": "verb",
+    "meaning": "危うくする、危険にさらす",
+    "definition": "To put something important at risk of being damaged or lost.",
+    "example": "A missed inspection could jeopardize the factory’s operating license.",
+    "translation": "検査を逃すと工場の営業許可が危うくなる可能性がある。",
+    "level": 860
+  },
+  {
+    "word": "mediate",
+    "pos": "verb",
+    "meaning": "仲裁する、調停する",
+    "definition": "To help settle a disagreement by communicating with the people involved.",
+    "example": "A labor specialist was asked to mediate the dispute between the union and management.",
+    "translation": "労働専門家は組合と経営陣の紛争を調停するよう依頼された。",
+    "level": 860
+  },
+  {
+    "word": "negligent",
+    "pos": "adjective",
+    "meaning": "怠慢な、注意を怠った",
+    "definition": "Failing to give proper care or attention to a duty or responsibility.",
+    "example": "The court found the contractor negligent in maintaining the building’s fire alarms.",
+    "translation": "裁判所は請負業者が建物の火災報知器の保守を怠ったと判断した。",
+    "level": 860
+  },
+  {
+    "word": "notorious",
+    "pos": "adjective",
+    "meaning": "悪名高い",
+    "definition": "Famous for something bad or unpleasant.",
+    "example": "The supplier is notorious for missing delivery deadlines.",
+    "translation": "その供給業者は納期を守らないことで悪名高い。",
+    "level": 860
+  },
+  {
+    "word": "permissible",
+    "pos": "adjective",
+    "meaning": "許容される、許可される",
+    "definition": "Allowed by a rule, law, or accepted standard.",
+    "example": "Only permissible deductions may be listed on the reimbursement form.",
+    "translation": "経費精算書には許可された控除だけを記載できる。",
+    "level": 860
+  },
+  {
+    "word": "plausible",
+    "pos": "adjective",
+    "meaning": "もっともらしい、妥当な",
+    "definition": "Seeming reasonable or likely to be true, although not proved.",
+    "example": "The engineer offered a plausible explanation for the temporary power failure.",
+    "translation": "技術者は一時的な停電についてもっともらしい説明をした。",
+    "level": 860
+  },
+  {
+    "word": "prudent",
+    "pos": "adjective",
+    "meaning": "慎重な、賢明な",
+    "definition": "Showing good judgment by considering risks and future consequences.",
+    "example": "It would be prudent to obtain legal advice before signing the lease.",
+    "translation": "賃貸契約に署名する前に法律上の助言を得るのが賢明だろう。",
+    "level": 860
+  },
+  {
+    "word": "resilient",
+    "pos": "adjective",
+    "meaning": "回復力のある、弾力的な",
+    "definition": "Able to recover quickly from difficulty or adapt to change.",
+    "example": "The resilient supply chain recovered within weeks of the port closure.",
+    "translation": "その回復力のあるサプライチェーンは港の閉鎖から数週間で立ち直った。",
+    "level": 860
+  },
+  {
+    "word": "stringent",
+    "pos": "adjective",
+    "meaning": "厳格な、厳しい",
+    "definition": "Strict and demanding, especially regarding rules or standards.",
+    "example": "The laboratory must follow stringent procedures for handling confidential samples.",
+    "translation": "その研究所は機密試料を扱うための厳格な手順に従わなければならない。",
+    "level": 860
+  },
+  {
+    "word": "susceptible",
+    "pos": "adjective",
+    "meaning": "影響を受けやすい、感染しやすい",
+    "definition": "Easily affected, influenced, or harmed by something.",
+    "example": "Older equipment is more susceptible to damage during voltage fluctuations.",
+    "translation": "古い機器は電圧変動による損傷を受けやすい。",
+    "level": 860
+  },
+  {
+    "word": "unanimous",
+    "pos": "adjective",
+    "meaning": "満場一致の",
+    "definition": "Agreed upon by everyone involved.",
+    "example": "The committee reached a unanimous decision to extend the scholarship program.",
+    "translation": "委員会は奨学金制度を延長することで満場一致の決定に達した。",
+    "level": 860
+  },
+  {
+    "word": "versatile",
+    "pos": "adjective",
+    "meaning": "多用途の、融通の利く",
+    "definition": "Able to perform many different functions or adapt to different situations.",
+    "example": "The versatile software can manage both payroll and inventory records.",
+    "translation": "その多用途のソフトウェアは給与記録と在庫記録の両方を管理できる。",
+    "level": 860
+  },
+  {
+    "word": "accede",
+    "pos": "verb",
+    "meaning": "応じる、就任する",
+    "definition": "To agree to a request or take a position of authority.",
+    "example": "The supplier finally acceded to the client’s request for a partial refund.",
+    "translation": "供給業者はついに顧客の一部返金の要求に応じた。",
+    "level": 860
+  },
+  {
+    "word": "accrue",
+    "pos": "verb",
+    "meaning": "蓄積する、発生する",
+    "definition": "To increase over time or be earned gradually, especially interest or benefits.",
+    "example": "Interest will accrue on the unpaid balance until the invoice is settled.",
+    "translation": "請求書の残高が精算されるまで、未払い残高に利息が発生する。",
+    "level": 860
+  },
+  {
+    "word": "anomaly",
+    "pos": "noun",
+    "meaning": "異常、例外",
+    "definition": "Something that differs from what is normal, expected, or standard.",
+    "example": "The sudden drop in website traffic was an anomaly in an otherwise stable month.",
+    "translation": "ウェブサイトのアクセス数の突然の減少は、他は安定していた月の異常だった。",
+    "level": 860
+  },
+  {
+    "word": "appease",
+    "pos": "verb",
+    "meaning": "なだめる、宥和する",
+    "definition": "To make someone less angry or dissatisfied by meeting some of their demands.",
+    "example": "The airline offered a voucher to appease passengers affected by the cancellation.",
+    "translation": "航空会社は欠航の影響を受けた乗客をなだめるため、商品券を提供した。",
+    "level": 860
+  },
+  {
+    "word": "apprehensive",
+    "pos": "adjective",
+    "meaning": "不安な、懸念している",
+    "definition": "Worried or nervous about something that may happen.",
+    "example": "Investors were apprehensive about the effect of the proposed regulation.",
+    "translation": "投資家たちは提案された規制の影響を懸念していた。",
+    "level": 860
+  },
+  {
+    "word": "assert",
+    "pos": "verb",
+    "meaning": "断言する、主張する",
+    "definition": "To state confidently that something is true or that one has a right.",
+    "example": "The manufacturer asserted that the product met all safety standards.",
+    "translation": "製造業者はその製品が全ての安全基準を満たすと断言した。",
+    "level": 860
+  },
+  {
+    "word": "assimilate",
+    "pos": "verb",
+    "meaning": "吸収する、同化する",
+    "definition": "To take in and understand new information or become part of a group or system.",
+    "example": "New employees need time to assimilate the company’s procedures.",
+    "translation": "新入社員には会社の手順を身につける時間が必要だ。",
+    "level": 860
+  },
+  {
+    "word": "autonomous",
+    "pos": "adjective",
+    "meaning": "自律した、自治の",
+    "definition": "Able to operate independently without control from another person or organization.",
+    "example": "The branch has autonomous authority over local hiring decisions.",
+    "translation": "その支店は現地採用の決定について自律的な権限を持つ。",
+    "level": 860
+  },
+  {
+    "word": "backlog",
+    "pos": "noun",
+    "meaning": "滞留、未処理案件",
+    "definition": "A buildup of unfinished work or orders waiting to be handled.",
+    "example": "The support team reduced its backlog by adding weekend shifts.",
+    "translation": "サポートチームは週末勤務を追加して未処理案件を減らした。",
+    "level": 860
+  },
+  {
+    "word": "clientele",
+    "pos": "noun",
+    "meaning": "顧客層",
+    "definition": "The group of customers who regularly use a business or service.",
+    "example": "The restaurant redesigned its menu to appeal to an international clientele.",
+    "translation": "そのレストランは国際的な顧客層にアピールするためメニューを改定した。",
+    "level": 860
+  },
+  {
+    "word": "dormant",
+    "pos": "adjective",
+    "meaning": "休眠中の、活動していない",
+    "definition": "Temporarily inactive but capable of becoming active again.",
+    "example": "The company plans to reactivate its dormant account after verifying the documents.",
+    "translation": "その会社は書類を確認した後、休眠口座を再開する予定だ。",
+    "level": 860
+  },
+  {
+    "word": "enact",
+    "pos": "verb",
+    "meaning": "制定する、法律化する",
+    "definition": "To make a proposal or bill official by passing it as a law or rule.",
+    "example": "The city enacted stricter rules for commercial waste disposal.",
+    "translation": "市は商業廃棄物の処分についてより厳しい規則を制定した。",
+    "level": 860
+  },
+  {
+    "word": "entail",
+    "pos": "verb",
+    "meaning": "伴う、必要とする",
+    "definition": "To involve something as a necessary or unavoidable part or consequence.",
+    "example": "The expansion will entail substantial investment in staff training.",
+    "translation": "その拡張には従業員研修への多額の投資が伴う。",
+    "level": 860
+  },
+  {
+    "word": "forego",
+    "pos": "verb",
+    "meaning": "見送る、差し控える",
+    "definition": "To decide not to have or do something desirable.",
+    "example": "The company agreed to forego the usual fee to retain a long-term client.",
+    "translation": "その会社は長期顧客をつなぎ留めるため、通常の手数料を請求しないことにした。",
+    "level": 860
+  },
+  {
+    "word": "incumbent",
+    "pos": "adjective",
+    "meaning": "現職の、現任の",
+    "definition": "Currently holding a particular office or position.",
+    "example": "The incumbent director will present the annual results to shareholders.",
+    "translation": "現職の取締役が株主に年次業績を報告する。",
+    "level": 860
+  },
+  {
+    "word": "infringement",
+    "pos": "noun",
+    "meaning": "侵害",
+    "definition": "An act of breaking or violating a law, agreement, or right.",
+    "example": "The court issued an injunction against further infringement of the patent.",
+    "translation": "裁判所はその特許のさらなる侵害を禁じる差し止め命令を出した。",
+    "level": 860
+  },
+  {
+    "word": "abate",
+    "pos": "verb",
+    "meaning": "和らげる、軽減する",
+    "definition": "To make something less intense, severe, or widespread.",
+    "example": "The new procedure helped abate delays in processing export documents.",
+    "translation": "新しい手続きは輸出書類の処理の遅れを軽減するのに役立った。",
+    "level": 860
+  },
+  {
+    "word": "aberrant",
+    "pos": "adjective",
+    "meaning": "常軌を逸した、異常な",
+    "definition": "Different from what is usual, expected, or accepted.",
+    "example": "The auditor investigated an aberrant charge on the company credit card.",
+    "translation": "監査人は会社のクレジットカードにあった異常な請求を調査した。",
+    "level": 860
+  },
+  {
+    "word": "affluent",
+    "pos": "adjective",
+    "meaning": "裕福な、豊かな",
+    "definition": "Having a large amount of money and a comfortable standard of living.",
+    "example": "The retailer opened a branch in an affluent residential district.",
+    "translation": "その小売業者は裕福な住宅地区に支店を開設した。",
+    "level": 860
+  },
+  {
+    "word": "ameliorate",
+    "pos": "verb",
+    "meaning": "改善する、緩和する",
+    "definition": "To make a difficult situation or condition better or less severe.",
+    "example": "The revised schedule should ameliorate pressure on the distribution team.",
+    "translation": "改訂されたスケジュールは配送チームの負担を軽減するはずだ。",
+    "level": 860
+  },
+  {
+    "word": "apathetic",
+    "pos": "adjective",
+    "meaning": "無関心な、無気力な",
+    "definition": "Showing little interest, concern, or enthusiasm.",
+    "example": "The survey revealed that many customers were apathetic about the minor design change.",
+    "translation": "調査によると、多くの顧客は小さなデザイン変更に無関心だった。",
+    "level": 860
+  },
+  {
+    "word": "apposite",
+    "pos": "adjective",
+    "meaning": "適切な、ふさわしい",
+    "definition": "Appropriate and directly relevant to a particular situation or subject.",
+    "example": "The consultant offered an apposite recommendation during the budget meeting.",
+    "translation": "コンサルタントは予算会議で適切な提案をした。",
+    "level": 860
+  },
+  {
+    "word": "assiduous",
+    "pos": "adjective",
+    "meaning": "勤勉な、入念な",
+    "definition": "Working with great care, effort, and persistence.",
+    "example": "Her assiduous research identified several errors in the draft contract.",
+    "translation": "彼女の入念な調査によって、契約書の草案にあるいくつかの誤りが見つかった。",
+    "level": 860
+  },
+  {
+    "word": "austere",
+    "pos": "adjective",
+    "meaning": "質素な、厳しい",
+    "definition": "Simple and plain, or strict and without comfort or luxury.",
+    "example": "The company adopted an austere spending policy during the downturn.",
+    "translation": "その会社は景気後退の間、厳しい支出方針を採用した。",
+    "level": 860
+  },
+  {
+    "word": "belie",
+    "pos": "verb",
+    "meaning": "偽る、〜に反する",
+    "definition": "To give a false impression of something or fail to show its true nature.",
+    "example": "The calm announcement belied the seriousness of the financial problem.",
+    "translation": "その冷静な発表は財務問題の深刻さを隠していた。",
+    "level": 860
+  },
+  {
+    "word": "benign",
+    "pos": "adjective",
+    "meaning": "害のない、穏やかな",
+    "definition": "Not harmful, dangerous, or serious.",
+    "example": "The inspection found that the chemical residue was benign.",
+    "translation": "検査の結果、その化学物質の残留物は無害だと分かった。",
+    "level": 860
+  },
+  {
+    "word": "coerce",
+    "pos": "verb",
+    "meaning": "強制する、無理強いする",
+    "definition": "To force someone to do something by using threats or pressure.",
+    "example": "The company was accused of coercing suppliers into accepting unfair terms.",
+    "translation": "その会社は供給業者に不公平な条件を受け入れさせたとして非難された。",
+    "level": 860
+  },
+  {
+    "word": "conciliatory",
+    "pos": "adjective",
+    "meaning": "融和的な、なだめるような",
+    "definition": "Intended to end a disagreement by showing willingness to compromise.",
+    "example": "The director took a conciliatory tone during negotiations with the union.",
+    "translation": "取締役は組合との交渉で融和的な口調を取った。",
+    "level": 860
+  },
+  {
+    "word": "conundrum",
+    "pos": "noun",
+    "meaning": "難問、困難な問題",
+    "definition": "A difficult problem or question for which there seems to be no easy answer.",
+    "example": "Finding skilled technicians at short notice presented a conundrum for the manufacturer.",
+    "translation": "短期間で熟練技術者を見つけることは、その製造業者にとって難問となった。",
+    "level": 860
+  },
+  {
+    "word": "contentious",
+    "pos": "adjective",
+    "meaning": "論争を引き起こす、議論の多い",
+    "definition": "Likely to cause disagreement or involving strong opposing opinions.",
+    "example": "The committee postponed its vote on the contentious zoning proposal.",
+    "translation": "委員会は論争を呼ぶ用途地域変更案への投票を延期した。",
+    "level": 860
+  },
+  {
+    "word": "contravene",
+    "pos": "verb",
+    "meaning": "違反する、〜に反する",
+    "definition": "To violate a law, rule, or formal agreement.",
+    "example": "The revised procedure must not contravene workplace safety regulations.",
+    "translation": "改訂された手続きは職場の安全規則に違反してはならない。",
+    "level": 860
+  },
+  {
+    "word": "deference",
+    "pos": "noun",
+    "meaning": "敬意、服従",
+    "definition": "Respectful submission to another person’s judgment, authority, or wishes.",
+    "example": "In deference to the chair, the members waited before raising further objections.",
+    "translation": "議長への敬意から、委員たちはさらなる異議を唱える前に待った。",
+    "level": 860
+  },
+  {
+    "word": "delineate",
+    "pos": "verb",
+    "meaning": "明確に示す、輪郭を描く",
+    "definition": "To describe or show something precisely, including its limits or details.",
+    "example": "The agreement clearly delineates each party’s responsibilities.",
+    "translation": "その合意書は各当事者の責任を明確に示している。",
+    "level": 860
+  },
+  {
+    "word": "depreciate",
+    "pos": "verb",
+    "meaning": "価値が下がる、減価償却する",
+    "definition": "To decrease in value over time, or to reduce an asset’s recorded value.",
+    "example": "Company vehicles depreciate quickly after several years of heavy use.",
+    "translation": "会社の車両は数年間激しく使用すると急速に価値が下がる。",
+    "level": 860
+  },
+  {
+    "word": "deride",
+    "pos": "verb",
+    "meaning": "あざ笑う、ばかにする",
+    "definition": "To treat someone or something as foolish or worthless by mocking them.",
+    "example": "The spokesperson refused to deride competitors during the press conference.",
+    "translation": "広報担当者は記者会見で競合他社をあざ笑うことを拒んだ。",
+    "level": 860
+  },
+  {
+    "word": "despondent",
+    "pos": "adjective",
+    "meaning": "意気消沈した、落胆した",
+    "definition": "Feeling very discouraged or without hope.",
+    "example": "The despondent sales team regained confidence after securing a major account.",
+    "translation": "意気消沈していた営業チームは大口顧客を獲得した後、自信を取り戻した。",
+    "level": 860
+  },
+  {
+    "word": "detrimental",
+    "pos": "adjective",
+    "meaning": "有害な、不利益な",
+    "definition": "Causing harm or damage to a person, plan, or situation.",
+    "example": "Frequent staff turnover is detrimental to customer service quality.",
+    "translation": "従業員の頻繁な入れ替わりは顧客サービスの質に有害だ。",
+    "level": 860
+  },
+  {
+    "word": "digress",
+    "pos": "verb",
+    "meaning": "話がそれる、脱線する",
+    "definition": "To move away from the main subject while speaking or writing.",
+    "example": "The presenter briefly digressed before returning to the quarterly results.",
+    "translation": "発表者は少し話を脱線させた後、四半期業績の話に戻った。",
+    "level": 860
+  },
+  {
+    "word": "disburse",
+    "pos": "verb",
+    "meaning": "支出する、払い出す",
+    "definition": "To pay out money, especially from an official fund.",
+    "example": "The foundation will disburse grants to approved research teams next month.",
+    "translation": "財団は来月、承認された研究チームに助成金を支給する。",
+    "level": 860
+  },
+  {
+    "word": "eclectic",
+    "pos": "adjective",
+    "meaning": "折衷的な、幅広い",
+    "definition": "Drawing ideas, styles, or items from a wide range of sources.",
+    "example": "The consultant has an eclectic background in finance, design, and logistics.",
+    "translation": "そのコンサルタントは金融、デザイン、物流にまたがる幅広い経歴を持つ。",
+    "level": 860
+  },
+  {
+    "word": "elicit",
+    "pos": "verb",
+    "meaning": "引き出す、誘発する",
+    "definition": "To obtain a response, reaction, or information from someone.",
+    "example": "The interviewer used open questions to elicit detailed feedback.",
+    "translation": "面接官は詳細なフィードバックを引き出すために開かれた質問を使った。",
+    "level": 860
+  },
+  {
+    "word": "embellish",
+    "pos": "verb",
+    "meaning": "脚色する、飾る",
+    "definition": "To add details or decorations, sometimes making a story seem more impressive than it is.",
+    "example": "The applicant embellished her account of the project’s results.",
+    "translation": "応募者はそのプロジェクトの成果についての説明を脚色した。",
+    "level": 860
+  },
+  {
+    "word": "emulate",
+    "pos": "verb",
+    "meaning": "見習う、まねる",
+    "definition": "To copy someone’s qualities or achievements in an effort to equal or surpass them.",
+    "example": "The startup hopes to emulate the larger firm’s efficient customer-support system.",
+    "translation": "その新興企業は大手企業の効率的な顧客サポート体制を見習いたいと考えている。",
+    "level": 860
+  },
+  {
+    "word": "erode",
+    "pos": "verb",
+    "meaning": "徐々に損なう、浸食する",
+    "definition": "To gradually weaken, reduce, or destroy something.",
+    "example": "Repeated delivery failures eroded the client’s confidence in the supplier.",
+    "translation": "納入の失敗が繰り返されたことで、顧客の供給業者への信頼は徐々に損なわれた。",
+    "level": 860
+  },
+  {
+    "word": "exacerbate",
+    "pos": "verb",
+    "meaning": "悪化させる",
+    "definition": "To make a problem, condition, or disagreement worse.",
+    "example": "The unexpected fee could exacerbate the dispute with the customer.",
+    "translation": "予想外の手数料は顧客との紛争を悪化させる可能性がある。",
+    "level": 860
+  },
+  {
+    "word": "extraneous",
+    "pos": "adjective",
+    "meaning": "余分な、無関係な",
+    "definition": "Not necessary or relevant to a particular matter.",
+    "example": "Please remove extraneous details from the executive summary.",
+    "translation": "エグゼクティブサマリーから余分な詳細を削除してください。",
+    "level": 860
+  },
+  {
+    "word": "fortuitous",
+    "pos": "adjective",
+    "meaning": "偶然の、幸運な",
+    "definition": "Happening by chance, especially in a way that has a good result.",
+    "example": "A fortuitous meeting led to a valuable partnership for the firm.",
+    "translation": "偶然の出会いがその会社にとって価値ある提携につながった。",
+    "level": 860
+  },
+  {
+    "word": "garner",
+    "pos": "verb",
+    "meaning": "獲得する、集める",
+    "definition": "To obtain or collect something, especially support, attention, or approval.",
+    "example": "The proposal garnered strong support from regional managers.",
+    "translation": "その提案は地域管理者から強い支持を集めた。",
+    "level": 860
+  },
+  {
+    "word": "heterogeneous",
+    "pos": "adjective",
+    "meaning": "異質な、異種の",
+    "definition": "Made up of different kinds of people or things.",
+    "example": "The training program serves a heterogeneous group of employees.",
+    "translation": "その研修プログラムは多様な従業員集団を対象としている。",
+    "level": 860
+  },
+  {
+    "word": "impede",
+    "pos": "verb",
+    "meaning": "妨げる、遅らせる",
+    "definition": "To make movement, progress, or action more difficult or slower.",
+    "example": "A shortage of raw materials impeded production throughout the month.",
+    "translation": "原材料の不足がその月を通じて生産を妨げた。",
+    "level": 860
+  },
+  {
+    "word": "impeccable",
+    "pos": "adjective",
+    "meaning": "申し分のない、非の打ちどころのない",
+    "definition": "Perfect and without mistakes or faults.",
+    "example": "The candidate has an impeccable record of meeting regulatory requirements.",
+    "translation": "その候補者には規制要件を満たしてきた申し分のない実績がある。",
+    "level": 860
+  },
+  {
+    "word": "incongruous",
+    "pos": "adjective",
+    "meaning": "不調和な、場違いな",
+    "definition": "Not matching or fitting well with something else.",
+    "example": "The informal remark seemed incongruous in the formal shareholder meeting.",
+    "translation": "そのくだけた発言は正式な株主総会では場違いに思えた。",
+    "level": 860
+  },
+  {
+    "word": "innate",
+    "pos": "adjective",
+    "meaning": "生来の、生まれつきの",
+    "definition": "Existing naturally in a person or present from birth.",
+    "example": "Her innate ability to explain complex ideas benefits the training department.",
+    "translation": "複雑な考えを説明する彼女の生来の能力は研修部門に役立っている。",
+    "level": 860
+  },
+  {
+    "word": "instigate",
+    "pos": "verb",
+    "meaning": "引き起こす、扇動する",
+    "definition": "To cause an event or situation to begin, especially a harmful one.",
+    "example": "The inaccurate report instigated an unnecessary investigation.",
+    "translation": "不正確な報告書が不要な調査を引き起こした。",
+    "level": 860
+  },
+  {
+    "word": "novice",
+    "pos": "noun",
+    "meaning": "初心者、未経験者",
+    "definition": "A person who is new to a skill, activity, or field.",
+    "example": "The software includes a tutorial for novice users.",
+    "translation": "そのソフトウェアには初心者向けのチュートリアルが含まれている。",
+    "level": 860
+  },
+  {
+    "word": "ostensibly",
+    "pos": "adverb",
+    "meaning": "表向きは、表面上は",
+    "definition": "Apparently or seemingly, although the real reason may be different.",
+    "example": "The meeting was ostensibly about staffing but mainly concerned the merger.",
+    "translation": "その会議は表向きは人員配置についてだったが、主な議題は合併だった。",
+    "level": 860
+  },
+  {
+    "word": "reputable",
+    "pos": "adjective",
+    "meaning": "評判のよい、信頼できる",
+    "definition": "Having a good reputation and being considered reliable or honest.",
+    "example": "We selected a reputable carrier to handle the international shipment.",
+    "translation": "私たちは国際出荷を扱う信頼できる運送業者を選んだ。",
+    "level": 860
+  },
+  {
+    "word": "tenacious",
+    "pos": "adjective",
+    "meaning": "粘り強い、頑強な",
+    "definition": "Continuing firmly despite difficulty or opposition.",
+    "example": "Her tenacious efforts eventually secured approval for the expansion plan.",
+    "translation": "彼女の粘り強い努力が最終的に拡張計画の承認を勝ち取った。",
+    "level": 860
+  },
+  {
+    "word": "circumspect",
+    "pos": "adjective",
+    "meaning": "慎重な、用心深い",
+    "definition": "Careful to consider all circumstances and possible consequences before acting.",
+    "example": "The legal team was circumspect about commenting on the pending case.",
+    "translation": "法務チームは係争中の案件についてコメントするのを慎重に避けた。",
+    "level": 860
+  },
+  {
+    "word": "discreet",
+    "pos": "adjective",
+    "meaning": "慎重な、目立たない",
+    "definition": "Careful not to attract attention or reveal private information.",
+    "example": "The assistant made a discreet inquiry about the executive’s availability.",
+    "translation": "助手は役員の都合について目立たないように問い合わせた。",
+    "level": 860
+  },
+  {
+    "word": "vociferous",
+    "pos": "adjective",
+    "meaning": "声高な、やかましい",
+    "definition": "Expressing opinions or complaints loudly and forcefully.",
+    "example": "A vociferous group of customers demanded a refund for the canceled service.",
+    "translation": "声高に主張する顧客の一団が中止されたサービスの返金を求めた。",
+    "level": 860
+  },
+  {
+    "word": "zealous",
+    "pos": "adjective",
+    "meaning": "熱心な、熱意に満ちた",
+    "definition": "Showing strong enthusiasm and energy for a cause or activity.",
+    "example": "The zealous campaign manager organized volunteers across the region.",
+    "translation": "熱心な選挙運動責任者は地域全体でボランティアを組織した。",
+    "level": 860
+  },
+  {
+    "word": "judicious",
+    "pos": "adjective",
+    "meaning": "思慮深い、賢明な",
+    "definition": "Showing good judgment, especially by making sensible choices.",
+    "example": "A judicious investment in training reduced errors and improved efficiency.",
+    "translation": "研修への賢明な投資がミスを減らし、効率を高めた。",
+    "level": 860
+  },
+  {
+    "word": "sporadic",
+    "pos": "adjective",
+    "meaning": "散発的な、断続的な",
+    "definition": "Occurring occasionally and irregularly rather than continuously.",
+    "example": "Sporadic internet outages disrupted the remote support service.",
+    "translation": "散発的なインターネット障害が遠隔サポートサービスを妨げた。",
+    "level": 860
+  },
+  {
+    "word": "transient",
+    "pos": "adjective",
+    "meaning": "一時的な、短期間の",
+    "definition": "Lasting for only a short time.",
+    "example": "The factory experienced a transient power problem during the storm.",
+    "translation": "その工場は嵐の間、一時的な電力問題を経験した。",
+    "level": 860
+  },
+  {
+    "word": "conspicuous",
+    "pos": "adjective",
+    "meaning": "目立つ、顕著な",
+    "definition": "Easy to see or notice because of being unusual, large, or prominent.",
+    "example": "The conspicuous warning label helped prevent incorrect use of the equipment.",
+    "translation": "目立つ警告ラベルが機器の誤使用を防ぐのに役立った。",
+    "level": 860
+  },
+  {
+    "word": "acumen",
+    "pos": "noun",
+    "meaning": "洞察力、判断力",
+    "definition": "The ability to make quick and accurate judgments in business or a particular field.",
+    "example": "Her financial acumen helped the company avoid a costly investment.",
+    "translation": "彼女の財務上の洞察力は、会社が高くつく投資を避けるのに役立った。",
+    "level": 860
+  },
+  {
+    "word": "adversity",
+    "pos": "noun",
+    "meaning": "逆境、困難",
+    "definition": "A difficult or unpleasant situation that tests a person or organization.",
+    "example": "The company remained profitable despite severe economic adversity.",
+    "translation": "その会社は深刻な経済的逆境にもかかわらず、利益を維持した。",
+    "level": 860
+  },
+  {
+    "word": "aggregate",
+    "pos": "verb",
+    "meaning": "集計する、合計する",
+    "definition": "To combine separate amounts or pieces of information into a total.",
+    "example": "The report aggregates sales data from all regional offices.",
+    "translation": "その報告書は全地域の営業所の売上データを集計している。",
+    "level": 860
+  },
+  {
+    "word": "allegation",
+    "pos": "noun",
+    "meaning": "申し立て、疑惑",
+    "definition": "A claim that someone has done something wrong, especially without proof.",
+    "example": "The newspaper investigated an allegation of financial misconduct.",
+    "translation": "その新聞は財務上の不正行為の申し立てを調査した。",
+    "level": 860
+  },
+  {
+    "word": "ambiguous",
+    "pos": "adjective",
+    "meaning": "曖昧な",
+    "definition": "Having more than one possible meaning and therefore not clear.",
+    "example": "The contract contains an ambiguous clause about delivery dates.",
+    "translation": "その契約には納期について曖昧な条項がある。",
+    "level": 860
+  },
+  {
+    "word": "audacious",
+    "pos": "adjective",
+    "meaning": "大胆不敵な",
+    "definition": "Willing to take surprisingly bold risks.",
+    "example": "The startup made an audacious bid for the established manufacturer.",
+    "translation": "その新興企業は、老舗メーカーに大胆不敵な買収提案をした。",
+    "level": 860
+  },
+  {
+    "word": "brevity",
+    "pos": "noun",
+    "meaning": "簡潔さ、短さ",
+    "definition": "The quality of using few words or taking little time.",
+    "example": "The manager valued the brevity and clarity of the presentation.",
+    "translation": "その管理職はプレゼンテーションの簡潔さと明快さを重視した。",
+    "level": 860
+  },
+  {
+    "word": "concurrent",
+    "pos": "adjective",
+    "meaning": "同時に起こる",
+    "definition": "Existing, happening, or done at the same time.",
+    "example": "The company is facing concurrent shortages of staff and materials.",
+    "translation": "その会社は人員と資材の不足に同時に直面している。",
+    "level": 860
+  },
+  {
+    "word": "culminate",
+    "pos": "verb",
+    "meaning": "最高潮に達する",
+    "definition": "To reach the highest or most important point of a process or event.",
+    "example": "The negotiations culminated in a five-year supply agreement.",
+    "translation": "交渉は5年間の供給契約の締結という最高潮に達した。",
+    "level": 860
+  },
+  {
+    "word": "demarcate",
+    "pos": "verb",
+    "meaning": "境界を定める",
+    "definition": "To show or establish the limits or boundaries of something.",
+    "example": "Fences demarcate the areas reserved for different suppliers.",
+    "translation": "フェンスが各供給業者に割り当てられた区域の境界を示している。",
+    "level": 860
+  },
+  {
+    "word": "diversify",
+    "pos": "verb",
+    "meaning": "多様化する",
+    "definition": "To develop a wider range of products, services, or investments.",
+    "example": "The retailer diversified its product line to reduce risk.",
+    "translation": "その小売業者はリスクを減らすため商品ラインを多様化した。",
+    "level": 860
+  },
+  {
+    "word": "elusive",
+    "pos": "adjective",
+    "meaning": "つかみにくい、達成困難な",
+    "definition": "Difficult to find, define, achieve, or remember.",
+    "example": "A reliable estimate of future demand remains elusive.",
+    "translation": "将来の需要を信頼できる形で見積もることは依然として難しい。",
+    "level": 860
+  },
+  {
+    "word": "foster",
+    "pos": "verb",
+    "meaning": "促進する、育む",
+    "definition": "To encourage the development or growth of something.",
+    "example": "The training program fosters collaboration between departments.",
+    "translation": "その研修プログラムは部署間の協力を促進する。",
+    "level": 860
+  },
+  {
+    "word": "frugal",
+    "pos": "adjective",
+    "meaning": "倹約的な",
+    "definition": "Careful to use money, supplies, or resources without waste.",
+    "example": "A frugal purchasing policy helped the firm control costs.",
+    "translation": "倹約的な購買方針がその企業のコスト管理に役立った。",
+    "level": 860
+  },
+  {
+    "word": "hierarchical",
+    "pos": "adjective",
+    "meaning": "階層的な",
+    "definition": "Organized in levels of authority or importance.",
+    "example": "The hierarchical structure slows communication between junior and senior staff.",
+    "translation": "その階層的な組織構造は若手と上級職員の間の意思疎通を遅らせる。",
+    "level": 860
+  },
+  {
+    "word": "imperative",
+    "pos": "adjective",
+    "meaning": "不可欠な、緊急の",
+    "definition": "Absolutely necessary or very important.",
+    "example": "It is imperative that all employees protect customer data.",
+    "translation": "全従業員が顧客データを保護することは不可欠だ。",
+    "level": 860
+  },
+  {
+    "word": "integral",
+    "pos": "adjective",
+    "meaning": "不可欠な、構成要素の",
+    "definition": "Necessary to make a whole complete or function properly.",
+    "example": "Accurate forecasting is integral to effective inventory control.",
+    "translation": "正確な予測は効果的な在庫管理に不可欠だ。",
+    "level": 860
+  },
+  {
+    "word": "intermittent",
+    "pos": "adjective",
+    "meaning": "断続的な",
+    "definition": "Occurring at irregular intervals rather than continuously.",
+    "example": "Intermittent power failures disrupted the factory schedule.",
+    "translation": "断続的な停電が工場の予定を乱した。",
+    "level": 860
+  },
+  {
+    "word": "notwithstanding",
+    "pos": "preposition",
+    "meaning": "〜にもかかわらず",
+    "definition": "Despite a particular fact or condition.",
+    "example": "Notwithstanding the delay, the shipment arrived before the deadline.",
+    "translation": "遅延にもかかわらず、その出荷品は締め切り前に到着した。",
+    "level": 860
+  },
+  {
+    "word": "peripheral",
+    "pos": "adjective",
+    "meaning": "周辺的な、本質的でない",
+    "definition": "Less important than the main subject or issue.",
+    "example": "The committee postponed discussion of several peripheral concerns.",
+    "translation": "委員会は幾つかの周辺的な懸念事項の討議を延期した。",
+    "level": 860
+  },
+  {
+    "word": "validate",
+    "pos": "verb",
+    "meaning": "有効性を確認する、検証する",
+    "definition": "To prove that something is sound, accurate, or acceptable.",
+    "example": "The engineers ran additional tests to validate the safety claim.",
+    "translation": "技術者たちは安全性の主張を検証するため追加試験を行った。",
+    "level": 860
+  },
+  {
+    "word": "viability",
+    "pos": "noun",
+    "meaning": "実行可能性、存続可能性",
+    "definition": "The ability of a plan, business, or idea to work successfully.",
+    "example": "The feasibility study confirmed the project’s long-term viability.",
+    "translation": "実現可能性調査はその計画の長期的な存続可能性を確認した。",
+    "level": 860
+  },
+  {
+    "word": "ambivalence",
+    "pos": "noun",
+    "meaning": "相反する感情",
+    "definition": "The state of having mixed or opposing feelings about something.",
+    "example": "Employees expressed ambivalence about relocating the headquarters.",
+    "translation": "従業員たちは本社移転について複雑な感情を示した。",
+    "level": 860
+  },
+  {
+    "word": "apprise",
+    "pos": "verb",
+    "meaning": "知らせる",
+    "definition": "To inform someone about a situation or development.",
+    "example": "Please apprise the legal team of any changes to the agreement.",
+    "translation": "契約の変更があれば法務チームに知らせてください。",
+    "level": 860
+  },
+  {
+    "word": "arduous",
+    "pos": "adjective",
+    "meaning": "困難で骨の折れる",
+    "definition": "Requiring a great deal of effort and endurance.",
+    "example": "The auditors completed the arduous review in three weeks.",
+    "translation": "監査担当者たちは骨の折れる審査を3週間で完了した。",
+    "level": 860
+  },
+  {
+    "word": "conjecture",
+    "pos": "noun",
+    "meaning": "推測、憶測",
+    "definition": "An opinion or conclusion based on incomplete information.",
+    "example": "The cause of the sudden decline remains a matter of conjecture.",
+    "translation": "急激な減少の原因は依然として推測の域を出ない。",
+    "level": 860
+  },
+  {
+    "word": "incidental",
+    "pos": "adjective",
+    "meaning": "付随的な、偶然の",
+    "definition": "Occurring as a minor or secondary result of something else.",
+    "example": "The contract covers travel expenses and other incidental costs.",
+    "translation": "その契約は旅費とその他の付随費用を対象としている。",
+    "level": 860
+  },
+  {
+    "word": "incompatibility",
+    "pos": "noun",
+    "meaning": "両立しないこと",
+    "definition": "The state of being unable to exist or work together successfully.",
+    "example": "Software incompatibility prevented the two systems from exchanging data.",
+    "translation": "ソフトウェアの互換性の欠如により、2つのシステムはデータを交換できなかった。",
+    "level": 860
+  },
+  {
+    "word": "insulate",
+    "pos": "verb",
+    "meaning": "隔離する、影響から守る",
+    "definition": "To protect someone or something from outside influences or effects.",
+    "example": "The agreement insulates small suppliers from sudden price increases.",
+    "translation": "その協定は小規模な供給業者を突然の値上げから守る。",
+    "level": 860
+  },
+  {
+    "word": "intervene",
+    "pos": "verb",
+    "meaning": "介入する",
+    "definition": "To become involved in a situation to change or prevent an outcome.",
+    "example": "The regulator intervened to prevent the merger from harming competition.",
+    "translation": "規制当局は合併が競争を損なうのを防ぐため介入した。",
+    "level": 860
+  },
+  {
+    "word": "magnitude",
+    "pos": "noun",
+    "meaning": "規模、重大さ",
+    "definition": "The great size, extent, or importance of something.",
+    "example": "The survey revealed the magnitude of the staffing shortage.",
+    "translation": "その調査は人員不足の規模を明らかにした。",
+    "level": 860
+  },
+  {
+    "word": "precedent",
+    "pos": "noun",
+    "meaning": "前例",
+    "definition": "An earlier event or decision that serves as a guide for a later one.",
+    "example": "The ruling could set a precedent for future labor disputes.",
+    "translation": "その判決は将来の労働紛争の前例となる可能性がある。",
+    "level": 860
+  },
+  {
+    "word": "proactive",
+    "pos": "adjective",
+    "meaning": "先を見越した、積極的な",
+    "definition": "Taking action in advance to deal with a situation rather than reacting later.",
+    "example": "The proactive maintenance plan reduced equipment failures.",
+    "translation": "先を見越した保守計画によって設備故障が減少した。",
+    "level": 860
+  },
+  {
+    "word": "provisional",
+    "pos": "adjective",
+    "meaning": "暫定的な",
+    "definition": "Temporary and subject to confirmation or change.",
+    "example": "The board approved a provisional budget pending the audit results.",
+    "translation": "取締役会は監査結果を待つ間、暫定予算を承認した。",
+    "level": 860
+  },
+  {
+    "word": "repercussion",
+    "pos": "noun",
+    "meaning": "影響、余波",
+    "definition": "An unintended consequence of an action or event, often a negative one.",
+    "example": "The policy change had serious repercussions for overseas employees.",
+    "translation": "その方針変更は海外勤務の従業員に深刻な影響を及ぼした。",
+    "level": 860
+  },
+  {
+    "word": "rescind",
+    "pos": "verb",
+    "meaning": "撤回する、取り消す",
+    "definition": "To officially cancel a law, agreement, or decision.",
+    "example": "The company rescinded the offer after discovering the error.",
+    "translation": "その会社は誤りを発見した後、その提案を正式に撤回した。",
+    "level": 860
+  },
+  {
+    "word": "rigorous",
+    "pos": "adjective",
+    "meaning": "厳密な、厳しい",
+    "definition": "Extremely thorough, careful, and exact.",
+    "example": "Candidates must pass a rigorous screening process.",
+    "translation": "候補者は厳密な審査過程に合格しなければならない。",
+    "level": 860
+  },
+  {
+    "word": "salient",
+    "pos": "adjective",
+    "meaning": "顕著な、重要な",
+    "definition": "Most noticeable or important.",
+    "example": "The report highlights the salient risks of the proposed investment.",
+    "translation": "その報告書は提案された投資の顕著なリスクを強調している。",
+    "level": 860
+  },
+  {
+    "word": "scrupulous",
+    "pos": "adjective",
+    "meaning": "細心の、厳正な",
+    "definition": "Very careful to be honest, accurate, and thorough.",
+    "example": "The accountant is scrupulous about checking every figure.",
+    "translation": "その会計担当者は全ての数字を確認する際に細心の注意を払う。",
+    "level": 860
+  },
+  {
+    "word": "unilateral",
+    "pos": "adjective",
+    "meaning": "一方的な",
+    "definition": "Done or decided by one person, group, or country without agreement from others.",
+    "example": "The supplier made a unilateral decision to change the payment terms.",
+    "translation": "その供給業者は支払条件を変更するという一方的な決定をした。",
+    "level": 860
+  },
+  {
+    "word": "uphold",
+    "pos": "verb",
+    "meaning": "支持する、維持する",
+    "definition": "To support a decision, principle, or law and keep it in effect.",
+    "example": "The appeal court upheld the original judgment.",
+    "translation": "控訴裁判所は原判決を支持した。",
+    "level": 860
+  },
+  {
+    "word": "corroborative",
+    "pos": "adjective",
+    "meaning": "裏付けとなる",
+    "definition": "Providing evidence that supports a statement, theory, or account.",
+    "example": "The investigator found corroborative evidence in the accounting records.",
+    "translation": "調査員は会計記録の中に裏付けとなる証拠を見つけた。",
+    "level": 860
+  },
+  {
+    "word": "discernment",
+    "pos": "noun",
+    "meaning": "識別力、洞察力",
+    "definition": "The ability to judge or understand differences, quality, or value clearly.",
+    "example": "Her discernment helped the panel select the strongest proposal.",
+    "translation": "彼女の識別力は、委員会が最も優れた提案を選ぶのに役立った。",
+    "level": 860
+  },
+  {
+    "word": "exhaustive",
+    "pos": "adjective",
+    "meaning": "徹底的な、網羅的な",
+    "definition": "Including all possible details, options, or information.",
+    "example": "The consultant conducted an exhaustive review of the supply chain.",
+    "translation": "そのコンサルタントは供給網を徹底的に調査した。",
+    "level": 860
+  },
+  {
+    "word": "foreseeable",
+    "pos": "adjective",
+    "meaning": "予見できる",
+    "definition": "Able to be anticipated or expected in advance.",
+    "example": "The contract limits liability for foreseeable business losses.",
+    "translation": "その契約は予見可能な事業上の損失に対する責任を制限している。",
+    "level": 860
+  },
+  {
+    "word": "jurisdictional",
+    "pos": "adjective",
+    "meaning": "管轄権の",
+    "definition": "Relating to the authority of a court or official body over a matter or area.",
+    "example": "The dispute raised complex jurisdictional questions.",
+    "translation": "その紛争は複雑な管轄権上の問題を提起した。",
+    "level": 860
+  },
+  {
+    "word": "persevere",
+    "pos": "verb",
+    "meaning": "粘り強く続ける",
+    "definition": "To continue trying despite difficulty or delay.",
+    "example": "The research team persevered until it found a reliable solution.",
+    "translation": "研究チームは信頼できる解決策を見つけるまで粘り強く取り組んだ。",
+    "level": 860
+  },
+  {
+    "word": "rebut",
+    "pos": "verb",
+    "meaning": "反論する、反証する",
+    "definition": "To argue or prove that a statement or claim is not true.",
+    "example": "The spokesperson rebutted the accusation with documented evidence.",
+    "translation": "広報担当者は記録された証拠を用いてその疑惑に反論した。",
+    "level": 860
+  },
+  {
+    "word": "substantive",
+    "pos": "adjective",
+    "meaning": "実質的な、重要な",
+    "definition": "Having a real and significant basis or effect rather than being merely formal.",
+    "example": "The meeting produced substantive progress on the contract.",
+    "translation": "その会議は契約について実質的な進展をもたらした。",
+    "level": 860
+  },
+  {
+    "word": "transparency",
+    "pos": "noun",
+    "meaning": "透明性",
+    "definition": "The quality of operating openly so that actions and decisions can be understood.",
+    "example": "Greater transparency would strengthen investors’ confidence.",
+    "translation": "透明性が高まれば投資家の信頼が強まるだろう。",
+    "level": 860
+  },
+  {
+    "word": "abstain",
+    "pos": "verb",
+    "meaning": "控える、慎む",
+    "definition": "to deliberately avoid doing or using something",
+    "example": "Employees should abstain from discussing confidential bids outside the office.",
+    "translation": "従業員は社外で機密入札について話すことを控えるべきだ。",
+    "level": 860
+  },
+  {
+    "word": "advocate",
+    "pos": "verb",
+    "meaning": "提唱する、支持する",
+    "definition": "to publicly support a particular policy, idea, or course of action",
+    "example": "The report advocates reducing energy consumption in commercial buildings.",
+    "translation": "その報告書は商業施設でのエネルギー消費削減を提唱している。",
+    "level": 860
+  },
+  {
+    "word": "affirm",
+    "pos": "verb",
+    "meaning": "断言する、確認する",
+    "definition": "to state or show that something is true",
+    "example": "The director affirmed that all applications would be reviewed fairly.",
+    "translation": "部長はすべての申請が公正に審査されると断言した。",
+    "level": 860
+  },
+  {
+    "word": "articulate",
+    "pos": "verb",
+    "meaning": "明確に表現する",
+    "definition": "to express an idea or feeling clearly in words",
+    "example": "The candidate articulated a practical vision for expanding overseas sales.",
+    "translation": "その候補者は海外売上を拡大するための実践的な構想を明確に表現した。",
+    "level": 860
+  },
+  {
+    "word": "authenticate",
+    "pos": "verb",
+    "meaning": "認証する、本物と確認する",
+    "definition": "to prove that something is genuine or that a user has the right to access a system",
+    "example": "The software authenticates each customer before processing the payment.",
+    "translation": "そのソフトウェアは支払いを処理する前に各顧客を認証する。",
+    "level": 860
+  },
+  {
+    "word": "commence",
+    "pos": "verb",
+    "meaning": "開始する",
+    "definition": "to begin officially",
+    "example": "Construction will commence once the city issues the final permit.",
+    "translation": "市が最終許可を発行すれば建設が始まる。",
+    "level": 860
+  },
+  {
+    "word": "compel",
+    "pos": "verb",
+    "meaning": "強いる、余儀なくさせる",
+    "definition": "to force someone to do something",
+    "example": "The unexpected audit compelled the firm to revise its accounting procedures.",
+    "translation": "予期せぬ監査により、その会社は会計手続きを改訂せざるを得なかった。",
+    "level": 860
+  },
+  {
+    "word": "complement",
+    "pos": "verb",
+    "meaning": "補完する、引き立てる",
+    "definition": "to add another feature that improves or completes something",
+    "example": "The online tutorial complements the training sessions held in person.",
+    "translation": "そのオンライン講座は対面で行われる研修を補完する。",
+    "level": 860
+  },
+  {
+    "word": "comprehend",
+    "pos": "verb",
+    "meaning": "理解する",
+    "definition": "to understand something fully",
+    "example": "New employees must comprehend the safety rules before entering the plant.",
+    "translation": "新入社員は工場に入る前に安全規則を十分理解しなければならない。",
+    "level": 860
+  },
+  {
+    "word": "conform",
+    "pos": "verb",
+    "meaning": "従う、適合する",
+    "definition": "to behave according to a rule or meet an accepted standard",
+    "example": "All packaging must conform to the revised environmental regulations.",
+    "translation": "すべての包装は改訂された環境規制に適合しなければならない。",
+    "level": 860
+  },
+  {
+    "word": "constitute",
+    "pos": "verb",
+    "meaning": "構成する、制定する",
+    "definition": "to form the whole of something or officially establish it",
+    "example": "Part-time employees constitute nearly one-third of the department.",
+    "translation": "パートタイム従業員はその部署のほぼ3分の1を構成している。",
+    "level": 860
+  },
+  {
+    "word": "contemplate",
+    "pos": "verb",
+    "meaning": "熟考する、検討する",
+    "definition": "to consider something carefully over a period of time",
+    "example": "The board is contemplating a partial relocation of its headquarters.",
+    "translation": "取締役会は本社の一部移転を検討している。",
+    "level": 860
+  },
+  {
+    "word": "contradict",
+    "pos": "verb",
+    "meaning": "矛盾する、否定する",
+    "definition": "to be different from or opposed to a statement or fact",
+    "example": "The latest figures contradict the assumption that demand is declining.",
+    "translation": "最新の数字は需要が減少しているという仮定と矛盾している。",
+    "level": 860
+  },
+  {
+    "word": "curtail",
+    "pos": "verb",
+    "meaning": "削減する、短縮する",
+    "definition": "to reduce or limit something, especially an activity or expense",
+    "example": "The company curtailed business travel to control operating costs.",
+    "translation": "その会社は運営費を抑えるため出張を削減した。",
+    "level": 860
+  },
+  {
+    "word": "deduce",
+    "pos": "verb",
+    "meaning": "推論する、推定する",
+    "definition": "to reach a conclusion by reasoning from known facts",
+    "example": "From the delivery records, we deduced that the delay occurred at the warehouse.",
+    "translation": "配送記録から、私たちは遅延が倉庫で発生したと推定した。",
+    "level": 860
+  },
+  {
+    "word": "differentiate",
+    "pos": "verb",
+    "meaning": "区別する、差別化する",
+    "definition": "to recognize or create a difference between people or things",
+    "example": "The brand differentiates its service through rapid technical support.",
+    "translation": "そのブランドは迅速な技術サポートによってサービスを差別化している。",
+    "level": 860
+  },
+  {
+    "word": "disseminate",
+    "pos": "verb",
+    "meaning": "広める、普及させる",
+    "definition": "to spread information, knowledge, or ideas widely",
+    "example": "The agency disseminated the safety notice through several media channels.",
+    "translation": "その機関は複数のメディアを通じて安全通知を広めた。",
+    "level": 860
+  },
+  {
+    "word": "diverge",
+    "pos": "verb",
+    "meaning": "分岐する、異なる方向に進む",
+    "definition": "to develop in different directions or become different",
+    "example": "The two proposals diverge considerably in their estimated costs.",
+    "translation": "その2つの提案は見積費用の点で大きく異なっている。",
+    "level": 860
+  },
+  {
+    "word": "elaborate",
+    "pos": "verb",
+    "meaning": "詳しく説明する",
+    "definition": "to give more details about something",
+    "example": "Could you elaborate on the reasons for changing the delivery schedule?",
+    "translation": "配送予定を変更した理由を詳しく説明していただけますか。",
+    "level": 860
+  },
+  {
+    "word": "empirical",
+    "pos": "adjective",
+    "meaning": "実証的な、経験に基づく",
+    "definition": "based on observation or experiment rather than theory alone",
+    "example": "The researchers used empirical data to evaluate the new training method.",
+    "translation": "研究者たちは新しい研修方法を評価するため実証データを用いた。",
+    "level": 860
+  },
+  {
+    "word": "reiterate",
+    "pos": "verb",
+    "meaning": "繰り返し述べる、再確認する",
+    "definition": "to say or state something again, especially to emphasize it",
+    "example": "The director reiterated the importance of meeting the revised deadline.",
+    "translation": "部長は改訂された締切を守る重要性を改めて強調した。",
+    "level": 860
+  },
+  {
+    "word": "hinder",
+    "pos": "verb",
+    "meaning": "妨げる",
+    "definition": "to make it difficult for someone or something to progress or develop",
+    "example": "A shortage of technicians hindered the installation of the new equipment.",
+    "translation": "技術者不足が新設備の設置を妨げた。",
+    "level": 860
+  },
+  {
+    "word": "implicit",
+    "pos": "adjective",
+    "meaning": "暗黙の、内在する",
+    "definition": "suggested without being directly stated",
+    "example": "The agreement contains an implicit promise of continued cooperation.",
+    "translation": "その合意には継続的に協力するという暗黙の約束が含まれている。",
+    "level": 860
+  },
+  {
+    "word": "incur",
+    "pos": "verb",
+    "meaning": "被る、負う",
+    "definition": "to experience or become responsible for a cost, debt, or penalty",
+    "example": "The contractor incurred additional costs after the design was changed.",
+    "translation": "設計変更後、その請負業者は追加費用を負担した。",
+    "level": 860
+  },
+  {
+    "word": "induce",
+    "pos": "verb",
+    "meaning": "引き起こす、誘発する",
+    "definition": "to cause something to happen or persuade someone to do something",
+    "example": "The discount is intended to induce customers to renew their memberships.",
+    "translation": "その割引は顧客に会員資格を更新してもらうことを意図している。",
+    "level": 860
+  },
+  {
+    "word": "infer",
+    "pos": "verb",
+    "meaning": "推測する、推論する",
+    "definition": "to form an opinion from evidence rather than from a direct statement",
+    "example": "We can infer from the survey results that employees prefer flexible hours.",
+    "translation": "調査結果から、従業員は柔軟な勤務時間を好むと推測できる。",
+    "level": 860
+  },
+  {
+    "word": "innovative",
+    "pos": "adjective",
+    "meaning": "革新的な",
+    "definition": "using new ideas or methods to improve something",
+    "example": "The startup introduced an innovative approach to reducing food waste.",
+    "translation": "その新興企業は食品廃棄を減らす革新的な方法を導入した。",
+    "level": 860
+  },
+  {
+    "word": "intrinsic",
+    "pos": "adjective",
+    "meaning": "固有の、本質的な",
+    "definition": "belonging naturally to something and essential to its character",
+    "example": "Trust is intrinsic to a successful relationship with clients.",
+    "translation": "信頼は顧客との良好な関係に本質的に不可欠である。",
+    "level": 860
+  },
+  {
+    "word": "invoke",
+    "pos": "verb",
+    "meaning": "発動する、援用する",
+    "definition": "to refer to a rule or authority to justify an action",
+    "example": "The union invoked a clause in the agreement to request mediation.",
+    "translation": "労働組合は調停を求めるため合意書の条項を援用した。",
+    "level": 860
+  },
+  {
+    "word": "legitimate",
+    "pos": "adjective",
+    "meaning": "正当な、合法的な",
+    "definition": "reasonable, lawful, or acceptable according to established standards",
+    "example": "The customer raised a legitimate concern about the warranty terms.",
+    "translation": "その顧客は保証条件について正当な懸念を示した。",
+    "level": 860
+  },
+  {
+    "word": "paradigm",
+    "pos": "noun",
+    "meaning": "模範、枠組み",
+    "definition": "a typical model or a general way of thinking about something",
+    "example": "Remote work has changed the traditional paradigm of office management.",
+    "translation": "在宅勤務はオフィス管理の従来の枠組みを変えた。",
+    "level": 860
+  },
+  {
+    "word": "proficient",
+    "pos": "adjective",
+    "meaning": "熟達した、堪能な",
+    "definition": "skilled and experienced at doing something",
+    "example": "Applicants must be proficient in spreadsheet analysis.",
+    "translation": "応募者は表計算分析に熟達していなければならない。",
+    "level": 860
+  },
+  {
+    "word": "proliferate",
+    "pos": "verb",
+    "meaning": "急増する、拡散する",
+    "definition": "to increase rapidly in number or spread widely",
+    "example": "Unauthorized copies began to proliferate after the product launch.",
+    "translation": "製品発売後、無許可のコピーが急増し始めた。",
+    "level": 860
+  },
+  {
+    "word": "subsequent",
+    "pos": "adjective",
+    "meaning": "その後の、続いて起こる",
+    "definition": "happening or coming after something else",
+    "example": "The subsequent investigation identified several weaknesses in the process.",
+    "translation": "その後の調査で、その工程のいくつかの弱点が明らかになった。",
+    "level": 860
+  },
+  {
+    "word": "acknowledge",
+    "pos": "verb",
+    "meaning": "認める、受け取ったことを知らせる",
+    "definition": "to accept that something is true or to confirm receipt of something",
+    "example": "The supplier acknowledged receipt of our revised purchase order.",
+    "translation": "仕入先は当社の改訂発注書を受け取ったことを確認した。",
+    "level": 860
+  },
+  {
+    "word": "adhere to",
+    "pos": "phrasal verb",
+    "meaning": "従う、固守する",
+    "definition": "to follow a rule, agreement, or principle closely",
+    "example": "Staff must adhere to the company policy on data security.",
+    "translation": "職員はデータセキュリティに関する会社の方針を厳守しなければならない。",
+    "level": 860
+  },
+  {
+    "word": "aspire",
+    "pos": "verb",
+    "meaning": "熱望する、目指す",
+    "definition": "to strongly desire to achieve or become something",
+    "example": "Many young professionals aspire to lead international projects.",
+    "translation": "多くの若手専門職は国際的なプロジェクトを率いることを目指している。",
+    "level": 860
+  },
+  {
+    "word": "collaborate",
+    "pos": "verb",
+    "meaning": "協力する、共同で作業する",
+    "definition": "to work with another person or group to achieve a shared goal",
+    "example": "The design and engineering teams collaborated on the prototype.",
+    "translation": "設計チームと技術チームは試作品の開発で協力した。",
+    "level": 860
+  },
+  {
+    "word": "derive",
+    "pos": "verb",
+    "meaning": "得る、由来する",
+    "definition": "to obtain something from a source or develop from something else",
+    "example": "The company derives most of its revenue from online subscriptions.",
+    "translation": "その会社は収益の大半をオンライン購読から得ている。",
+    "level": 860
+  },
+  {
+    "word": "discard",
+    "pos": "verb",
+    "meaning": "捨てる、廃棄する",
+    "definition": "to throw away or reject something no longer wanted or useful",
+    "example": "Please discard any forms that contain outdated information.",
+    "translation": "古い情報が記載された用紙は廃棄してください。",
+    "level": 860
+  },
+  {
+    "word": "distinguish",
+    "pos": "verb",
+    "meaning": "区別する、見分ける",
+    "definition": "to recognize a difference between two or more things",
+    "example": "The label helps customers distinguish organic products from conventional ones.",
+    "translation": "その表示は顧客が有機製品と通常製品を区別するのに役立つ。",
+    "level": 860
+  },
+  {
+    "word": "evoke",
+    "pos": "verb",
+    "meaning": "呼び起こす、喚起する",
+    "definition": "to cause a feeling, memory, or response to come to mind",
+    "example": "The familiar logo evokes confidence among long-term customers.",
+    "translation": "その見慣れたロゴは長年の顧客に安心感を呼び起こす。",
+    "level": 860
+  },
+  {
+    "word": "extract",
+    "pos": "verb",
+    "meaning": "抽出する、取り出す",
+    "definition": "to remove or obtain something from a larger whole",
+    "example": "The analyst extracted the relevant figures from the quarterly report.",
+    "translation": "アナリストは四半期報告書から関連する数値を抽出した。",
+    "level": 860
+  },
+  {
+    "word": "surpass",
+    "pos": "verb",
+    "meaning": "上回る",
+    "definition": "to do or be better than someone or something else",
+    "example": "Sales this quarter surpassed the original forecast by ten percent.",
+    "translation": "今四半期の売上は当初の予測を10パーセント上回った。",
+    "level": 860
+  },
+  {
+    "word": "tolerate",
+    "pos": "verb",
+    "meaning": "容認する、耐える",
+    "definition": "to accept something unpleasant without opposing it",
+    "example": "The company will not tolerate harassment in the workplace.",
+    "translation": "その会社は職場での嫌がらせを容認しない。",
+    "level": 860
+  },
+  {
+    "word": "undergo",
+    "pos": "verb",
+    "meaning": "受ける、経験する",
+    "definition": "to experience a process, change, or treatment",
+    "example": "The bridge will undergo a complete safety inspection next month.",
+    "translation": "その橋は来月、全面的な安全点検を受ける。",
+    "level": 860
+  },
+  {
+    "word": "utilize",
+    "pos": "verb",
+    "meaning": "活用する",
+    "definition": "to use something effectively for a particular purpose",
+    "example": "The team utilized customer feedback to improve the mobile application.",
+    "translation": "チームは顧客からの意見を活用してモバイルアプリを改善した。",
+    "level": 860
+  },
+  {
+    "word": "warrant",
+    "pos": "verb",
+    "meaning": "正当化する、保証する",
+    "definition": "to make a particular action or decision reasonable or necessary",
+    "example": "The unexpected results warrant a closer review of the testing method.",
+    "translation": "予想外の結果は試験方法をさらに詳しく検討することを正当化する。",
+    "level": 860
+  },
+  {
+    "word": "withstand",
+    "pos": "verb",
+    "meaning": "耐える、持ちこたえる",
+    "definition": "to remain effective or undamaged despite pressure or difficult conditions",
+    "example": "The new material can withstand extreme temperatures.",
+    "translation": "新しい素材は極端な温度に耐えられる。",
+    "level": 860
+  },
+  {
+    "word": "withhold",
+    "pos": "verb",
+    "meaning": "差し控える、保留する",
+    "definition": "to refuse to give or provide something that is expected or requested",
+    "example": "The bank may withhold approval until the applicant submits the missing documents.",
+    "translation": "銀行は申請者が不足書類を提出するまで承認を保留する場合がある。",
+    "level": 860
+  },
+  {
+    "word": "adjunct",
+    "pos": "noun",
+    "meaning": "付属物、補助的なもの",
+    "definition": "something added to another thing but not essential to it",
+    "example": "The online course is offered as an adjunct to the company's in-person training.",
+    "translation": "そのオンライン講座は、会社の対面研修の補助として提供されている。",
+    "level": 860
+  },
+  {
+    "word": "assuage",
+    "pos": "verb",
+    "meaning": "和らげる、緩和する",
+    "definition": "to make an unpleasant feeling or situation less severe",
+    "example": "The manager held a meeting to assuage employees' concerns about the merger.",
+    "translation": "その管理職は合併に関する従業員の懸念を和らげるために会議を開いた。",
+    "level": 860
+  },
+  {
+    "word": "auspicious",
+    "pos": "adjective",
+    "meaning": "幸先のよい、縁起のよい",
+    "definition": "suggesting that a successful outcome is likely",
+    "example": "The strong first-quarter results were an auspicious start to the fiscal year.",
+    "translation": "第1四半期の好調な業績は、会計年度の幸先のよいスタートとなった。",
+    "level": 860
+  },
+  {
+    "word": "aversion",
+    "pos": "noun",
+    "meaning": "嫌悪、強い抵抗感",
+    "definition": "a strong feeling of dislike or unwillingness",
+    "example": "Her aversion to unnecessary risk made her a careful investor.",
+    "translation": "不必要なリスクへの嫌悪感から、彼女は慎重な投資家だった。",
+    "level": 860
+  },
+  {
+    "word": "beleaguered",
+    "pos": "adjective",
+    "meaning": "困難に悩まされている",
+    "definition": "experiencing persistent difficulties or criticism",
+    "example": "The beleaguered retailer closed several stores to reduce its losses.",
+    "translation": "困難に直面していたその小売業者は、損失を減らすために数店舗を閉鎖した。",
+    "level": 860
+  },
+  {
+    "word": "clandestine",
+    "pos": "adjective",
+    "meaning": "秘密の、内密の",
+    "definition": "kept secret, especially because it is illegal or disapproved of",
+    "example": "The auditors uncovered a clandestine agreement between two suppliers.",
+    "translation": "監査担当者は2社の供給業者の間にある秘密の合意を発見した。",
+    "level": 860
+  },
+  {
+    "word": "collusion",
+    "pos": "noun",
+    "meaning": "共謀、談合",
+    "definition": "secret cooperation for an illegal or dishonest purpose",
+    "example": "The regulator investigated the companies for possible collusion in setting prices.",
+    "translation": "規制当局は、価格設定で共謀した可能性についてその企業を調査した。",
+    "level": 860
+  },
+  {
+    "word": "deferential",
+    "pos": "adjective",
+    "meaning": "敬意を表す、恭しい",
+    "definition": "showing respectful submission to someone considered important",
+    "example": "The junior consultant was deferential but confidently presented her findings.",
+    "translation": "その若手コンサルタントは謙虚だったが、自信を持って調査結果を発表した。",
+    "level": 860
+  },
+  {
+    "word": "denounce",
+    "pos": "verb",
+    "meaning": "強く非難する、公然と糾弾する",
+    "definition": "to criticize someone or something publicly and strongly",
+    "example": "The union leader denounced the proposed changes to working conditions.",
+    "translation": "労働組合の指導者は、提案された労働条件の変更を強く非難した。",
+    "level": 860
+  },
+  {
+    "word": "detriment",
+    "pos": "noun",
+    "meaning": "損害、不利益",
+    "definition": "something that causes harm or reduces the value of something",
+    "example": "The rapid expansion came at the detriment of customer service.",
+    "translation": "急速な拡大は顧客サービスを犠牲にして進められた。",
+    "level": 860
+  },
+  {
+    "word": "dissuade",
+    "pos": "verb",
+    "meaning": "思いとどまらせる",
+    "definition": "to persuade someone not to do something",
+    "example": "The high maintenance costs dissuaded the company from buying the equipment.",
+    "translation": "高い維持費のため、その会社はその設備の購入を思いとどまった。",
+    "level": 860
+  },
+  {
+    "word": "emanate",
+    "pos": "verb",
+    "meaning": "発する、広がる",
+    "definition": "to come or spread out from a source",
+    "example": "A strong odor began to emanate from the storage room.",
+    "translation": "保管室から強い臭いが発生し始めた。",
+    "level": 860
+  },
+  {
+    "word": "eradicate",
+    "pos": "verb",
+    "meaning": "根絶する、撲滅する",
+    "definition": "to destroy or remove something completely",
+    "example": "The software update was designed to eradicate the security flaw.",
+    "translation": "そのソフトウェア更新はセキュリティ上の欠陥を完全に除去するよう設計された。",
+    "level": 860
+  },
+  {
+    "word": "evince",
+    "pos": "verb",
+    "meaning": "示す、表す",
+    "definition": "to show a feeling, quality, or sign clearly",
+    "example": "The candidate evinced considerable knowledge of international finance.",
+    "translation": "その候補者は国際金融についてかなりの知識を示した。",
+    "level": 860
+  },
+  {
+    "word": "exculpate",
+    "pos": "verb",
+    "meaning": "無罪にする、潔白を証明する",
+    "definition": "to show that someone is not responsible for wrongdoing",
+    "example": "The security footage exculpated the employee accused of taking the equipment.",
+    "translation": "防犯カメラの映像は、設備を持ち去ったと告発された従業員の潔白を証明した。",
+    "level": 860
+  },
+  {
+    "word": "fastidious",
+    "pos": "adjective",
+    "meaning": "細部に非常にこだわる、几帳面な",
+    "definition": "very careful about accuracy, cleanliness, or detail",
+    "example": "The fastidious editor checked every figure before publication.",
+    "translation": "その几帳面な編集者は、掲載前にすべての数値を確認した。",
+    "level": 860
+  },
+  {
+    "word": "flout",
+    "pos": "verb",
+    "meaning": "公然と無視する、軽視する",
+    "definition": "to deliberately disobey a rule or show that it is not important",
+    "example": "The contractor was fined for flouting the site's safety regulations.",
+    "translation": "その請負業者は現場の安全規則を無視したとして罰金を科された。",
+    "level": 860
+  },
+  {
+    "word": "forfeit",
+    "pos": "verb",
+    "meaning": "失う、没収される",
+    "definition": "to lose something as a penalty or because of a failure to meet a condition",
+    "example": "A bidder may forfeit the deposit if the contract is not signed on time.",
+    "translation": "入札者は期限内に契約に署名しなければ、保証金を失う可能性がある。",
+    "level": 860
+  },
+  {
+    "word": "fruition",
+    "pos": "noun",
+    "meaning": "実現、成就",
+    "definition": "the point at which a plan or effort produces the desired result",
+    "example": "Years of research finally brought the innovative design to fruition.",
+    "translation": "何年にもわたる研究が、ついに革新的な設計を実現させた。",
+    "level": 860
+  },
+  {
+    "word": "heed",
+    "pos": "verb",
+    "meaning": "注意を払う、心に留める",
+    "definition": "to pay careful attention to advice, a warning, or a request",
+    "example": "The company failed to heed repeated warnings about the outdated machinery.",
+    "translation": "その会社は古い機械についての度重なる警告に注意を払わなかった。",
+    "level": 860
+  },
+  {
+    "word": "impetus",
+    "pos": "noun",
+    "meaning": "弾み、推進力、刺激",
+    "definition": "something that encourages an action or makes a process happen faster",
+    "example": "The new environmental law gave impetus to the development of cleaner technology.",
+    "translation": "新しい環境法が、よりクリーンな技術の開発を促すきっかけとなった。",
+    "level": 860
+  },
+  {
+    "word": "inculcate",
+    "pos": "verb",
+    "meaning": "教え込む、植え付ける",
+    "definition": "to gradually instill an idea or habit through repetition",
+    "example": "The training program aims to inculcate a strong commitment to data security.",
+    "translation": "その研修プログラムは、データセキュリティへの強い意識を植え付けることを目指している。",
+    "level": 860
+  },
+  {
+    "word": "inexorable",
+    "pos": "adjective",
+    "meaning": "容赦のない、止められない",
+    "definition": "continuing in a determined way that cannot be stopped",
+    "example": "The inexorable rise in material costs forced the manufacturer to revise its prices.",
+    "translation": "材料費の容赦ない上昇により、その製造業者は価格を改定せざるを得なかった。",
+    "level": 860
+  },
+  {
+    "word": "infringe",
+    "pos": "verb",
+    "meaning": "侵害する、違反する",
+    "definition": "to limit or violate someone's rights, or break a law or agreement",
+    "example": "The patent dispute concerns whether the new device infringes existing rights.",
+    "translation": "その特許紛争は、新しい装置が既存の権利を侵害するかどうかに関するものだ。",
+    "level": 860
+  },
+  {
+    "word": "juxtapose",
+    "pos": "verb",
+    "meaning": "並べて比較する",
+    "definition": "to place two things together to emphasize their contrast",
+    "example": "The report juxtaposes the company's current results with those from five years ago.",
+    "translation": "その報告書は会社の現在の業績を5年前の業績と並べて比較している。",
+    "level": 860
+  },
+  {
+    "word": "marginalize",
+    "pos": "verb",
+    "meaning": "軽視する、社会の主流から締め出す",
+    "definition": "to treat a person or group as unimportant or less powerful",
+    "example": "The revised policy is intended to prevent small suppliers from being marginalized.",
+    "translation": "改訂された方針は、小規模な供給業者が軽視されるのを防ぐことを目的としている。",
+    "level": 860
+  },
+  {
+    "word": "moratorium",
+    "pos": "noun",
+    "meaning": "一時停止、猶予期間",
+    "definition": "an official temporary stop to an activity or process",
+    "example": "The city imposed a moratorium on new construction until the zoning review was complete.",
+    "translation": "市は用途地域の見直しが完了するまで新規建設を一時停止した。",
+    "level": 860
+  },
+  {
+    "word": "paramount",
+    "pos": "adjective",
+    "meaning": "最も重要な、主要な",
+    "definition": "more important than anything else",
+    "example": "Protecting customer information is of paramount importance to the bank.",
+    "translation": "顧客情報の保護は、その銀行にとって最も重要だ。",
+    "level": 860
+  },
+  {
+    "word": "pecuniary",
+    "pos": "adjective",
+    "meaning": "金銭上の、金銭に関する",
+    "definition": "relating to money or financial matters",
+    "example": "The court awarded pecuniary damages for the company's lost revenue.",
+    "translation": "裁判所はその会社の逸失収益に対する金銭的損害賠償を認めた。",
+    "level": 860
+  },
+  {
+    "word": "preclude",
+    "pos": "verb",
+    "meaning": "妨げる、起こらないようにする",
+    "definition": "to prevent something from happening or someone from doing something",
+    "example": "The short notice may preclude us from arranging additional staff.",
+    "translation": "通知が直前だったため、追加のスタッフを手配できない可能性がある。",
+    "level": 860
+  },
+  {
+    "word": "progeny",
+    "pos": "noun",
+    "meaning": "子孫、後継製品",
+    "definition": "a person's children or the later forms produced by something",
+    "example": "The latest model is the progeny of decades of engineering research.",
+    "translation": "最新モデルは何十年にもわたる工学研究の成果を受け継ぐ製品だ。",
+    "level": 860
+  },
+  {
+    "word": "promulgate",
+    "pos": "verb",
+    "meaning": "公布する、広める",
+    "definition": "to officially announce a rule or spread an idea widely",
+    "example": "The agency promulgated new guidelines for handling customer data.",
+    "translation": "その機関は顧客データの取り扱いに関する新しい指針を公布した。",
+    "level": 860
+  },
+  {
+    "word": "relinquish",
+    "pos": "verb",
+    "meaning": "放棄する、手放す",
+    "definition": "to give up control, possession, or a claim to something",
+    "example": "The founder agreed to relinquish control of the company after the acquisition.",
+    "translation": "創業者は買収後に会社の経営権を手放すことに同意した。",
+    "level": 860
+  },
+  {
+    "word": "reprieve",
+    "pos": "noun",
+    "meaning": "一時的な救済、延期",
+    "definition": "a temporary delay or relief from something difficult or unpleasant",
+    "example": "The extension gave the cash-strapped business a brief reprieve from its creditors.",
+    "translation": "その延長により、資金繰りに苦しむ企業は債権者から一時的に逃れることができた。",
+    "level": 860
+  },
+  {
+    "word": "revamp",
+    "pos": "verb",
+    "meaning": "刷新する、改修する",
+    "definition": "to improve or modernize something by making major changes",
+    "example": "The retailer plans to revamp its website before the holiday season.",
+    "translation": "その小売業者は年末商戦の前にウェブサイトを刷新する予定だ。",
+    "level": 860
+  },
+  {
+    "word": "thwart",
+    "pos": "verb",
+    "meaning": "妨げる、阻止する",
+    "definition": "to prevent someone from succeeding or achieving a goal",
+    "example": "An unexpected power failure thwarted the team's attempt to complete the installation.",
+    "translation": "予期せぬ停電が、チームの設置完了の試みを妨げた。",
+    "level": 860
+  },
+  {
+    "word": "transitory",
+    "pos": "adjective",
+    "meaning": "一時的な、つかの間の",
+    "definition": "lasting only for a short time",
+    "example": "The decline in demand is expected to be transitory rather than permanent.",
+    "translation": "需要の減少は恒久的ではなく一時的なものと予想されている。",
+    "level": 860
+  },
+  {
+    "word": "unwieldy",
+    "pos": "adjective",
+    "meaning": "扱いにくい、複雑で使いにくい",
+    "definition": "difficult to handle, use, or organize because of size or complexity",
+    "example": "The old approval process was too unwieldy for a rapidly growing company.",
+    "translation": "古い承認手続きは、急成長する会社には複雑すぎて扱いにくかった。",
+    "level": 860
+  },
+  {
+    "word": "vindicate",
+    "pos": "verb",
+    "meaning": "潔白を証明する、正当性を立証する",
+    "definition": "to prove that someone was right or not responsible for wrongdoing",
+    "example": "The independent review vindicated the engineer's original recommendation.",
+    "translation": "独立した審査により、その技術者の当初の提案が正しかったことが証明された。",
+    "level": 860
+  },
+  {
+    "word": "abeyance",
+    "pos": "noun",
+    "meaning": "保留、停止状態",
+    "definition": "a temporary state in which something is not being used or decided",
+    "example": "The expansion plan remains in abeyance while the board reviews its cost.",
+    "translation": "取締役会が費用を検討している間、拡張計画は保留されている。",
+    "level": 860
+  },
+  {
+    "word": "ascribe",
+    "pos": "verb",
+    "meaning": "～のせいにする、～に帰する",
+    "definition": "to say that something is caused by or belongs to a particular person or factor",
+    "example": "Analysts ascribed the increase in sales to the company's improved delivery service.",
+    "translation": "アナリストたちは売上増加を会社の配送サービスの改善によるものと考えた。",
+    "level": 860
+  },
+  {
+    "word": "astute",
+    "pos": "adjective",
+    "meaning": "機敏な、洞察力のある",
+    "definition": "clever at judging situations and making practical decisions",
+    "example": "Her astute negotiation secured better payment terms for the supplier.",
+    "translation": "彼女の鋭い交渉により、その供給業者はより有利な支払条件を獲得した。",
+    "level": 860
+  },
+  {
+    "word": "augment",
+    "pos": "verb",
+    "meaning": "増強する、拡大する",
+    "definition": "to increase the size, value, or effectiveness of something",
+    "example": "The company hired temporary workers to augment its customer-support team.",
+    "translation": "その会社は顧客サポートチームを増強するために臨時従業員を雇った。",
+    "level": 860
+  },
+  {
+    "word": "condescending",
+    "pos": "adjective",
+    "meaning": "見下した、恩着せがましい",
+    "definition": "showing an insulting belief that one is superior to others",
+    "example": "The salesperson's condescending tone discouraged the customer from asking questions.",
+    "translation": "その販売員の見下した口調のため、顧客は質問をする気をなくした。",
+    "level": 860
+  },
+  {
+    "word": "cursory",
+    "pos": "adjective",
+    "meaning": "大急ぎの、表面的な",
+    "definition": "done quickly and without giving enough attention to detail",
+    "example": "A cursory review failed to reveal the error in the financial statement.",
+    "translation": "表面的な確認では財務諸表の誤りを発見できなかった。",
+    "level": 860
+  },
+  {
+    "word": "disconcerting",
+    "pos": "adjective",
+    "meaning": "当惑させる、不安にさせる",
+    "definition": "causing someone to feel confused, worried, or unsettled",
+    "example": "The sudden resignation of the director was disconcerting to the entire department.",
+    "translation": "部長の突然の辞任は部署全体を不安にさせた。",
+    "level": 860
+  },
+  {
+    "word": "extrapolate",
+    "pos": "verb",
+    "meaning": "推定する、外挿する",
+    "definition": "to estimate an unknown result by using known information",
+    "example": "Researchers extrapolated future demand from the survey responses.",
+    "translation": "研究者たちは調査回答から将来の需要を推定した。",
+    "level": 860
+  },
+  {
+    "word": "formidable",
+    "pos": "adjective",
+    "meaning": "手ごわい、非常に優れた",
+    "definition": "very difficult to deal with or highly impressive in ability",
+    "example": "The new competitor has become a formidable force in the regional market.",
+    "translation": "新しい競合企業は地域市場で手ごわい存在になった。",
+    "level": 860
+  },
+  {
+    "word": "discerning",
+    "pos": "adjective",
+    "meaning": "見識のある、洞察力のある",
+    "definition": "showing good judgment about quality or differences",
+    "example": "The discerning buyer compared the warranty terms before choosing a supplier.",
+    "translation": "見識のある購入者は、供給業者を選ぶ前に保証条件を比較した。",
+    "level": 860
+  },
+  {
+    "word": "tenable",
+    "pos": "adjective",
+    "meaning": "維持できる、妥当な",
+    "definition": "reasonable or able to be defended successfully",
+    "example": "The consultant presented a tenable explanation for the unexpected decline in sales.",
+    "translation": "そのコンサルタントは予想外の売上減少について妥当な説明を示した。",
+    "level": 860
+  }
+]
