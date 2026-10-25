@@ -13,6 +13,39 @@ function StatCard({ label, value, unit, caption, icon, tone }) {
   return <article className="stat-card"><div className="stat-top"><span>{label}</span><span className={`stat-icon ${tone}`}>{icon}</span></div><div className="stat-value"><strong>{value}</strong><span>{unit}</span></div><p>{caption}</p></article>;
 }
 
+function dateKey(date = new Date()) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+function HistoryPanel({ history = {} }) {
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const periodStart = new Date(today);
+  periodStart.setMonth(today.getMonth() - 6);
+  const firstDay = new Date(periodStart);
+  firstDay.setDate(periodStart.getDate() - periodStart.getDay());
+  const totalDays = Math.floor((today - firstDay) / 86400000) + 1;
+  const days = Array.from({ length: totalDays }, (_, index) => {
+    const day = new Date(firstDay);
+    day.setDate(firstDay.getDate() + index);
+    return day;
+  });
+  const periodKeys = days.map(dateKey);
+  const totalAnswers = periodKeys.reduce((total, key) => total + (history[key]?.answered || 0), 0);
+  const totalMinutes = periodKeys.reduce((total, key) => total + (history[key]?.minutes || 0), 0);
+  const maxAnswers = Math.max(1, ...periodKeys.map(key => history[key]?.answered || 0));
+
+  return <article className="panel history-panel" id="history">
+    <div className="panel-heading"><div><p className="eyebrow">LEARNING HISTORY</p><h2>過去6か月の学習履歴</h2></div><span className="history-period">回答数と学習時間</span></div>
+    <div className="history-summary"><div><strong>{totalAnswers}</strong><span>回答</span></div><div><strong>{totalMinutes}</strong><span>分</span></div></div>
+    <div className="history-calendar-wrap"><div className="history-weekdays" aria-hidden="true"><span>日</span><span>月</span><span>火</span><span>水</span><span>木</span><span>金</span><span>土</span></div><div className="history-grid">{days.map(day => { const key = dateKey(day); const record = history[key]; const answers = record?.answered || 0; const level = answers === 0 ? 0 : Math.min(4, Math.ceil(answers / maxAnswers * 4)); const isFuture = day > today; return <span className={`history-cell history-level-${level} ${isFuture ? 'is-future' : ''}`} key={key} title={isFuture ? '' : `${key}: ${answers}問 / ${record?.minutes || 0}分`} aria-label={isFuture ? undefined : `${key}、${answers}問回答、${record?.minutes || 0}分`} />; })}</div></div>
+    <div className="history-legend"><span>少ない</span><i className="history-cell history-level-0" /><i className="history-cell history-level-1" /><i className="history-cell history-level-2" /><i className="history-cell history-level-3" /><i className="history-cell history-level-4" /><span>多い</span></div>
+  </article>;
+}
+
 function shuffle(items) {
   const result = [...items];
   for (let index = result.length - 1; index > 0; index -= 1) {
@@ -82,6 +115,7 @@ function App() {
   const [state, setState] = useState(loadState);
   const [activeNav, setActiveNav] = useState('home');
   const [session, setSession] = useState(null);
+  const [sessionStartedAt, setSessionStartedAt] = useState(null);
   const [answers, setAnswers] = useState({});
   const [choiceSets, setChoiceSets] = useState({});
   const [expandedQuestions, setExpandedQuestions] = useState({});
@@ -113,6 +147,7 @@ function App() {
     const questions = shuffle(pool).slice(0, 10);
     if (!questions.length) return;
     setSession(questions);
+    setSessionStartedAt(Date.now());
     setAnswers({});
     setChoiceSets(Object.fromEntries(questions.map((item, index) => [index, choicesFor(item)])));
     setExpandedQuestions({});
@@ -146,13 +181,44 @@ function App() {
       ...current,
       learned: [...new Set([...current.learned, item.word])],
       mastered: current.mastered.filter(word => word !== item.word),
+      reviews: { ...current.reviews, [item.word]: new Date(Date.now() + 24 * 60 * 60 * 1000).toISOString() },
+    }));
+  }
+
+  function markAsMastered(item) {
+    update(current => ({
+      ...current,
+      learned: [...new Set([...current.learned, item.word])],
+      mastered: [...new Set([...current.mastered, item.word])],
+      reviews: { ...current.reviews, [item.word]: new Date(Date.now() + 24 * 60 * 60 * 1000).toISOString() },
+    }));
+  }
+
+  function markAsReview(item) {
+    update(current => ({
+      ...current,
+      learned: [...new Set([...current.learned, item.word])],
+      mastered: current.mastered.filter(word => word !== item.word),
       reviews: { ...current.reviews, [item.word]: new Date().toISOString() },
     }));
   }
 
   function finishSession() {
     if (!session || Object.keys(answers).length < session.length) return;
-    update(current => ({ ...current, weekMinutes: current.weekMinutes + 5, lastSession: new Date().toDateString() }));
+    const elapsedMinutes = Math.min(5, Math.max(1, Math.round((Date.now() - (sessionStartedAt || Date.now())) / 60000)));
+    const todayKey = dateKey();
+    update(current => ({
+      ...current,
+      weekMinutes: current.weekMinutes + elapsedMinutes,
+      lastSession: new Date().toDateString(),
+      history: {
+        ...current.history,
+        [todayKey]: {
+          answered: (current.history?.[todayKey]?.answered || 0) + session.length,
+          minutes: (current.history?.[todayKey]?.minutes || 0) + elapsedMinutes,
+        },
+      },
+    }));
     playCompleteSound();
     setComplete(true);
   }
@@ -188,14 +254,14 @@ function App() {
         <StatCard label="今週の学習" value={state.weekMinutes} unit="分" caption="毎日の積み重ねが目標" icon="◷" tone="blue" />
       </section>
       <section className="content-grid">
-        <article className="panel session-panel" id="study"><button className="primary-button" onClick={startSession}>学習をはじめる <span>→</span></button></article>
+        <button className="primary-button session-start-button" onClick={startSession}>学習をはじめる <span>→</span></button>
         <article className="panel progress-panel" id="progress"><div className="panel-heading"><div><p className="eyebrow">YOUR JOURNEY</p><h2>レベル別の進捗</h2></div><button className="text-link text-button" onClick={() => { setProgressDetailLevel(null); setShowProgressDetail(true); }}>詳細 <span>→</span></button></div><div className="level-list">{levels.map(level => { const words = vocabulary.filter(item => item.level <= level); const count = words.filter(item => state.mastered.includes(item.word)).length; const percent = words.length ? Math.round(count / words.length * 100) : 0; return <div className="level-row progress-level-button" key={level} role="button" tabIndex="0" onClick={() => { setProgressDetailLevel(level); setShowProgressDetail(true); }} onKeyDown={event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); setProgressDetailLevel(level); setShowProgressDetail(true); } }}><span className="level-label">{level}点</span><div className="level-track"><div className={`level-fill ${level === Number(state.level) ? 'selected' : ''}`} style={{ width: `${percent}%` }} /></div><span className="level-percent">{percent}%</span></div>; })}</div><p className="disclaimer">スコア帯は学習の目安です。TOEIC公式の必須語彙リストではありません。</p></article>
       </section>
-
+      <HistoryPanel history={state.history} />
 
     </main>
     {showProgressDetail && <div className="modal-backdrop" role="presentation" onMouseDown={event => { if (event.target === event.currentTarget) setShowProgressDetail(false); }}><section className="progress-detail-dialog" role="dialog" aria-modal="true" aria-label="レベル別の学習進捗"><div className="dialog-top"><div><p className="eyebrow">VOCABULARY PROGRESS</p><h2>{progressDetailLevel ? `${progressDetailLevel}点の単語一覧` : 'レベル別の単語一覧'}</h2></div><button className="icon-button" onClick={() => { setShowProgressDetail(false); setProgressDetailLevel(null); }} aria-label="閉じる">×</button></div><div className="progress-legend"><span><i className="status-dot status-unlearned" />未学習</span><span><i className="status-dot status-learning" />学習中</span><span><i className="status-dot status-mastered" />習得</span><span><i className="status-dot status-review" />復習対象</span></div><div className="progress-detail-list">{(progressDetailLevel ? [progressDetailLevel] : levels).map(level => { const levelWords = vocabulary.filter(item => item.level === level); return <section className="progress-detail-level" key={level}><div className="progress-detail-heading"><h3>{level}点</h3><span>{levelWords.filter(item => state.mastered.includes(item.word)).length} / {levelWords.length} 習得</span></div><div className="vocabulary-status-grid">{levelWords.map(item => { const isMastered = state.mastered.includes(item.word); const isDue = !state.reviews[item.word] || new Date(state.reviews[item.word]).getTime() <= Date.now(); const isLearned = state.learned.includes(item.word); const status = isMastered ? 'status-mastered' : isDue && isLearned ? 'status-review' : isLearned ? 'status-learning' : 'status-unlearned'; return <button type="button" className={`vocabulary-status-item ${status} ${revealedWords[item.word] ? 'is-revealed' : ''} ${(revealedWords[item.word] ? item.meaning : item.word).length > 14 ? 'is-long' : ''} ${(revealedWords[item.word] ? item.meaning : item.word).length > 22 ? 'is-extra-long' : ''}`} key={item.word} onClick={() => { const isRevealed = revealedWords[item.word]; setRevealedWords(current => ({ ...current, [item.word]: !current[item.word] })); if (isRevealed) window.speechSynthesis?.cancel(); else speakEnglish(item.word); }} aria-label={`${item.word}の意味を${revealedWords[item.word] ? '英語に戻す' : '表示する'}`}><strong>{revealedWords[item.word] ? item.meaning : item.word}</strong></button>; })}</div></section>; })}</div></section></div>}
-    {session && <div className="modal-backdrop" role="presentation" onMouseDown={event => { if (event.target === event.currentTarget) setSession(null); }}><section className="study-dialog study-dialog-scroll" role="dialog" aria-modal="true" aria-label="10問の語彙クイズ"><div className="dialog-top quiz-sticky-header"><div><span className="pill">{state.level} POINT</span><strong className="quiz-count">{answeredCount} / {session.length} 回答済み</strong></div><button className="icon-button" onClick={() => setSession(null)} aria-label="閉じる">×</button></div><div className="quiz-progress"><span style={{ width: `${answeredCount / session.length * 100}%` }} /></div>{complete ? <div className="quiz-result"><p className="eyebrow">SESSION COMPLETE</p><h3>今日の学習、おつかれさま！</h3><div className="result-score">{Math.round(correctCount / session.length * 100)}<small>%</small></div><p>{session.length}問中 {correctCount}問正解<br />{correctCount === session.length ? 'すばらしい！この調子で続けましょう。' : '間違えた語は復習リストに追加しました。'}</p><button className="primary-button" onClick={() => setSession(null)}>ホームに戻る <span>→</span></button></div> : <div className="question-list">{session.map((item, index) => { const answer = answers[index]; const choices = choiceSets[index] || choicesFor(item); const isExpanded = Boolean(expandedQuestions[index] || answer); return <article className={`question-card ${answer ? 'is-answered' : ''}`} key={item.word}><p className="quiz-type">{index + 1} / {session.length} · 英語から日本語</p><button type="button" className="question-word-toggle" onClick={() => toggleQuestion(index, item)} aria-expanded={isExpanded}><h2 className="quiz-prompt">{item.word}</h2><span aria-hidden="true">{isExpanded ? '⌃' : '⌄'}</span></button>{isExpanded ? <><p className="quiz-hint">意味として最も近いものを選んでください</p><div className="answer-list">{choices.map(choice => <button key={choice} className={`answer-option ${answer && choice === answer.correct ? 'correct' : ''} ${answer && choice === answer.choice && !answer.isCorrect ? 'incorrect' : ''}`} disabled={Boolean(answer)} onClick={() => submitAnswer(index, choice)}>{choice}</button>)}</div>{answer && <><div className="quiz-feedback"><strong>{answer.isCorrect ? '正解です！' : `正解：${answer.correct}`}</strong><br />{item.definition}<br /><br /><button type="button" className="sentence-speak-button" onClick={() => speakEnglish(item.example)} aria-label="例文を読み上げる"><em>{item.example}</em><span aria-hidden="true">🔊</span></button><br />{item.translation}</div><button type="button" className="secondary-button" onClick={() => markAsLearning(item)}>学習中にする</button></>}</> : null}</article>; })}<button className="primary-button finish-button" disabled={answeredCount < session.length} onClick={finishSession}>{answeredCount < session.length ? `あと${session.length - answeredCount}問回答してください` : '結果を見る'} <span>→</span></button></div>}</section></div>}
+    {session && <div className="modal-backdrop" role="presentation" onMouseDown={event => { if (event.target === event.currentTarget) setSession(null); }}><section className="study-dialog study-dialog-scroll" role="dialog" aria-modal="true" aria-label="10問の語彙クイズ"><div className="dialog-top quiz-sticky-header"><div><span className="pill">{state.level} POINT</span><strong className="quiz-count">{answeredCount} / {session.length} 回答済み</strong></div><button className="icon-button" onClick={() => setSession(null)} aria-label="閉じる">×</button></div><div className="quiz-progress"><span style={{ width: `${answeredCount / session.length * 100}%` }} /></div>{complete ? <div className="quiz-result"><p className="eyebrow">SESSION COMPLETE</p><h3>今日の学習、おつかれさま！</h3><div className="result-score">{Math.round(correctCount / session.length * 100)}<small>%</small></div><p>{session.length}問中 {correctCount}問正解<br />{correctCount === session.length ? 'すばらしい！この調子で続けましょう。' : '間違えた語は復習リストに追加しました。'}</p><button className="primary-button" onClick={() => setSession(null)}>ホームに戻る <span>→</span></button></div> : <div className="question-list">{session.map((item, index) => { const answer = answers[index]; const choices = choiceSets[index] || choicesFor(item); const isExpanded = Boolean(expandedQuestions[index] || answer); const isMastered = state.mastered.includes(item.word); const isReviewDue = state.learned.includes(item.word) && !isMastered && (!state.reviews[item.word] || new Date(state.reviews[item.word]).getTime() <= Date.now()); return <article className={`question-card ${answer ? 'is-answered' : ''}`} key={item.word}><p className="quiz-type">{index + 1} / {session.length} · 英語から日本語</p><button type="button" className="question-word-toggle" onClick={() => toggleQuestion(index, item)} aria-expanded={isExpanded}><h2 className="quiz-prompt">{item.word}</h2><span aria-hidden="true">{isExpanded ? '⌃' : '⌄'}</span></button>{isExpanded ? <><p className="quiz-hint">意味として最も近いものを選んでください</p><div className="answer-list">{choices.map(choice => <button key={choice} className={`answer-option ${answer && choice === answer.correct ? 'correct' : ''} ${answer && choice === answer.choice && !answer.isCorrect ? 'incorrect' : ''}`} disabled={Boolean(answer)} onClick={() => submitAnswer(index, choice)}>{choice}</button>)}</div>{answer && <><div className="quiz-feedback">{!answer.isCorrect && <strong>正解：{answer.correct}</strong>}<span className="quiz-definition">{item.definition}</span><button type="button" className="sentence-speak-button" onClick={() => speakEnglish(item.example)} aria-label="例文を読み上げる"><em>{item.example}</em><span aria-hidden="true">🔊</span></button><span className="quiz-translation">{item.translation}</span></div><button type="button" className={`secondary-button ${answer.isCorrect && isReviewDue ? 'is-review' : !answer.isCorrect && isMastered ? 'is-mastered' : ''}`} disabled={answer.isCorrect ? isReviewDue : isMastered} onClick={() => (answer.isCorrect ? markAsReview(item) : markAsMastered(item))}>{answer.isCorrect ? isReviewDue ? '復習対象' : '復習対象にする' : isMastered ? '学習済み' : '学習済みにする'}</button></>}</> : null}</article>; })}<button className="primary-button finish-button" disabled={answeredCount < session.length} onClick={finishSession}>{answeredCount < session.length ? `あと${session.length - answeredCount}問回答してください` : '結果を見る'} <span>→</span></button></div>}</section></div>}
   </div>;
 }
 

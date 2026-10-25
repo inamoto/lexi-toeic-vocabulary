@@ -11,4 +11,4 @@ vocabulary.push(...vocabulary600, ...vocabulary730, ...vocabulary860, ...vocabul
 
 export const levels = [600, 730, 860, 990];
 export const storageKey = 'lexi-toeic-v1';
-export const freshState = () => ({ level: 600, learned: [], mastered: [], favorites: [], wrong: [], reviews: {}, weekMinutes: 0, lastSession: null });
+export const freshState = () => ({ level: 600, learned: [], mastered: [], favorites: [], wrong: [], reviews: {}, weekMinutes: 0, lastSession: null, history: {} });
