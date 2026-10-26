@@ -1,5 +1,8 @@
 import { useEffect, useMemo, useState } from 'react';
 import { freshState, levels, storageKey, vocabulary } from './vocabulary.js';
+import { supabase } from './lib/supabase.js';
+import AuthForm from './components/AuthForm.jsx';
+import { saveLearningData, syncLearningData } from './lib/learningSync.js';
 
 function loadState() {
   try {
@@ -113,6 +116,9 @@ function isQuizEligible(item) {
 
 function App() {
   const [state, setState] = useState(loadState);
+  const [authSession, setAuthSession] = useState(null);
+  const [authLoading, setAuthLoading] = useState(true);
+  const [showAuth, setShowAuth] = useState(false);
   const [activeNav, setActiveNav] = useState('home');
   const [session, setSession] = useState(null);
   const [sessionStartedAt, setSessionStartedAt] = useState(null);
@@ -128,6 +134,34 @@ function App() {
   const due = available.filter(item => !state.reviews[item.word] || new Date(state.reviews[item.word]).getTime() <= Date.now());
 
   useEffect(() => {
+    supabase.auth.getSession().then(({ data }) => {
+      setAuthSession(data.session);
+      setAuthLoading(false);
+    });
+
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, nextSession) => {
+      setAuthSession(nextSession);
+      setAuthLoading(false);
+    });
+
+    return () => subscription.unsubscribe();
+  }, []);
+
+  useEffect(() => {
+    if (!authSession) return undefined;
+    setShowAuth(false);
+    let active = true;
+    syncLearningData(authSession.user.id, state)
+      .then(mergedState => {
+        if (!active) return;
+        setState(mergedState);
+        localStorage.setItem(storageKey, JSON.stringify(mergedState));
+      })
+      .catch(error => console.error('学習データの同期に失敗しました:', error));
+    return () => { active = false; };
+  }, [authSession]);
+
+  useEffect(() => {
     if (session) warmUpSpeechSynthesis();
   }, [session]);
 
@@ -138,6 +172,10 @@ function App() {
   const update = updater => setState(current => {
     const next = updater(current);
     localStorage.setItem(storageKey, JSON.stringify(next));
+    if (authSession) {
+      saveLearningData(authSession.user.id, next)
+        .catch(error => console.error('学習データの保存に失敗しました:', error));
+    }
     return next;
   });
 
@@ -235,6 +273,8 @@ function App() {
   const answeredCount = Object.keys(answers).length;
   const correctCount = Object.values(answers).filter(answer => answer.isCorrect).length;
 
+  if (authLoading) return <main className="auth-shell"><p className="auth-loading">読み込み中...</p></main>;
+
   return <div className="app-shell">
     <aside className="sidebar">
       <a className="brand" href="#home" aria-label="Lexi ホーム"><span className="brand-mark">L</span><span>lexi<span className="brand-dot">.</span></span></a>
@@ -245,7 +285,7 @@ function App() {
       <div className="sidebar-bottom"><div className="streak-icon">✳</div><div><strong>{state.lastSession === new Date().toDateString() ? '今日の学習完了' : '学習を始めよう'}</strong><small>毎日の小さな積み重ね</small></div></div>
     </aside>
     <main className="main-content">
-      <header className="topbar"><div className="profile"><span className="avatar">学</span><span>学習者</span></div></header>
+      <header className="topbar">{authSession ? <div className="profile"><span className="avatar">学</span><span className="profile-email">{authSession.user.email}</span><button className="logout-button" type="button" onClick={() => supabase.auth.signOut()}>ログアウト</button></div> : <button className="login-button" type="button" onClick={() => setShowAuth(true)}>ログイン / 登録</button>}</header>
       <section className="level-selection-panel" id="home"><div><p className="eyebrow">LEARNING LEVEL</p><h1>目標スコアを選択</h1><p>選択したレベルの問題が出題されます。</p></div><label htmlFor="level-select">目標スコア<select id="level-select" value={state.level} onChange={event => update(current => ({ ...current, level: Number(event.target.value) }))}>{levels.map(level => <option key={level} value={level}>{level}点</option>)}</select></label></section>
       <section className="stats-grid" aria-label="学習状況">
         <StatCard label="今日の復習" value={due.length} unit="語" caption="忘れる前に、もう一度" icon="↻" tone="peach" />
@@ -262,6 +302,7 @@ function App() {
     </main>
     {showProgressDetail && <div className="modal-backdrop" role="presentation" onMouseDown={event => { if (event.target === event.currentTarget) setShowProgressDetail(false); }}><section className="progress-detail-dialog" role="dialog" aria-modal="true" aria-label="レベル別の学習進捗"><div className="dialog-top"><div><p className="eyebrow">VOCABULARY PROGRESS</p><h2>{progressDetailLevel ? `${progressDetailLevel}点の単語一覧` : 'レベル別の単語一覧'}</h2></div><button className="icon-button" onClick={() => { setShowProgressDetail(false); setProgressDetailLevel(null); }} aria-label="閉じる">×</button></div><div className="progress-legend"><span><i className="status-dot status-unlearned" />未学習</span><span><i className="status-dot status-learning" />学習中</span><span><i className="status-dot status-mastered" />習得</span><span><i className="status-dot status-review" />復習対象</span></div><div className="progress-detail-list">{(progressDetailLevel ? [progressDetailLevel] : levels).map(level => { const levelWords = vocabulary.filter(item => item.level === level); return <section className="progress-detail-level" key={level}><div className="progress-detail-heading"><h3>{level}点</h3><span>{levelWords.filter(item => state.mastered.includes(item.word)).length} / {levelWords.length} 習得</span></div><div className="vocabulary-status-grid">{levelWords.map(item => { const isMastered = state.mastered.includes(item.word); const isDue = !state.reviews[item.word] || new Date(state.reviews[item.word]).getTime() <= Date.now(); const isLearned = state.learned.includes(item.word); const status = isMastered ? 'status-mastered' : isDue && isLearned ? 'status-review' : isLearned ? 'status-learning' : 'status-unlearned'; return <button type="button" className={`vocabulary-status-item ${status} ${revealedWords[item.word] ? 'is-revealed' : ''} ${(revealedWords[item.word] ? item.meaning : item.word).length > 14 ? 'is-long' : ''} ${(revealedWords[item.word] ? item.meaning : item.word).length > 22 ? 'is-extra-long' : ''}`} key={item.word} onClick={() => { const isRevealed = revealedWords[item.word]; setRevealedWords(current => ({ ...current, [item.word]: !current[item.word] })); if (isRevealed) window.speechSynthesis?.cancel(); else speakEnglish(item.word); }} aria-label={`${item.word}の意味を${revealedWords[item.word] ? '英語に戻す' : '表示する'}`}><strong>{revealedWords[item.word] ? item.meaning : item.word}</strong></button>; })}</div></section>; })}</div></section></div>}
     {session && <div className="modal-backdrop" role="presentation" onMouseDown={event => { if (event.target === event.currentTarget) setSession(null); }}><section className="study-dialog study-dialog-scroll" role="dialog" aria-modal="true" aria-label="10問の語彙クイズ"><div className="dialog-top quiz-sticky-header"><div><span className="pill">{state.level} POINT</span><strong className="quiz-count">{answeredCount} / {session.length} 回答済み</strong></div><button className="icon-button" onClick={() => setSession(null)} aria-label="閉じる">×</button></div><div className="quiz-progress"><span style={{ width: `${answeredCount / session.length * 100}%` }} /></div>{complete ? <div className="quiz-result"><p className="eyebrow">SESSION COMPLETE</p><h3>今日の学習、おつかれさま！</h3><div className="result-score">{Math.round(correctCount / session.length * 100)}<small>%</small></div><p>{session.length}問中 {correctCount}問正解<br />{correctCount === session.length ? 'すばらしい！この調子で続けましょう。' : '間違えた語は復習リストに追加しました。'}</p><button className="primary-button" onClick={() => setSession(null)}>ホームに戻る <span>→</span></button></div> : <div className="question-list">{session.map((item, index) => { const answer = answers[index]; const choices = choiceSets[index] || choicesFor(item); const isExpanded = Boolean(expandedQuestions[index] || answer); const isMastered = state.mastered.includes(item.word); const isReviewDue = state.learned.includes(item.word) && !isMastered && (!state.reviews[item.word] || new Date(state.reviews[item.word]).getTime() <= Date.now()); return <article className={`question-card ${answer ? 'is-answered' : ''}`} key={item.word}><p className="quiz-type">{index + 1} / {session.length} · 英語から日本語</p><button type="button" className="question-word-toggle" onClick={() => toggleQuestion(index, item)} aria-expanded={isExpanded}><h2 className="quiz-prompt">{item.word}</h2><span aria-hidden="true">{isExpanded ? '⌃' : '⌄'}</span></button>{isExpanded ? <><p className="quiz-hint">意味として最も近いものを選んでください</p><div className="answer-list">{choices.map(choice => <button key={choice} className={`answer-option ${answer && choice === answer.correct ? 'correct' : ''} ${answer && choice === answer.choice && !answer.isCorrect ? 'incorrect' : ''}`} disabled={Boolean(answer)} onClick={() => submitAnswer(index, choice)}>{choice}</button>)}</div>{answer && <><div className="quiz-feedback">{!answer.isCorrect && <strong>正解：{answer.correct}</strong>}<span className="quiz-definition">{item.definition}</span><button type="button" className="sentence-speak-button" onClick={() => speakEnglish(item.example)} aria-label="例文を読み上げる"><em>{item.example}</em><span aria-hidden="true">🔊</span></button><span className="quiz-translation">{item.translation}</span></div><button type="button" className={`secondary-button ${answer.isCorrect && isReviewDue ? 'is-review' : !answer.isCorrect && isMastered ? 'is-mastered' : ''}`} disabled={answer.isCorrect ? isReviewDue : isMastered} onClick={() => (answer.isCorrect ? markAsReview(item) : markAsMastered(item))}>{answer.isCorrect ? isReviewDue ? '復習対象' : '復習対象にする' : isMastered ? '学習済み' : '学習済みにする'}</button></>}</> : null}</article>; })}<button className="primary-button finish-button" disabled={answeredCount < session.length} onClick={finishSession}>{answeredCount < session.length ? `あと${session.length - answeredCount}問回答してください` : '結果を見る'} <span>→</span></button></div>}</section></div>}
+    {showAuth && <div className="auth-modal" role="dialog" aria-modal="true" aria-label="ログイン"><AuthForm onClose={() => setShowAuth(false)} /></div>}
   </div>;
 }
 
